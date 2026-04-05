@@ -1,0 +1,502 @@
+[
+  {
+    "id": "R-A",
+    "team": "red",
+    "date": "Mar 2003 → 2005–2010",
+    "actor": "USA — UNINTENDED CONSEQUENCE",
+    "title": "US INVADES IRAQ — IRAN GETS IRAQ, SOLEIMANI BUILDS THE NETWORK",
+    "desc": "The US removes Saddam Hussein — Iran's only regional military rival. It replaces a Sunni-dominated hostile government with a Shia-dominated friendly one. Iran gets Iraq handed to it without firing a shot at the US. Soleimani immediately deploys into the power vacuum, cultivating Shia militias, polit",
+    "impact": "⚰ THE ORIGINAL SIN — IRAN INHERITS IRAQ",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "R-B",
+    "team": "red",
+    "date": "Sep 2008 → 2009–2013",
+    "actor": "GLOBAL FINANCIAL CRISIS → CHINA RESPONDS WITH INFRASTRUCTURE",
+    "title": "2008 CRASH — THE WEST PRINTS MONEY, CHINA BUILDS ROADS",
+    "desc": "The 2008 financial crisis is the economic origin of the BRI and everything it triggers. The West responds with quantitative easing. China responds with a $600 billion stimulus package — building railways, bridges, airports — and saturates its domestic market. The solution: export the surplus constru",
+    "impact": "🏗 BRI IS BORN — WEST LOSES INFRASTRUCTURE RACE",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "R-C",
+    "team": "blue",
+    "date": "2011–2012",
+    "actor": "USA — OBAMA \"PIVOT TO ASIA\"",
+    "title": "US PIVOT TO ASIA — MIDDLE EAST TOLD IT'S ON ITS OWN",
+    "desc": "Obama publicly announces the US is de-prioritizing the Middle East to confront China in the Pacific. The Gulf states immediately conclude the American security umbrella has a hole. Saudi Arabia, UAE, Qatar, Kuwait — all begin deepening ties with China through 2012–2015 as strategic insurance. When I",
+    "impact": "🔄 GULF STATES FORCED TO HEDGE WITH CHINA",
+    "side": "BUILDER"
+  },
+  {
+    "id": "D-A",
+    "team": "red",
+    "date": "Dec 2010 – 2012",
+    "actor": "IRAN · SAUDI ARABIA (proxy war for vacuums)",
+    "title": "ARAB SPRING — THE CORRIDOR GEOGRAPHY COLLAPSES",
+    "desc": "Protests sweep Tunisia, Egypt, Libya, Yemen, Syria, Bahrain. Dictators fall. Every stable state along the future IMEC corridor route — Egypt (controls Suez), Libya (Mediterranean access), Yemen (Bab al-Mandab), Syria (Levant overland route) — becomes a failed state or civil war. Iran and Saudi Arabi",
+    "impact": "💥 CORRIDOR GEOGRAPHY DESTROYED",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "D-B",
+    "team": "red",
+    "date": "Dec 2011 → Jun 2014",
+    "actor": "USA WITHDRAWS · ISIS FILLS VACUUM",
+    "title": "US EXITS IRAQ — ISIS DECLARES CALIPHATE ON THE CORRIDOR",
+    "desc": "Obama withdraws all US forces from Iraq in December 2011. Maliki's sectarian governance alienates Sunnis. ISIS grows in the ungoverned Iraq-Syria border zone — the exact territory the future IMEC overland route must cross. On June 29, 2014, ISIS declares a caliphate from Aleppo to Diyala. Their expl",
+    "impact": "🗺 CORRIDOR LAND ROUTE PHYSICALLY SEIZED",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "D-C",
+    "team": "red",
+    "date": "2014–2015",
+    "actor": "HOUTHIS · IRAN",
+    "title": "HOUTHIS SEIZE YEMEN — BAB AL-MANDAB FALLS TO IRAN'S PROXY",
+    "desc": "Iran-backed Houthis sweep through Yemen, seizing the capital Sana'a in September 2014, forcing the government to flee. By 2015, they control the territory overlooking the Bab al-Mandab Strait — the southern chokepoint connecting the Red Sea to the Indian Ocean. Saudi Arabia launches its military int",
+    "impact": "⚓ BAB AL-MANDAB FALLS TO BLOCKER TEAM",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "D-D",
+    "team": "red",
+    "date": "2015 / 2017",
+    "actor": "CHINA — SILENT ACQUISITION",
+    "title": "CHINA BUYS HAIFA PORT + OPENS DJIBOUTI BASE — WHILE WEST FIGHTS ISIS",
+    "desc": "While the US and allies spend 2014–2019 fighting ISIS and managing Arab Spring chaos, China quietly moves on the corridor's infrastructure. 2015: Israel signs a long-term agreement with a Chinese company to operate Haifa port — the Mediterranean endpoint of IMEC — starting 2021. 2017: China opens it",
+    "impact": "🔴 CHINA ACQUIRES CORRIDOR ENDPOINTS QUIETLY",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "PRE-A",
+    "team": "red",
+    "date": "2013–2015",
+    "actor": "CHINA — XI JINPING",
+    "title": "BRI FULLY OPERATIONALIZES — CHINA BUILDS THE BOARD FIRST",
+    "desc": "China's Belt and Road Initiative launches in 2013 but by 2015 becomes fully real: official blueprint released, incorporated into the 13th Five-Year Plan, state banks begin deploying hundreds of billions. By 2016, 57 countries are active participants. China becomes the largest foreign investor in the",
+    "impact": "🗺 CHINA BUILDS THE FIRST BOARD",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "PRE-B",
+    "team": "blue",
+    "date": "Jul 14, 2015 → May 2018",
+    "actor": "USA · EU · IRAN → TRUMP EXITS",
+    "title": "JCPOA — IRAN BRIEFLY DEFANGED, THEN UNLEASHED",
+    "desc": "The Iran nuclear deal (JCPOA) is signed July 2015 — Iran limits its nuclear program in exchange for $100B+ in sanctions relief. Saudi Arabia and Israel are furious: a contained, economically recovering Iran is still a dangerous Iran. Then Trump exits the deal in May 2018, reimposing maximum pressure",
+    "impact": "⚛ NUCLEAR CLOCK STARTS TICKING",
+    "side": "BUILDER"
+  },
+  {
+    "id": "PRE-C",
+    "team": "red",
+    "date": "Sep 2015",
+    "actor": "RUSSIA",
+    "title": "RUSSIA ENTERS SYRIA — ESTABLISHES MEDITERRANEAN MILITARY PRESENCE",
+    "desc": "Russia deploys military forces to Syria — its first combat deployment outside the former Soviet space since the Cold War. Saves Assad. Establishes air base at Hmeimim and naval base at Tartus — Russia's only Mediterranean military foothold. This inserts Russia directly into IMEC's corridor geography",
+    "impact": "🪖 RUSSIA ENTERS THE CORRIDOR GEOGRAPHY",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "PRE-D",
+    "team": "pivot",
+    "date": "Jun 2017 – Jan 2021",
+    "actor": "SAUDI · UAE · BAHRAIN · EGYPT vs QATAR",
+    "title": "QATAR BLOCKADE — THE GULF COALITION'S FIRST FRACTURE",
+    "desc": "Saudi Arabia, UAE, Bahrain and Egypt cut Qatar off by land, sea, and air — demanding it sever ties with Iran, Turkey, Hamas, and shut Al Jazeera. Qatar refuses, turns to Turkey and Iran for food and survival. The blockade reveals that the Gulf \"coalition\" that will later build IMEC together is funda",
+    "impact": "💥 GULF COALITION FRACTURE — FIRST CRACK",
+    "side": "MIXED"
+  },
+  {
+    "id": "PRE-E",
+    "team": "red",
+    "date": "Sep 14, 2019",
+    "actor": "IRAN (via Houthis / directly)",
+    "title": "ARAMCO ATTACK — SAUDI LEARNS THE US WON'T DEFEND IT",
+    "desc": "Iranian drones and cruise missiles destroy 5% of global oil supply in one strike on Saudi Aramco's Abqaiq facility. Half of Saudi oil production knocked out. The US condemns it — but does nothing militarily. Saudi Arabia realizes: the US security umbrella has a gap. This single realization drives Sa",
+    "impact": "🎯 IRAN HITS THE WORLD'S OIL INFRASTRUCTURE",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "P0a",
+    "team": "red",
+    "date": "Jan 3, 2020",
+    "actor": "USA (Trump) → IRAN",
+    "title": "SOLEIMANI KILLED — IRAN'S NERVE CENTER SEVERED",
+    "desc": "US drone strike kills Qasem Soleimani at Baghdad airport — the architect of Iran's entire regional proxy network. He built the Axis of Resistance over 20 years: Hamas, Hezbollah, Iraqi militias, Houthis, Syria. He was the operational coordinator who made Iran's \"forward defense\" doctrine function. H",
+    "impact": "🎯 IRAN'S STRATEGIC BRAIN REMOVED",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "P0b",
+    "team": "neutral",
+    "date": "Jan–Dec 2020",
+    "actor": "CHINA (origin) → GLOBAL",
+    "title": "COVID-19 — THE GREAT RESET OF GLOBAL SUPPLY CHAINS",
+    "desc": "COVID exposes how every major economy is dependent on Chinese supply chains, single-source logistics, and the Suez/container ship routes. The 2021 Suez Canal blockage (Ever Given) amplifies the lesson. Every country simultaneously realizes: existing corridors are fragile. The pandemic is the geopoli",
+    "impact": "⚡ CORRIDOR DIVERSIFICATION BECOMES URGENT",
+    "side": "UNKNOWN"
+  },
+  {
+    "id": "P0c",
+    "team": "blue",
+    "date": "Sep 15, 2020",
+    "actor": "USA · ISRAEL · UAE · BAHRAIN",
+    "title": "ABRAHAM ACCORDS — THE ARCHITECTURAL FOUNDATION OF IMEC",
+    "desc": "Israel normalizes with UAE and Bahrain at the White House. Morocco and Sudan follow. This is the diplomatic prerequisite for everything that follows: IMEC is architecturally impossible without Israel–Gulf normalization. The Accords end the Arab ideological \"No\" to Israel, create the Israel–UAE free ",
+    "impact": "🤝 IMEC'S POLITICAL FOUNDATION LAID",
+    "side": "BUILDER"
+  },
+  {
+    "id": "P1",
+    "team": "pivot",
+    "date": "Sep–Nov 2020",
+    "actor": "TURKEY · AZERBAIJAN",
+    "title": "KARABAKH WAR II — TURKEY WINS A CORRIDOR",
+    "desc": "Azerbaijan, backed by Turkish drones and 30 years of Turkish army-building, defeats Armenia in 44 days. Armenia loses 75% of Nagorno-Karabakh. Russia brokers the ceasefire — inserting itself as \"peacekeeper\" along the Lachin corridor. But Turkey has won something bigger: a path toward the Zangezur c",
+    "impact": "🗺 TURKEY CLAIMS CAUCASUS CORRIDOR",
+    "side": "MIXED"
+  },
+  {
+    "id": "P2",
+    "team": "red",
+    "date": "Feb 24, 2022",
+    "actor": "RUSSIA",
+    "title": "UKRAINE INVASION — THE NORTHERN ROUTE DIES",
+    "desc": "Russia invades Ukraine. Before 2022, the Northern Corridor through Russia carried over 86% of Europe–China overland trade. After the invasion it becomes a political and financial liability overnight. Russia weaponizes its gas pipeline — cutting 80 billion cubic meters to Europe and plunging the EU i",
+    "impact": "⚡ NORTHERN ROUTE WEAPONIZED → BACKFIRES",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "P3",
+    "team": "red",
+    "date": "Sep 19–20, 2023",
+    "actor": "AZERBAIJAN (Russia stood by)",
+    "title": "KARABAKH FINAL OFFENSIVE — RUSSIA'S HUMILIATION",
+    "desc": "Azerbaijan finishes the job in 24 hours. 100,000+ ethnic Armenians flee. Russian peacekeepers — present, mandated to protect the population — do nothing. Armenia publicly declares Russia's security umbrella is finished. Pashinyan begins pivoting Armenia to the West. Russia loses its last reliable So",
+    "impact": "💥 RUSSIA LOSES CAUCASUS CREDIBILITY",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "01",
+    "team": "blue",
+    "date": "Sep 9, 2023",
+    "actor": "USA · INDIA · EU · GULF",
+    "title": "IMEC ANNOUNCED AT G20 NEW DELHI",
+    "desc": "The West publicly declares its counter-BRI corridor. India–UAE–Saudi–Jordan–Israel–Europe. Israel embedded as the critical node. Saudi-Israel normalization is the implicit prerequisite. The trigger that starts the entire game.",
+    "impact": "🛤 IMEC LAUNCHED",
+    "side": "BUILDER"
+  },
+  {
+    "id": "02",
+    "team": "red",
+    "date": "Oct 7, 2023 — 28 DAYS LATER",
+    "actor": "HAMAS · IRAN (enabled)",
+    "title": "OPERATION AL-AQSA FLOOD",
+    "desc": "Hamas attacks Israel. Iran didn't command it but trained, funded, and enabled Hamas for years at $350M/year. China immediately refuses to condemn Hamas. Result: IMEC frozen overnight. Saudi normalization halted. The corridor node — Israel — politically paralyzed.",
+    "impact": "💥 IMEC KILLED AT BIRTH",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "03",
+    "team": "red",
+    "date": "Oct–Nov 2023",
+    "actor": "HOUTHIS · IRAN",
+    "title": "RED SEA BLOCKADE — SUEZ ROUTE ATTACKED",
+    "desc": "Iran activates its Houthi \"trump card.\" 130+ attacks on Red Sea shipping. Both the existing Suez route AND the planned IMEC route are simultaneously blocked. Global shipping costs explode. Iran signals it can strangle all corridors at once.",
+    "impact": "🚢 OLD ROUTE ALSO THREATENED",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "04",
+    "team": "neutral",
+    "date": "Mar 2023 / 2024",
+    "actor": "CHINA",
+    "title": "CHINA BROKERS IRAN–SAUDI DEAL + HOSTS HAMAS TALKS",
+    "desc": "China brokers the Iran–Saudi rapprochement and hosts Hamas–Fatah reconciliation talks. Presents itself as the region's peacemaker — while its allies are burning the corridors. Classic \"wedging\" doctrine: create instability, then offer to manage it.",
+    "impact": "♟ BRI SOFT POWER PLAY",
+    "side": "UNKNOWN"
+  },
+  {
+    "id": "05",
+    "team": "blue",
+    "date": "Sep–Oct 2024",
+    "actor": "ISRAEL",
+    "title": "HEZBOLLAH DECAPITATED — NASRALLAH KILLED",
+    "desc": "Israel eliminates Hezbollah's entire command structure including Nasrallah in 3 months. Iran's most powerful proxy — guarding the Lebanese end of IMEC's route — is gutted. Iran's \"forward defense\" doctrine collapses in Lebanon. The Axis of Resistance begins fracturing.",
+    "impact": "🎯 IRAN PROXY NETWORK CRACKING",
+    "side": "BUILDER"
+  },
+  {
+    "id": "06",
+    "team": "pivot",
+    "date": "Dec 8, 2024",
+    "actor": "TURKEY · HTS REBELS",
+    "title": "ASSAD FALLS — SYRIA COLLAPSES IN 12 DAYS",
+    "desc": "HTS rebels sweep Syria in 12 days. Assad flees to Moscow. Iran loses its 1,574 km Tehran–Lebanon land corridor — the backbone of its entire proxy network. Russia loses Mediterranean naval access at Tartus. Turkey emerges as the biggest winner. Both Russia and Iran were too depleted to respond: Russi",
+    "impact": "⚡ IRAN'S SPINE SEVERED",
+    "side": "MIXED"
+  },
+  {
+    "id": "07",
+    "team": "red",
+    "date": "Jan 2025",
+    "actor": "CHINA · RUSSIA · IRAN · N.KOREA",
+    "title": "TRILATERAL AXIS PACT FORMALIZED",
+    "desc": "China-Iran 25yr partnership (2021), Russia-Iran 20yr treaty (2025), trilateral strategic pact signed Jan 2025. The \"Axis of Adversaries\" formalizes on paper. But partnerships remain transactional — Russia needs drones from Iran and soldiers from N.Korea, Iran needs oil money from China, China needs ",
+    "impact": "📜 AXIS FORMALIZED — BUT FRAGILE",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "08",
+    "team": "blue",
+    "date": "Jan 2026",
+    "actor": "EU · INDIA",
+    "title": "EU–INDIA FREE TRADE DEAL SIGNED",
+    "desc": "After 20 years of negotiations, India and the EU sign a landmark free trade deal — the world's largest free trade zone: 2 billion people, ~25% of global GDP. IMEC now has a legal trade architecture to run on. The corridor gets its economic backbone regardless of the Iran situation.",
+    "impact": "🛤 IMEC LEGAL BACKBONE SECURED",
+    "side": "BUILDER"
+  },
+  {
+    "id": "08b",
+    "team": "blue",
+    "date": "Feb 2024 / Oct 2025",
+    "actor": "INDIA · UAE · EMIRATES NBD",
+    "title": "UAE BUYS INTO INDIA'S BANKING SYSTEM — CORRIDOR FINANCED",
+    "desc": "Feb 2024: India and UAE sign the IMEC Intergovernmental Framework Agreement — the first concrete bilateral implementation step, covering logistics, digital ecosystem, and supply chain. India's Adani Group is already operating Haifa port — Israel's IMEC Mediterranean node — owned by an Indian company",
+    "impact": "💰 CORRIDOR FINANCIAL RAILS BUILT",
+    "side": "BUILDER"
+  },
+  {
+    "id": "08c",
+    "team": "red",
+    "date": "Nov 2024 (ongoing)",
+    "actor": "CHINA (suspected) — Baltic / Red Sea cables",
+    "title": "SUBMARINE CABLE SABOTAGE — THE INVISIBLE CORRIDOR WAR",
+    "desc": "A Chinese ship suspected of deliberately dragging its anchor along the Baltic seabed, damaging undersea data cables in Nov 2024. 95% of global internet traffic runs on submarine cables — most passing through the Red Sea and Suez. IMEC's digital pillar proposes laying terrestrial fiber optic cables o",
+    "impact": "🔌 DIGITAL CORRIDOR = SECOND BATTLEFIELD",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "09",
+    "team": "red",
+    "date": "Feb 28, 2026",
+    "actor": "IRAN — LAST CARD",
+    "title": "STRAIT OF HORMUZ CLOSED",
+    "desc": "After US–Israel strikes kill Khamenei and hit nuclear facilities, Iran closes the Strait of Hormuz. 138 commercial vessels/day → near zero. Brent crude surges to $126/barrel. 20% of global oil trade halted. Iran's most powerful asymmetric weapon — every corridor route in the world passes near this c",
+    "impact": "⚡ ALL CORRIDORS THREATENED",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "10",
+    "team": "blue",
+    "date": "Mar–Apr 2026 (ongoing)",
+    "actor": "USA",
+    "title": "US MILITARY CAMPAIGN TO REOPEN THE STRAIT",
+    "desc": "Trump announces intent to \"seize control\" of the Strait of Hormuz. US Armed Forces launch military campaign. If successful — Iran is permanently defanged as a chokepoint power, the Strait becomes US-controlled, and IMEC's entire path clears. This is the endgame move for the Middle East theater.",
+    "impact": "🚢 CORRIDOR ENDGAME BEGINS",
+    "side": "BUILDER"
+  },
+  {
+    "id": "11",
+    "team": "red",
+    "date": "2015–2025 (ongoing)",
+    "actor": "CHINA · MEXICO CARTELS",
+    "title": "CHINA SUPPLIES FENTANYL PRECURSORS TO CARTELS — DRUG WARFARE DOCTRINE",
+    "desc": "Chinese chemical companies supply fentanyl precursors to Sinaloa and CJNG cartels through Mexican ports. Chinese underground banking networks launder cartel proceeds. 74,000+ Americans killed by fentanyl per year. US House Oversight Committee identifies this as China's \"drug warfare\" — a core elemen",
+    "impact": "☠ SOFT WAR ON US SOCIETY — HEMISPHERE FRONT",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "12",
+    "team": "red",
+    "date": "2000s–2025",
+    "actor": "RUSSIA · CHINA · IRAN",
+    "title": "VENEZUELA + CUBA + NICARAGUA: BLOCKER OUTPOSTS IN THE US BACKYARD",
+    "desc": "Venezuela hosts Russia's military footprint and Chinese oil investment ($10B+ debt), Iran's Hezbollah networks, gold-laundering, and drug proceeds. Cuba provides Russian intelligence bases and signals intercept stations 90 miles from Florida. Nicaragua hosts Russian military equipment. China operate",
+    "impact": "🎯 US FORCED TO SPLIT FOCUS ACROSS HEMISPHERES",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "12b",
+    "team": "red",
+    "date": "1997 → 2021",
+    "actor": "CK HUTCHISON (HONG KONG) — CHINA-ALIGNED",
+    "title": "HUTCHISON ACQUIRES PANAMA CANAL PORTS — CHINA GETS THE CHOKEPOINT",
+    "desc": "In 1997, Hong Kong conglomerate CK Hutchison Holdings (Li Ka-shing family) wins concession to operate Balboa (Pacific) and Cristóbal (Atlantic) — the two ports at either end of the Panama Canal. In 2021, the concession is extended 25 years without competitive rebid. The US is the canal's largest use",
+    "impact": "🔴 CHINA-LINKED ENTITY CONTROLS BOTH CANAL ENTRY PORTS",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "12c",
+    "team": "red",
+    "date": "Nov 2024",
+    "actor": "COSCO SHIPPING (CHINA STATE · PENTAGON BLACKLISTED)",
+    "title": "CHANCAY MEGA-PORT OPENS — CHINA BYPASSES PANAMA",
+    "desc": "Xi Jinping inaugurates Chancay deep-water port in Peru remotely from Lima at APEC, alongside Peru's president. COSCO holds 60% with 30-year exclusive rights. Purpose: bypass Panama entirely — ship directly from South America to Asia without going through the canal. COSCO legally fought to control al",
+    "impact": "🔴 CHINA BUILDS ITS OWN PANAMA BYPASS",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "13",
+    "team": "blue",
+    "date": "Jan–Feb 2025",
+    "actor": "USA — TRUMP · RUBIO · TED CRUZ",
+    "title": "TRUMP THREATENS TO \"TAKE BACK\" PANAMA CANAL — RUBIO DELIVERS ULTIMATUM",
+    "desc": "Trump repeatedly declares China is \"running the Panama Canal\" and signals interest in retaking it — refusing to rule out military force. Secretary of State Marco Rubio flies to Panama in early February and delivers a direct ultimatum to President Mulino: reduce Chinese influence or face US retaliati",
+    "impact": "💥 PANAMA EXITS BRI — DONROE DOCTRINE OPENS",
+    "side": "BUILDER"
+  },
+  {
+    "id": "13b",
+    "team": "blue",
+    "date": "Mar 4, 2025",
+    "actor": "USA — BLACKROCK · GIP · MSC/TIL CONSORTIUM",
+    "title": "BLACKROCK $22.8B DEAL TO ACQUIRE HUTCHISON'S 43 PORTS GLOBALLY",
+    "desc": "BlackRock, Global Infrastructure Partners, and Mediterranean Shipping Co. (MSC/TIL) announce a $22.8B deal to acquire CK Hutchison's entire global port portfolio — 43 ports in 23 countries including Balboa and Cristóbal at Panama's canal. CK Hutchison insists it's \"purely commercial.\" Trump calls it",
+    "impact": "🇺🇸 US PRIVATE CAPITAL USED AS GEOPOLITICAL WEAPON",
+    "side": "BUILDER"
+  },
+  {
+    "id": "13c",
+    "team": "red",
+    "date": "Mar–Jul 2025",
+    "actor": "CHINA — BEIJING INTERVENTION",
+    "title": "CHINA BLOCKS THE DEAL — CALLS LI KA-SHING \"UNPATRIOTIC\"",
+    "desc": "Beijing launches a campaign to kill the BlackRock deal. State media calls CK Hutchison's proposed sale \"kowtowing\" to American pressure and labels the Li Ka-shing family \"unpatriotic\" — invoking Cultural Revolution-era language against a private Hong Kong billionaire. Beijing orders state-owned ente",
+    "impact": "🔴 CHINA KILLS THE DEAL — ECONOMIC STATECRAFT WINS ROUND 1",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "13d",
+    "team": "blue",
+    "date": "Jan–Feb 2026",
+    "actor": "PANAMA SUPREME COURT · MAERSK · MSC",
+    "title": "PANAMA VOIDS HUTCHISON CONCESSION — MAERSK TAKES INTERIM CONTROL",
+    "desc": "Panama's Supreme Court rules the Hutchison concession for Balboa and Cristóbal unconstitutional — the 2021 25-year no-bid extension was an illegal disproportionate benefit. President Mulino formally annuls the contracts in the official gazette, Feb 2026. Panama's National Maritime Authority transfer",
+    "impact": "✅ CANAL PORTS PASS TO WESTERN OPERATORS — NO PURCHASE NEEDED",
+    "side": "BUILDER"
+  },
+  {
+    "id": "13e",
+    "team": "blue",
+    "date": "Nov 2025 NSS (released)",
+    "actor": "USA — 2025 NATIONAL SECURITY STRATEGY",
+    "title": "THE DONROE DOCTRINE — TRUMP COROLLARY TO MONROE DOCTRINE",
+    "desc": "Trump's November 2025 National Security Strategy officially codifies the \"Trump Corollary\" to the Monroe Doctrine — immediately dubbed the \"Donroe Doctrine.\" The key line: \"The US will deny non-Hemispheric competitors the ability to position forces or other threatening capabilities, or to own or con",
+    "impact": "📜 US DECLARES WESTERN HEMISPHERE A CHINA-FREE ZONE",
+    "side": "BUILDER"
+  },
+  {
+    "id": "13f",
+    "team": "blue",
+    "date": "Jan 3, 2026",
+    "actor": "USA — OPERATION ABSOLUTE RESOLVE",
+    "title": "MADURO SEIZED — VENEZUELA DECAPITATED — DONROE DOCTRINE IN ACTION",
+    "desc": "US forces strike Caracas under Operation Absolute Resolve, capturing Maduro and his wife Cilia Flores in under 30 minutes. Flown to New York for trial. Three birds: Venezuela breaks as the primary Russian-Chinese-Iranian outpost in the hemisphere, Cuba and Nicaragua lose their oil lifeline, Russia l",
+    "impact": "🔱 DONROE DOCTRINE GOES KINETIC — HEMISPHERE DOMINO BEGINS",
+    "side": "BUILDER"
+  },
+  {
+    "id": "13g",
+    "team": "blue",
+    "date": "Jan 2025 – ongoing",
+    "actor": "USA — TRUMP · JD VANCE",
+    "title": "GREENLAND — ARCTIC ANCHOR OF THE DONROE DOCTRINE",
+    "desc": "Trump declares Greenland \"an absolute necessity\" for US national security. JD Vance visits Nuuk (Mar 2025). Trump refuses to rule out military force. Denmark's PM: \"If the US chooses to attack a NATO ally militarily, then everything stops — including NATO.\" Katie Miller posts Greenland draped in US ",
+    "impact": "🧊 ARCTIC ANCHOR — DOCTRINE EXTENDS TO 80°N",
+    "side": "BUILDER"
+  },
+  {
+    "id": "14",
+    "team": "red",
+    "date": "Apr 22, 2025",
+    "actor": "PAKISTAN-LINKED MILITANTS",
+    "title": "PAHALGAM ATTACK — 26 KILLED IN KASHMIR",
+    "desc": "Militants kill 26 Hindu tourists in Indian-administered Kashmir. India accuses Pakistan of sponsoring the attack. This is the eastern flank of the blocker strategy: if you can drag India into a war with Pakistan, you pull India out of IMEC focus, drain Indian military resources, and destabilize the ",
+    "impact": "🎯 INDIA DISTRACTED FROM IMEC",
+    "side": "BLOCKER"
+  },
+  {
+    "id": "15",
+    "team": "pivot",
+    "date": "May 7–10, 2025",
+    "actor": "INDIA vs PAKISTAN",
+    "title": "OPERATION SINDOOR — FIRST NUCLEAR-POWER DRONE WAR",
+    "desc": "India launches 14 precision strikes on 9 targets in Pakistan. Pakistan retaliates with Operation Bunyan-un-Marsoos. First drone war between nuclear-armed states. Chinese weapons tested live: J-10C fighters and HQ-9 air defense reportedly deployed by Pakistan. Ceasefire brokered May 10 by US. Conflic",
+    "impact": "⚠ CHINA TESTS WEAPONS · INDIA TESTED",
+    "side": "MIXED"
+  },
+  {
+    "id": "16",
+    "team": "blue",
+    "date": "Apr 2025 / Jan 2026",
+    "actor": "INDIA · SAUDI ARABIA · EU",
+    "title": "INDIA DOUBLES DOWN ON IMEC DESPITE CONFLICT",
+    "desc": "Despite the Pakistan war, Modi visits Saudi Arabia (Apr 2025) where both countries reaffirm IMEC commitment in a joint statement. The EU-India free trade deal follows in Jan 2026. India signals: the eastern anchor of the corridor holds. Pakistan's gambit failed to pull India off the board.",
+    "impact": "🛤 EASTERN ANCHOR HOLDS",
+    "side": "BUILDER"
+  },
+  {
+    "id": "17",
+    "team": "blue",
+    "date": "2024–2025",
+    "actor": "ARMENIA · EU · USA",
+    "title": "ARMENIA PIVOTS WEST — CSTO ABANDONED",
+    "desc": "Armenia formally freezes CSTO membership (Feb 2024), stops financial contributions (May 2024), and declares itself \"outside the CSTO\" by December 2024. A 2024 poll shows only 31% of Armenians view Russia positively — down from 93% in 2019. The EU offers a €270M resilience plan. The US conducts joint",
+    "impact": "🔄 CAUCASUS FLIPS TOWARD WEST",
+    "side": "BUILDER"
+  },
+  {
+    "id": "18",
+    "team": "blue",
+    "date": "Aug 2025",
+    "actor": "USA · ARMENIA · AZERBAIJAN",
+    "title": "TRUMP ROUTE (TRIPP) — US TAKES THE CAUCASUS CORRIDOR",
+    "desc": "Trump brokers Armenia–Azerbaijan peace at the White House. The deal includes the \"Trump Route for International Peace and Prosperity (TRIPP)\" — a transit corridor through southern Armenia to Nakhchivan, with the United States granted sole development rights. The US doesn't just broker peace: it inse",
+    "impact": "🇺🇸 US OWNS CAUCASUS CORRIDOR",
+    "side": "BUILDER"
+  },
+  {
+    "id": "18b",
+    "team": "blue",
+    "date": "2025 (ongoing)",
+    "actor": "USA · ISRAEL · GULF · KAZAKHSTAN",
+    "title": "ABRAHAM ACCORDS EXPAND — SYRIA OPENS, CORRIDOR WIDENS",
+    "desc": "The Abraham Accords architecture expands in multiple directions simultaneously. Kazakhstan joins the Accords (Nov 2025) — opening Central Asia into the normalization network and connecting to the Middle Corridor via the Caspian. Syria post-Assad enters discussions about joining (2025) — which would ",
+    "impact": "🌐 NORMALIZATION NETWORK EXPANDS",
+    "side": "BUILDER"
+  },
+  {
+    "id": "19",
+    "team": "blue",
+    "date": "Dec 26, 2025",
+    "actor": "ISRAEL · UAE",
+    "title": "ISRAEL RECOGNIZES SOMALILAND — RED SEA SOUTH SECURED",
+    "desc": "Israel becomes the first UN member state to recognize Somaliland, framed under the Abraham Accords. The real prize: Berbera port, 300km from Houthi-controlled Yemen, directly overlooking the Bab al-Mandab Strait — the southern chokepoint of the Red Sea. The UAE already operates Berbera port through ",
+    "impact": "⚓ BAB AL-MANDAB FLANKED",
+    "side": "BUILDER"
+  },
+  {
+    "id": "20",
+    "team": "pivot",
+    "date": "Dec 2025 – Jan 2026",
+    "actor": "SAUDI ARABIA vs UAE",
+    "title": "SAUDI STRIKES UAE SHIPMENT — GULF ALLIANCE FRACTURES",
+    "desc": "Saudi Arabia bombs a UAE weapons shipment at Yemen's Mukalla port — striking its own ally for the first time. The UAE-backed Southern Transitional Council had seized Saudi-controlled oil provinces in southern Yemen. Saudi accuses UAE of \"highly dangerous\" behavior. The fracture runs deeper: UAE back",
+    "impact": "💥 IMEC COALITION INTERNAL FRACTURE",
+    "side": "MIXED"
+  },
+  {
+    "id": "21",
+    "team": "red",
+    "date": "2023–2026 (ongoing)",
+    "actor": "UAE vs TURKEY vs SAUDI · Sudan · Somalia",
+    "title": "THE SCRAMBLE FOR RED SEA AFRICA — PORTS AS WEAPONS",
+    "desc": "The entire Horn of Africa becomes a corridor proxy war. UAE controls: Berbera (Somaliland), Bosaso (Puntland), Assab (Eritrea), Socotra (Yemen). Turkey controls: Mogadishu military base, Somalia partnership, Sudan port deals. Saudi seeks: Red Sea stability, united Yemen, unified Sudan/Somalia. Egypt",
+    "impact": "🌍 RED SEA AFRICA = CORRIDOR BATTLEGROUND",
+    "side": "BLOCKER"
+  }
+]

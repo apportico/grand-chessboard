@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Cigar Lake Mine",
+    "country": "Canada",
+    "owner": "Cameco (51%) + Orano (37%)",
+    "category": "uranium",
+    "lat": 58.06,
+    "lon": -104.52,
+    "production": "World's largest high-grade uranium mine. ~13% of global uranium production.",
+    "tag": "WESTERN — HIGHEST GRADE URANIUM ON EARTH"
+  },
+  {
+    "name": "McArthur River Mine",
+    "country": "Canada",
+    "owner": "Cameco (70%) + Orano (30%)",
+    "category": "uranium",
+    "lat": 57.77,
+    "lon": -105.60,
+    "production": "One of world's largest uranium mines. Restarted 2024 after 6-year suspension.",
+    "tag": "WESTERN — KEY URANIUM SUPPLY REACTIVATED"
+  },
+  {
+    "name": "Olympic Dam",
+    "country": "Australia",
+    "owner": "BHP",
+    "category": "uranium",
+    "lat": -30.44,
+    "lon": 136.89,
+    "production": "World's largest uranium deposit. Also produces copper, gold, silver.",
+    "tag": "WESTERN — LARGEST KNOWN URANIUM RESERVE"
+  },
+  {
+    "name": "Rössing Uranium Mine",
+    "country": "Namibia",
+    "owner": "CNNC China (69%)",
+    "category": "uranium",
+    "lat": -22.48,
+    "lon": 15.19,
+    "production": "One of world's longest-running open-pit uranium mines. Acquired by China from Rio Tinto in 2019.",
+    "tag": "CHINA — ACQUIRED STRATEGIC AFRICAN URANIUM"
+  },
+  {
+    "name": "Husab Uranium Mine",
+    "country": "Namibia",
+    "owner": "Swakop Uranium (CGN China 90%)",
+    "category": "uranium",
+    "lat": -22.58,
+    "lon": 15.04,
+    "production": "World's second-largest uranium mine. China's largest overseas uranium investment.",
+    "tag": "CHINA — CONTROLS MAJOR AFRICAN URANIUM SUPPLY"
+  },
+  {
+    "name": "Inkai Mine",
+    "country": "Kazakhstan",
+    "owner": "Cameco (40%) + Kazatomprom (60%)",
+    "category": "uranium",
+    "lat": 44.53,
+    "lon": 66.54,
+    "production": "Major in-situ leach uranium operation in world's top uranium-producing country.",
+    "tag": "JOINT — KAZAKH-CANADIAN URANIUM PARTNERSHIP"
+  },
+  {
+    "name": "Tortkuduk Mine",
+    "country": "Kazakhstan",
+    "owner": "KATCO (Orano France 51% + Kazatomprom 49%)",
+    "category": "uranium",
+    "lat": 44.10,
+    "lon": 66.85,
+    "production": "Largest uranium mine in Kazakhstan. French strategic access to Central Asian uranium.",
+    "tag": "FRANCE — CRITICAL URANIUM SUPPLY LINE"
+  },
+  {
+    "name": "SOMAIR Mine (Arlit)",
+    "country": "Niger",
+    "owner": "Orano France (63.4%) + SOPAMIN Niger (36.6%)",
+    "category": "uranium",
+    "lat": 18.73,
+    "lon": 7.39,
+    "production": "Supplied ~15% of France's uranium for decades. Post-2023 coup threatens French access.",
+    "tag": "FRANCE LOSING ACCESS — NIGER COUP FALLOUT"
+  },
+  {
+    "name": "Langer Heinrich Mine",
+    "country": "Namibia",
+    "owner": "Paladin Energy (Australia)",
+    "category": "uranium",
+    "lat": -22.82,
+    "lon": 15.24,
+    "production": "Restarted in 2024 after 6-year care-and-maintenance. Key Western uranium supply.",
+    "tag": "WESTERN — RESTARTED TO REDUCE CHINA DEPENDENCE"
+  },
+  {
+    "name": "Rožná Mine",
+    "country": "Czech Republic",
+    "owner": "DIAMO (Czech state)",
+    "category": "uranium",
+    "lat": 49.47,
+    "lon": 16.22,
+    "production": "EU's only active uranium mine. Small output but strategically significant for European sovereignty.",
+    "tag": "EU — LAST ACTIVE EUROPEAN URANIUM MINE"
+  },
+  {
+    "name": "Bayan Obo Mine",
+    "country": "China",
+    "owner": "China Northern Rare Earth Group (state)",
+    "category": "rare_earth",
+    "lat": 41.78,
+    "lon": 109.97,
+    "production": "World's largest rare earth mine. ~70% of global rare earth supply originates here.",
+    "tag": "CHINA — CONTROLS 70% OF RARE EARTHS"
+  },
+  {
+    "name": "Mount Weld Mine",
+    "country": "Australia",
+    "owner": "Lynas Rare Earths",
+    "category": "rare_earth",
+    "lat": -28.77,
+    "lon": 122.55,
+    "production": "Highest-grade rare earth deposit in the world. Key non-China source.",
+    "tag": "WESTERN — HIGHEST GRADE RARE EARTH DEPOSIT"
+  },
+  {
+    "name": "Lynas Advanced Materials Plant",
+    "country": "Malaysia",
+    "owner": "Lynas Rare Earths (Australia)",
+    "category": "rare_earth",
+    "lat": 3.97,
+    "lon": 103.42,
+    "production": "Largest rare earth processing facility outside China. Processes Mount Weld concentrate.",
+    "tag": "WESTERN — ONLY MAJOR NON-CHINA RARE EARTH PROCESSOR"
+  },
+  {
+    "name": "Mountain Pass Mine",
+    "country": "USA",
+    "owner": "MP Materials",
+    "category": "rare_earth",
+    "lat": 35.48,
+    "lon": -115.53,
+    "production": "Only active rare earth mine in the US. Concentrate still sent to China for processing.",
+    "tag": "USA — REBUILDING DOMESTIC RARE EARTH SUPPLY"
+  },
+  {
+    "name": "Serra Verde Mine",
+    "country": "Brazil",
+    "owner": "Serra Verde Mining",
+    "category": "rare_earth",
+    "lat": -14.10,
+    "lon": -49.30,
+    "production": "First ionic clay rare earth mine outside China. Production began 2024.",
+    "tag": "WESTERN — FIRST NON-CHINA IONIC CLAY RARE EARTH"
+  },
+  {
+    "name": "Kvanefjeld Deposit",
+    "country": "Greenland (Denmark)",
+    "owner": "Energy Transition Minerals (formerly Greenland Minerals)",
+    "category": "rare_earth",
+    "lat": 60.98,
+    "lon": -46.02,
+    "production": "One of world's largest undeveloped rare earth deposits. Mining license rejected 2021 over environmental concerns.",
+    "tag": "CONTESTED — GEOPOLITICAL FLASHPOINT IN THE ARCTIC"
+  },
+  {
+    "name": "Nechalacho Mine",
+    "country": "Canada",
+    "owner": "Vital Metals",
+    "category": "rare_earth",
+    "lat": 62.13,
+    "lon": -112.45,
+    "production": "Canada's first rare earth mine. Small scale but strategically important for Western supply chain.",
+    "tag": "WESTERN — CANADA'S FIRST RARE EARTH MINE"
+  },
+  {
+    "name": "Baotou Rare Earth Processing Hub",
+    "country": "China",
+    "owner": "Multiple Chinese state firms",
+    "category": "rare_earth",
+    "lat": 40.66,
+    "lon": 109.84,
+    "production": "World's largest rare earth processing and separation center. Processes majority of global output.",
+    "tag": "CHINA — GLOBAL RARE EARTH PROCESSING CHOKEPOINT"
+  },
+  {
+    "name": "Salar de Atacama",
+    "country": "Chile",
+    "owner": "Albemarle (USA) + SQM (Chile/China minority stake)",
+    "category": "lithium",
+    "lat": -23.50,
+    "lon": -68.20,
+    "production": "World's largest lithium brine operation. ~25% of global lithium production.",
+    "tag": "CONTESTED — CHILE NATIONALIZING LITHIUM ACCESS"
+  },
+  {
+    "name": "Salar de Uyuni",
+    "country": "Bolivia",
+    "owner": "YLB (Bolivia state) + CATL China + CITIC Guoan China",
+    "category": "lithium",
+    "lat": -20.13,
+    "lon": -67.49,
+    "production": "World's largest lithium reserve (~21M tonnes). Chronically underexploited; China securing extraction deals.",
+    "tag": "CHINA — LOCKING UP WORLD'S LARGEST LITHIUM RESERVE"
+  },
+  {
+    "name": "Greenbushes Lithium Mine",
+    "country": "Australia",
+    "owner": "Tianqi Lithium China (26%) + IGO Australia (25%) + Albemarle (49%)",
+    "category": "lithium",
+    "lat": -33.86,
+    "lon": 116.06,
+    "production": "World's largest hard-rock lithium (spodumene) mine. China's Tianqi holds major stake.",
+    "tag": "CONTESTED — CHINESE STAKE IN TOP WESTERN LITHIUM MINE"
+  },
+  {
+    "name": "Pilgangoora Lithium Mine",
+    "country": "Australia",
+    "owner": "Pilbara Minerals (Australia)",
+    "category": "lithium",
+    "lat": -21.30,
+    "lon": 119.08,
+    "production": "One of world's largest hard-rock lithium operations. Major supplier to Asian battery makers.",
+    "tag": "WESTERN — KEY AUSTRALIAN LITHIUM SUPPLY"
+  },
+  {
+    "name": "Cauchari-Olaroz Lithium",
+    "country": "Argentina",
+    "owner": "Allkem/Arcadium Lithium + Toyota Tsusho",
+    "category": "lithium",
+    "lat": -23.33,
+    "lon": -66.68,
+    "production": "Major lithium brine project in the 'Lithium Triangle.' Production began 2023.",
+    "tag": "JAPAN-WESTERN — DIVERSIFYING FROM CHINESE SUPPLY"
+  },
+  {
+    "name": "Jiangxi Province Lithium Processing",
+    "country": "China",
+    "owner": "Ganfeng Lithium (China)",
+    "category": "lithium",
+    "lat": 28.68,
+    "lon": 115.89,
+    "production": "World's largest lithium processor. Ganfeng refines ~15% of global lithium supply.",
+    "tag": "CHINA — DOMINANT GLOBAL LITHIUM REFINER"
+  },
+  {
+    "name": "Thacker Pass Lithium Mine",
+    "country": "USA",
+    "owner": "Lithium Americas + GM investment",
+    "category": "lithium",
+    "lat": 41.55,
+    "lon": -117.34,
+    "production": "Largest known lithium deposit in the US. Under construction; production expected 2026.",
+    "tag": "USA — CRITICAL DOMESTIC LITHIUM PROJECT"
+  },
+  {
+    "name": "Jadar Lithium Deposit",
+    "country": "Serbia",
+    "owner": "Rio Tinto",
+    "category": "lithium",
+    "lat": 44.18,
+    "lon": 19.35,
+    "production": "One of largest lithium deposits in Europe. Revived 2024 after government reversal on mining ban.",
+    "tag": "EU — CONTROVERSIAL KEY TO EUROPEAN BATTERY SOVEREIGNTY"
+  },
+  {
+    "name": "Mutanda Mine",
+    "country": "DRC",
+    "owner": "Glencore (Switzerland)",
+    "category": "cobalt",
+    "lat": -10.78,
+    "lon": 25.95,
+    "production": "World's largest cobalt mine (restarted 2023). Katanga Province, DRC.",
+    "tag": "WESTERN — LARGEST SINGLE COBALT MINE"
+  },
+  {
+    "name": "Tenke Fungurume Mine",
+    "country": "DRC",
+    "owner": "CMOC (China Molybdenum Co.)",
+    "category": "cobalt",
+    "lat": -10.58,
+    "lon": 26.13,
+    "production": "Major cobalt-copper mine acquired by China from Freeport-McMoRan. DRC's second-largest.",
+    "tag": "CHINA — ACQUIRED KEY DRC COBALT ASSET"
+  },
+  {
+    "name": "Kasulo Artisanal Mining Zone",
+    "country": "DRC",
+    "owner": "Artisanal miners + Chinese traders",
+    "category": "cobalt",
+    "lat": -10.72,
+    "lon": 25.47,
+    "production": "Kolwezi-area artisanal cobalt mining. ~15-20% of DRC cobalt output. Major human rights concerns.",
+    "tag": "CONTESTED — CHILD LABOR AND CONFLICT MINERALS"
+  },
+  {
+    "name": "Bou-Azzer Mine",
+    "country": "Morocco",
+    "owner": "Managem Group (Morocco)",
+    "category": "cobalt",
+    "lat": 30.47,
+    "lon": -6.91,
+    "production": "World's only primary cobalt mine outside DRC. Strategic for Western supply diversification.",
+    "tag": "WESTERN-ALIGNED — ONLY NON-DRC PRIMARY COBALT"
+  },
+  {
+    "name": "Cobalt Mining Camp",
+    "country": "Canada",
+    "owner": "Various junior miners",
+    "category": "cobalt",
+    "lat": 47.39,
+    "lon": -79.68,
+    "production": "Historic silver-cobalt camp. Small-scale revival underway for critical mineral supply.",
+    "tag": "WESTERN — HISTORIC CAMP UNDER REVIVAL"
+  },
+  {
+    "name": "Ambatovy Mine",
+    "country": "Madagascar",
+    "owner": "Sumitomo (Japan) consortium",
+    "category": "cobalt",
+    "lat": -18.83,
+    "lon": 48.32,
+    "production": "Major nickel-cobalt laterite mine. One of few non-DRC cobalt sources globally.",
+    "tag": "JAPAN — KEY NON-DRC COBALT SOURCE"
+  },
+  {
+    "name": "Escondida Mine",
+    "country": "Chile",
+    "owner": "BHP (57.5%) + Rio Tinto (30%)",
+    "category": "copper",
+    "lat": -24.27,
+    "lon": -69.07,
+    "production": "World's largest copper mine. ~5% of global copper supply.",
+    "tag": "WESTERN — WORLD'S SINGLE LARGEST COPPER SOURCE"
+  },
+  {
+    "name": "Grasberg Mine",
+    "country": "Indonesia",
+    "owner": "Freeport Indonesia (48.8% Freeport-McMoRan, 51.2% Indonesia state)",
+    "category": "copper",
+    "lat": -4.05,
+    "lon": 137.12,
+    "production": "World's largest gold mine and second-largest copper mine. Underground block cave operation.",
+    "tag": "CONTESTED — INDONESIA TOOK MAJORITY CONTROL"
+  },
+  {
+    "name": "Kamoa-Kakula Mine",
+    "country": "DRC",
+    "owner": "Ivanhoe Mines (Canada) 40% + Zijin Mining (China) 40%",
+    "category": "copper",
+    "lat": -10.77,
+    "lon": 25.28,
+    "production": "Fastest-growing major copper mine in the world. Highest-grade major copper discovery in decades.",
+    "tag": "CHINA-CANADA — AFRICA'S HIGHEST GRADE COPPER"
+  },
+  {
+    "name": "Chuquicamata Mine",
+    "country": "Chile",
+    "owner": "Codelco (Chile state)",
+    "category": "copper",
+    "lat": -22.30,
+    "lon": -68.90,
+    "production": "World's largest open-pit copper mine by excavated volume. Transitioning to underground.",
+    "tag": "STATE — CHILE'S STRATEGIC COPPER ASSET"
+  },
+  {
+    "name": "Collahuasi Mine",
+    "country": "Chile",
+    "owner": "Anglo American (44%) + Glencore (44%)",
+    "category": "copper",
+    "lat": -20.98,
+    "lon": -68.71,
+    "production": "Third-largest copper mine in the world. High altitude operation at 4,400m.",
+    "tag": "WESTERN — MAJOR COPPER SUPPLY"
+  },
+  {
+    "name": "Oyu Tolgoi Mine",
+    "country": "Mongolia",
+    "owner": "Rio Tinto (66%) + Mongolia government (34%)",
+    "category": "copper",
+    "lat": 43.03,
+    "lon": 106.85,
+    "production": "Massive copper-gold mine. Underground expansion will make it world's 4th largest copper mine.",
+    "tag": "WESTERN — STRATEGIC MINE NEAR CHINESE BORDER"
+  },
+  {
+    "name": "Zangezur Copper-Molybdenum Combine",
+    "country": "Armenia",
+    "owner": "GeoProMining (Russia-linked)",
+    "category": "copper",
+    "lat": 39.15,
+    "lon": 46.22,
+    "production": "Largest mine in the South Caucasus. Major copper-molybdenum producer near Azerbaijan border.",
+    "tag": "RUSSIA-ALIGNED — CAUCASUS STRATEGIC MINERAL ASSET"
+  },
+  {
+    "name": "Las Bambas Mine",
+    "country": "Peru",
+    "owner": "MMG Limited (China Minmetals)",
+    "category": "copper",
+    "lat": -14.06,
+    "lon": -72.33,
+    "production": "One of world's top 10 copper mines. Frequent community blockades disrupt supply.",
+    "tag": "CHINA — MAJOR COPPER ASSET FACING SOCIAL RESISTANCE"
+  },
+  {
+    "name": "Baowu Steel (Baoshan)",
+    "country": "China",
+    "owner": "China Baowu Steel Group (state)",
+    "category": "steel",
+    "lat": 31.38,
+    "lon": 121.51,
+    "production": "World's largest steel producer. ~120M tonnes/year. Over 2x the output of any competitor.",
+    "tag": "CHINA — WORLD'S LARGEST STEEL COMPANY"
+  },
+  {
+    "name": "ArcelorMittal Dunkirk",
+    "country": "France",
+    "owner": "ArcelorMittal",
+    "category": "steel",
+    "lat": 51.04,
+    "lon": 2.35,
+    "production": "Europe's largest steelmaking complex. Key to EU industrial base and defense supply chain.",
+    "tag": "WESTERN — EUROPE'S LARGEST STEEL PLANT"
+  },
+  {
+    "name": "Nippon Steel Kimitsu Works",
+    "country": "Japan",
+    "owner": "Nippon Steel Corporation",
+    "category": "steel",
+    "lat": 35.32,
+    "lon": 139.88,
+    "production": "One of Japan's largest integrated steel mills. Nippon Steel is world's 4th largest producer.",
+    "tag": "JAPAN — CORE INDUSTRIAL STEEL CAPACITY"
+  },
+  {
+    "name": "POSCO Pohang Works",
+    "country": "South Korea",
+    "owner": "POSCO Holdings",
+    "category": "steel",
+    "lat": 36.01,
+    "lon": 129.37,
+    "production": "One of world's largest integrated steel mills. Also major cathode material producer for EV batteries.",
+    "tag": "SOUTH KOREA — STEEL AND BATTERY MATERIAL HUB"
+  },
+  {
+    "name": "Tata Steel Jamshedpur",
+    "country": "India",
+    "owner": "Tata Steel",
+    "category": "steel",
+    "lat": 22.80,
+    "lon": 86.20,
+    "production": "India's oldest integrated steel plant (founded 1907). Cornerstone of Indian industrialization.",
+    "tag": "INDIA — HISTORIC STRATEGIC STEEL PLANT"
+  },
+  {
+    "name": "JSW Steel Vijayanagar Works",
+    "country": "India",
+    "owner": "JSW Steel",
+    "category": "steel",
+    "lat": 15.17,
+    "lon": 76.49,
+    "production": "India's largest single-location steel plant. ~18M tonnes/year capacity.",
+    "tag": "INDIA — LARGEST SINGLE-SITE STEEL FACILITY"
+  },
+  {
+    "name": "Nucor Crawfordsville",
+    "country": "USA",
+    "owner": "Nucor Corporation",
+    "category": "steel",
+    "lat": 40.04,
+    "lon": -86.90,
+    "production": "Pioneer of thin-slab electric arc furnace steelmaking. Nucor is America's largest steel producer.",
+    "tag": "USA — LARGEST DOMESTIC STEEL PRODUCER"
+  },
+  {
+    "name": "Magnitogorsk Iron & Steel Works",
+    "country": "Russia",
+    "owner": "MMK (Magnitogorsk Iron & Steel)",
+    "category": "steel",
+    "lat": 53.39,
+    "lon": 59.06,
+    "production": "One of world's largest steel plants. Built under Stalin; remains critical to Russian military-industrial complex.",
+    "tag": "RUSSIA — KEY MILITARY-INDUSTRIAL STEEL SUPPLY"
+  },
+  {
+    "name": "TSMC Fab 18 (Tainan Science Park)",
+    "country": "Taiwan",
+    "owner": "TSMC",
+    "category": "semiconductor",
+    "lat": 23.11,
+    "lon": 120.27,
+    "production": "World's most advanced chip fab. Produces 3nm/5nm chips for Apple, Nvidia, AMD.",
+    "tag": "TAIWAN — MOST CRITICAL CHOKEPOINT IN GLOBAL TECH"
+  },
+  {
+    "name": "Samsung Austin Semiconductor",
+    "country": "USA",
+    "owner": "Samsung Electronics (South Korea)",
+    "category": "semiconductor",
+    "lat": 30.40,
+    "lon": -97.71,
+    "production": "Samsung's only advanced logic chip fab in the US. Produces 5nm-class processors.",
+    "tag": "SOUTH KOREA — US-BASED ADVANCED FAB"
+  },
+  {
+    "name": "Intel Ocotillo Campus (Fab 52/62)",
+    "country": "USA",
+    "owner": "Intel Corporation",
+    "category": "semiconductor",
+    "lat": 33.22,
+    "lon": -111.83,
+    "production": "Intel's most advanced US fabs under construction. $20B+ investment for Intel 18A process.",
+    "tag": "USA — REBUILDING DOMESTIC CHIP MANUFACTURING"
+  },
+  {
+    "name": "TSMC Arizona Fab",
+    "country": "USA",
+    "owner": "TSMC",
+    "category": "semiconductor",
+    "lat": 33.67,
+    "lon": -112.10,
+    "production": "TSMC's first advanced US fab. $40B+ investment. A1 chip production expected 2025.",
+    "tag": "USA — ONSHORING CRITICAL CHIP SUPPLY"
+  },
+  {
+    "name": "GlobalFoundries Fab 8",
+    "country": "USA",
+    "owner": "GlobalFoundries (Abu Dhabi Mubadala)",
+    "category": "semiconductor",
+    "lat": 42.98,
+    "lon": -73.87,
+    "production": "Largest semiconductor fab in the US by area. Produces mature-node chips for defense and automotive.",
+    "tag": "UAE-OWNED — KEY US DEFENSE CHIP SUPPLIER"
+  },
+  {
+    "name": "Samsung Pyeongtaek Campus",
+    "country": "South Korea",
+    "owner": "Samsung Electronics",
+    "category": "semiconductor",
+    "lat": 36.99,
+    "lon": 127.11,
+    "production": "World's largest semiconductor campus. Produces advanced memory (DRAM, NAND) and logic chips.",
+    "tag": "SOUTH KOREA — WORLD'S LARGEST CHIP CAMPUS"
+  },
+  {
+    "name": "SMIC Shanghai Fab",
+    "country": "China",
+    "owner": "SMIC (Semiconductor Manufacturing International Corp.)",
+    "category": "semiconductor",
+    "lat": 31.16,
+    "lon": 121.59,
+    "production": "China's most advanced chip foundry. Achieved 7nm-class despite US sanctions.",
+    "tag": "CHINA — MOST ADVANCED DOMESTIC FAB DESPITE SANCTIONS"
+  },
+  {
+    "name": "Intel Kiryat Gat Fab 28",
+    "country": "Israel",
+    "owner": "Intel Corporation",
+    "category": "semiconductor",
+    "lat": 31.61,
+    "lon": 34.77,
+    "production": "Intel's most advanced fab outside the US. $25B expansion announced for Intel 4 process.",
+    "tag": "WESTERN — INTEL'S MOST ADVANCED NON-US FAB"
+  },
+  {
+    "name": "Weipa Bauxite Mine",
+    "country": "Australia",
+    "owner": "Rio Tinto",
+    "category": "aluminum",
+    "lat": -12.63,
+    "lon": 141.88,
+    "production": "World's largest bauxite mining operation. Supplies alumina refineries across the Pacific.",
+    "tag": "WESTERN — WORLD'S LARGEST BAUXITE MINE"
+  },
+  {
+    "name": "Sangarédi Bauxite Mine",
+    "country": "Guinea",
+    "owner": "CBG (Alcoa/Rio Tinto consortium + Guinea state)",
+    "category": "aluminum",
+    "lat": 11.08,
+    "lon": -13.83,
+    "production": "Largest bauxite reserves in the world. Guinea holds ~25% of global bauxite reserves.",
+    "tag": "CONTESTED — WORLD'S LARGEST BAUXITE RESERVE"
+  },
+  {
+    "name": "Bratsk Aluminium Smelter",
+    "country": "Russia",
+    "owner": "UC Rusal",
+    "category": "aluminum",
+    "lat": 56.14,
+    "lon": 101.60,
+    "production": "Largest aluminum smelter outside China. Powered by Bratsk hydroelectric dam.",
+    "tag": "RUSSIA — LARGEST NON-CHINA ALUMINUM SMELTER"
+  },
+  {
+    "name": "Aluminium Bahrain (ALBA)",
+    "country": "Bahrain",
+    "owner": "Bahrain Mumtalakat (state 69%)",
+    "category": "aluminum",
+    "lat": 26.03,
+    "lon": 50.53,
+    "production": "Middle East's largest aluminum smelter. ~1.5M tonnes/year. Exports to 40+ countries.",
+    "tag": "GULF — MIDDLE EAST'S LARGEST ALUMINUM PRODUCER"
+  },
+  {
+    "name": "Norilsk Nickel Complex",
+    "country": "Russia",
+    "owner": "Nornickel (Interros/Potanin)",
+    "category": "nickel",
+    "lat": 69.35,
+    "lon": 88.20,
+    "production": "World's largest nickel and palladium producer. Also top platinum and copper producer.",
+    "tag": "RUSSIA — WORLD'S LARGEST NICKEL PRODUCER"
+  },
+  {
+    "name": "PT Vale Indonesia (Sorowako)",
+    "country": "Indonesia",
+    "owner": "Vale (Brazil) 44% + Indonesia state consortium 20%",
+    "category": "nickel",
+    "lat": -2.53,
+    "lon": 121.35,
+    "production": "Major laterite nickel operation. Indonesia produces ~50% of world's nickel.",
+    "tag": "INDONESIA — KEY NICKEL FOR EV BATTERY SUPPLY"
+  },
+  {
+    "name": "New Caledonia Nickel Mines",
+    "country": "New Caledonia (France)",
+    "owner": "SLN (Eramet France) + Prony Resources + Goro (consortium)",
+    "category": "nickel",
+    "lat": -22.17,
+    "lon": 166.46,
+    "production": "French territory holding ~25% of world's known nickel reserves. Multiple smelters in crisis.",
+    "tag": "FRANCE — STRATEGIC PACIFIC NICKEL TERRITORY"
+  },
+  {
+    "name": "Moa Nickel Plant",
+    "country": "Cuba",
+    "owner": "Sherritt International (Canada) 50% + Cuba state 50%",
+    "category": "nickel",
+    "lat": 20.66,
+    "lon": -74.95,
+    "production": "Major nickel-cobalt operation. One of few Western mining assets in Cuba despite US sanctions.",
+    "tag": "CONTESTED — CANADIAN ASSET UNDER US SANCTIONS PRESSURE"
+  },
+  {
+    "name": "Simandou Iron Ore Deposit",
+    "country": "Guinea",
+    "owner": "Rio Tinto (blocks 3&4) + Winning Consortium (China-Singapore, blocks 1&2)",
+    "category": "iron_ore",
+    "lat": 8.46,
+    "lon": -8.92,
+    "production": "World's largest untapped high-grade iron ore deposit. Decades of delays; construction underway.",
+    "tag": "CONTESTED — CHINA AND WEST COMPETE FOR AFRICA'S RICHEST IRON"
+  },
+  {
+    "name": "Pilbara Iron Ore Region",
+    "country": "Australia",
+    "owner": "BHP + Rio Tinto + Fortescue",
+    "category": "iron_ore",
+    "lat": -22.30,
+    "lon": 118.60,
+    "production": "World's largest iron ore exporting region. ~60% of global seaborne iron ore trade.",
+    "tag": "WESTERN — BACKBONE OF GLOBAL STEEL SUPPLY"
+  },
+  {
+    "name": "Carajás Iron Ore Complex",
+    "country": "Brazil",
+    "owner": "Vale (Brazil)",
+    "category": "iron_ore",
+    "lat": -6.08,
+    "lon": -50.17,
+    "production": "World's largest iron ore mine. Highest grade iron ore deposits on Earth.",
+    "tag": "BRAZIL — WORLD'S LARGEST IRON ORE MINE"
+  },
+  {
+    "name": "Krivoy Rog Iron Ore Basin",
+    "country": "Ukraine",
+    "owner": "ArcelorMittal + Metinvest (Akhmetov)",
+    "category": "iron_ore",
+    "lat": 47.91,
+    "lon": 33.38,
+    "production": "One of world's largest iron ore basins. Production disrupted but ongoing amid Russia-Ukraine war.",
+    "tag": "WAR ZONE — IRON ORE PRODUCTION UNDER CONFLICT"
+  }
+]

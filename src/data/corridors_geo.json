@@ -1,0 +1,1667 @@
+{
+  "corridors": [
+    {
+      "id": "BRI_MARITIME",
+      "name": "BRI — Maritime Silk Road",
+      "type": "maritime",
+      "status": "Operational. 147 countries. Houthi Red Sea attacks (2024-25) forced rerouting via Cape of Good Hope.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "147+ countries"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 2.5,
+      "waypoints": [
+        [
+          31.23,
+          121.47
+        ],
+        [
+          29.87,
+          122.2
+        ],
+        [
+          22.3,
+          114.17
+        ],
+        [
+          18.2,
+          109.5
+        ],
+        [
+          14.6,
+          109.2
+        ],
+        [
+          10.8,
+          107.1
+        ],
+        [
+          8,
+          105
+        ],
+        [
+          4.5,
+          104
+        ],
+        [
+          1.35,
+          103.82
+        ],
+        [
+          1.2,
+          103
+        ],
+        [
+          2,
+          100.5
+        ],
+        [
+          4.2,
+          98.7
+        ],
+        [
+          5.4,
+          95.3
+        ],
+        [
+          6.9,
+          80
+        ],
+        [
+          8.5,
+          76.9
+        ],
+        [
+          10,
+          73
+        ],
+        [
+          12.5,
+          61
+        ],
+        [
+          12.1,
+          54
+        ],
+        [
+          12.5,
+          45
+        ],
+        [
+          11.6,
+          43.15
+        ],
+        [
+          12.8,
+          43.3
+        ],
+        [
+          14.5,
+          42
+        ],
+        [
+          19,
+          39
+        ],
+        [
+          27.5,
+          34
+        ],
+        [
+          29.97,
+          32.53
+        ],
+        [
+          31.2,
+          32.3
+        ],
+        [
+          33.5,
+          28
+        ],
+        [
+          35,
+          24.5
+        ],
+        [
+          37.95,
+          23.63
+        ],
+        [
+          38.5,
+          20
+        ],
+        [
+          39.8,
+          18.5
+        ],
+        [
+          40.6,
+          14.5
+        ],
+        [
+          43.5,
+          10
+        ],
+        [
+          46,
+          5
+        ],
+        [
+          48.5,
+          2.5
+        ],
+        [
+          51.45,
+          3.6
+        ],
+        [
+          51.9,
+          4.5
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "BRI_LAND",
+      "name": "BRI — Silk Road Economic Belt",
+      "type": "land",
+      "status": "Operational. Xi'an hub. Peaked 2022, declining as shippers shift to Middle Corridor to avoid Russia sanctions.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Turkmenistan",
+        "Iran",
+        "Turkey"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 2.5,
+      "waypoints": [
+        [
+          34.26,
+          108.94
+        ],
+        [
+          36.06,
+          103.83
+        ],
+        [
+          39.9,
+          98.5
+        ],
+        [
+          42.5,
+          94
+        ],
+        [
+          43.8,
+          87.6
+        ],
+        [
+          44,
+          80
+        ],
+        [
+          43.24,
+          76.95
+        ],
+        [
+          42.9,
+          74.6
+        ],
+        [
+          41.3,
+          69.28
+        ],
+        [
+          41.66,
+          64.42
+        ],
+        [
+          39.65,
+          61
+        ],
+        [
+          38.5,
+          57.5
+        ],
+        [
+          37.95,
+          58.38
+        ],
+        [
+          36.3,
+          59.6
+        ],
+        [
+          35.69,
+          51.39
+        ],
+        [
+          35.5,
+          46
+        ],
+        [
+          33.34,
+          44.4
+        ],
+        [
+          36.8,
+          40
+        ],
+        [
+          37,
+          36.3
+        ],
+        [
+          39.9,
+          32.86
+        ],
+        [
+          41.01,
+          29
+        ],
+        [
+          42,
+          27.5
+        ],
+        [
+          43.5,
+          25
+        ],
+        [
+          44.4,
+          21
+        ],
+        [
+          47.5,
+          19.08
+        ],
+        [
+          48.2,
+          16.37
+        ],
+        [
+          50.1,
+          14.42
+        ],
+        [
+          51.05,
+          13.74
+        ],
+        [
+          51.43,
+          6.76
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "EURASIAN_LAND_BRIDGE",
+      "name": "New Eurasian Land Bridge",
+      "type": "land",
+      "status": "Operational but complicated. Russia-Belarus route faces Western sanctions scrutiny. Shippers prefer Middle Corridor.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Kazakhstan",
+        "Russia",
+        "Belarus",
+        "Poland",
+        "Germany"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 2,
+      "waypoints": [
+        [
+          34.75,
+          119.18
+        ],
+        [
+          35.5,
+          114.5
+        ],
+        [
+          34.75,
+          113.66
+        ],
+        [
+          34.26,
+          108.94
+        ],
+        [
+          36.06,
+          103.83
+        ],
+        [
+          39.9,
+          98.5
+        ],
+        [
+          42.5,
+          94
+        ],
+        [
+          43.8,
+          87.6
+        ],
+        [
+          44,
+          80
+        ],
+        [
+          43.24,
+          76.95
+        ],
+        [
+          51.17,
+          71.47
+        ],
+        [
+          51.13,
+          69.55
+        ],
+        [
+          53.2,
+          63.6
+        ],
+        [
+          54.97,
+          60
+        ],
+        [
+          55.8,
+          55
+        ],
+        [
+          55.75,
+          49.12
+        ],
+        [
+          54.3,
+          44
+        ],
+        [
+          53.5,
+          39
+        ],
+        [
+          55.75,
+          37.62
+        ],
+        [
+          54,
+          33
+        ],
+        [
+          53.9,
+          27.57
+        ],
+        [
+          52.23,
+          21.01
+        ],
+        [
+          52.4,
+          16.92
+        ],
+        [
+          52.52,
+          13.4
+        ],
+        [
+          51.5,
+          11.97
+        ],
+        [
+          51.43,
+          6.76
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "CPEC",
+      "name": "China–Pakistan Economic Corridor (CPEC)",
+      "type": "land",
+      "status": "Phase 1 operational, Phase 2 under construction. Gwadar underutilized. ML-1 rail upgrade delayed. Balochistan security issues.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Pakistan"
+      ],
+      "color": "#f85149",
+      "dashArray": "8, 5",
+      "weight": 2,
+      "waypoints": [
+        [
+          39.47,
+          75.99
+        ],
+        [
+          38.5,
+          76
+        ],
+        [
+          37.05,
+          76.2
+        ],
+        [
+          36.85,
+          75.33
+        ],
+        [
+          36.31,
+          74.65
+        ],
+        [
+          35.92,
+          74.35
+        ],
+        [
+          35.33,
+          73
+        ],
+        [
+          34.02,
+          71.58
+        ],
+        [
+          33.69,
+          73.04
+        ],
+        [
+          32,
+          72
+        ],
+        [
+          30.2,
+          71.5
+        ],
+        [
+          28.38,
+          68.37
+        ],
+        [
+          27,
+          67
+        ],
+        [
+          25.4,
+          65
+        ],
+        [
+          25.12,
+          62.32
+        ]
+      ],
+      "opStatus": "partial"
+    },
+    {
+      "id": "CHINA_INDOCHINA",
+      "name": "China–Indochina Peninsula Corridor",
+      "type": "land",
+      "status": "Partially operational. China-Laos railway open (Dec 2021). Thailand high-speed rail delayed to ~2029. Malaysia-Singapore separate.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Laos",
+        "Thailand",
+        "Myanmar",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "color": "#f85149",
+      "dashArray": "8, 5",
+      "weight": 1.8,
+      "waypoints": [
+        [
+          25.04,
+          102.68
+        ],
+        [
+          23.5,
+          102.5
+        ],
+        [
+          22.4,
+          101.8
+        ],
+        [
+          21.3,
+          101.6
+        ],
+        [
+          19.9,
+          102.13
+        ],
+        [
+          17.97,
+          102.63
+        ],
+        [
+          15.87,
+          102.5
+        ],
+        [
+          14.7,
+          101
+        ],
+        [
+          13.75,
+          100.52
+        ],
+        [
+          9.5,
+          100.5
+        ],
+        [
+          7,
+          100.5
+        ],
+        [
+          4.2,
+          103.5
+        ],
+        [
+          1.35,
+          103.82
+        ]
+      ],
+      "opStatus": "partial"
+    },
+    {
+      "id": "IMEC",
+      "name": "India–Middle East–Europe Corridor (IMEC)",
+      "type": "mixed",
+      "status": "Under construction. Stalled by Gaza war + Hormuz. EU-India FTA Jan 2026 secured legal backbone.",
+      "team": "BUILDER",
+      "signatories": [
+        "India",
+        "USA",
+        "EU",
+        "Saudi Arabia",
+        "UAE",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "color": "#58a6ff",
+      "dashArray": "3, 5",
+      "weight": 2.5,
+      "waypoints": [
+        [
+          18.95,
+          72.95
+        ],
+        [
+          19.5,
+          68
+        ],
+        [
+          21.5,
+          60
+        ],
+        [
+          24,
+          57
+        ],
+        [
+          24.99,
+          55.06
+        ],
+        [
+          24.8,
+          54.65
+        ],
+        [
+          25.5,
+          53
+        ],
+        [
+          26.43,
+          50.1
+        ],
+        [
+          27,
+          48
+        ],
+        [
+          28.5,
+          41
+        ],
+        [
+          29.5,
+          36
+        ],
+        [
+          30.5,
+          35.5
+        ],
+        [
+          31.5,
+          35.2
+        ],
+        [
+          32.82,
+          34.99
+        ],
+        [
+          34,
+          33.5
+        ],
+        [
+          35.5,
+          28
+        ],
+        [
+          37.95,
+          23.63
+        ],
+        [
+          39,
+          20.5
+        ],
+        [
+          40,
+          18.5
+        ],
+        [
+          41.5,
+          16
+        ],
+        [
+          43,
+          14
+        ],
+        [
+          45.65,
+          13.77
+        ]
+      ],
+      "opStatus": "stalled"
+    },
+    {
+      "id": "INSTC",
+      "name": "International North–South Transport Corridor (INSTC)",
+      "type": "mixed",
+      "status": "Partially operational. Rasht-Astara rail gap (162km, Iran-Azerbaijan) still under construction. Maritime leg active. Demand surging post-Ukraine.",
+      "team": "MIXED",
+      "signatories": [
+        "India",
+        "Iran",
+        "Russia",
+        "Azerbaijan"
+      ],
+      "color": "#d29922",
+      "dashArray": "8, 5",
+      "weight": 2,
+      "waypoints": [
+        [
+          18.95,
+          72.95
+        ],
+        [
+          20,
+          68
+        ],
+        [
+          22,
+          62
+        ],
+        [
+          24.5,
+          58
+        ],
+        [
+          25.29,
+          57.06
+        ],
+        [
+          27.19,
+          56.28
+        ],
+        [
+          28,
+          55
+        ],
+        [
+          30,
+          53
+        ],
+        [
+          32.5,
+          52
+        ],
+        [
+          35.69,
+          51.39
+        ],
+        [
+          36.5,
+          51
+        ],
+        [
+          38.07,
+          46.3
+        ],
+        [
+          39.5,
+          47.5
+        ],
+        [
+          40.41,
+          49.87
+        ],
+        [
+          41.7,
+          48
+        ],
+        [
+          42.3,
+          47.5
+        ],
+        [
+          43.3,
+          46
+        ],
+        [
+          45,
+          42
+        ],
+        [
+          48,
+          40
+        ],
+        [
+          52,
+          38
+        ],
+        [
+          55.75,
+          37.62
+        ],
+        [
+          57.5,
+          34
+        ],
+        [
+          59.9,
+          30.3
+        ]
+      ],
+      "opStatus": "partial"
+    },
+    {
+      "id": "IRAQ_DEV_ROAD",
+      "name": "Iraq Development Road",
+      "type": "land",
+      "status": "Under construction. 63km road inaugurated Dec 2025. Phase 1 target 2028.",
+      "team": "BUILDER",
+      "signatories": [
+        "Iraq",
+        "Turkey",
+        "Qatar",
+        "UAE"
+      ],
+      "color": "#58a6ff",
+      "dashArray": "8, 5",
+      "weight": 2,
+      "waypoints": [
+        [
+          29.98,
+          48.57
+        ],
+        [
+          30.5,
+          47.8
+        ],
+        [
+          31,
+          47
+        ],
+        [
+          32,
+          45.5
+        ],
+        [
+          33.34,
+          44.4
+        ],
+        [
+          34.5,
+          44
+        ],
+        [
+          35.5,
+          43.5
+        ],
+        [
+          36.34,
+          43.14
+        ],
+        [
+          36.8,
+          42
+        ],
+        [
+          37,
+          40.5
+        ],
+        [
+          36.89,
+          36.9
+        ],
+        [
+          36.8,
+          36.5
+        ],
+        [
+          36.2,
+          36.16
+        ]
+      ],
+      "opStatus": "partial"
+    },
+    {
+      "id": "MIDDLE_CORRIDOR",
+      "name": "Trans-Caspian Middle Corridor",
+      "type": "mixed",
+      "status": "Biggest winner of Russia-Ukraine war. Record cargo 2024-25. Bypasses Russia. EU heavily investing. Caspian shipping expanding.",
+      "team": "BUILDER",
+      "signatories": [
+        "Kazakhstan",
+        "Azerbaijan",
+        "Georgia",
+        "Turkey",
+        "EU"
+      ],
+      "color": "#58a6ff",
+      "dashArray": null,
+      "weight": 2,
+      "waypoints": [
+        [
+          43.24,
+          76.95
+        ],
+        [
+          44.8,
+          75
+        ],
+        [
+          44.5,
+          72
+        ],
+        [
+          43.5,
+          68.5
+        ],
+        [
+          42.5,
+          63
+        ],
+        [
+          42,
+          59.5
+        ],
+        [
+          41.8,
+          52.4
+        ],
+        [
+          40.5,
+          50
+        ],
+        [
+          40.41,
+          49.87
+        ],
+        [
+          41.7,
+          44.8
+        ],
+        [
+          41.69,
+          44.8
+        ],
+        [
+          42.27,
+          42.7
+        ],
+        [
+          41.72,
+          41.64
+        ],
+        [
+          41.64,
+          41.63
+        ],
+        [
+          41,
+          40.5
+        ],
+        [
+          40.2,
+          38
+        ],
+        [
+          39.9,
+          32.86
+        ],
+        [
+          41.01,
+          29
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "ZANGEZUR",
+      "name": "Zangezur / TRIPP Corridor",
+      "type": "land",
+      "status": "Stalled. Turkey-Azerbaijan want land route through S. Armenia. Armenia resists. Negotiations ongoing, no construction.",
+      "team": "BUILDER",
+      "signatories": [
+        "Azerbaijan",
+        "Armenia",
+        "Turkey",
+        "USA"
+      ],
+      "color": "#58a6ff",
+      "dashArray": "3, 5",
+      "weight": 1.8,
+      "waypoints": [
+        [
+          39.9,
+          32.86
+        ],
+        [
+          39.72,
+          36
+        ],
+        [
+          39.2,
+          39.5
+        ],
+        [
+          39.7,
+          43.9
+        ],
+        [
+          39.3,
+          44.3
+        ],
+        [
+          39.2,
+          45
+        ],
+        [
+          39,
+          45.4
+        ],
+        [
+          39.21,
+          45.41
+        ],
+        [
+          39.5,
+          46.5
+        ],
+        [
+          40.41,
+          49.87
+        ]
+      ],
+      "opStatus": "stalled"
+    },
+    {
+      "id": "POLAR_SILK_ROAD",
+      "name": "Polar Silk Road / Northern Sea Route",
+      "type": "maritime",
+      "status": "Seasonal. Russia promoting. China declared 'near-Arctic state'. 36M tons shipped 2023.",
+      "team": "BLOCKER",
+      "signatories": [
+        "Russia",
+        "China"
+      ],
+      "color": "#f85149",
+      "dashArray": "3, 5",
+      "weight": 1.5,
+      "waypoints": [
+        [
+          31.23,
+          121.47
+        ],
+        [
+          35,
+          130
+        ],
+        [
+          42,
+          140
+        ],
+        [
+          50,
+          150
+        ],
+        [
+          57,
+          160
+        ],
+        [
+          63,
+          170
+        ],
+        [
+          68,
+          175
+        ],
+        [
+          72,
+          168
+        ],
+        [
+          73.5,
+          145
+        ],
+        [
+          75,
+          120
+        ],
+        [
+          76,
+          100
+        ],
+        [
+          75,
+          80
+        ],
+        [
+          73,
+          65
+        ],
+        [
+          71,
+          50
+        ],
+        [
+          69,
+          40
+        ],
+        [
+          68.97,
+          33.07
+        ],
+        [
+          66,
+          25
+        ],
+        [
+          62,
+          15
+        ],
+        [
+          58,
+          8
+        ],
+        [
+          55,
+          5
+        ],
+        [
+          51.9,
+          4.5
+        ]
+      ],
+      "opStatus": "stalled"
+    },
+    {
+      "id": "DJIBOUTI_ADDIS",
+      "name": "Djibouti–Addis Ababa Railway (BRI Africa)",
+      "type": "land",
+      "status": "Operational since 2018. Chinese-built 752km. Underperforming — power and maintenance issues. Ethiopia's only rail to sea.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Djibouti",
+        "Ethiopia"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 1.5,
+      "waypoints": [
+        [
+          11.6,
+          43.15
+        ],
+        [
+          11.2,
+          43
+        ],
+        [
+          10.5,
+          42.5
+        ],
+        [
+          9.8,
+          42.1
+        ],
+        [
+          9.3,
+          42.12
+        ],
+        [
+          9.02,
+          38.75
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "MOMBASA_NAIROBI",
+      "name": "Mombasa–Nairobi SGR (BRI Africa)",
+      "type": "land",
+      "status": "Operational since 2017. Profitable. Extension to Naivasha built, Kisumu extension unfunded. Uganda link stalled.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Kenya"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 1.5,
+      "waypoints": [
+        [
+          -4.04,
+          39.67
+        ],
+        [
+          -3.4,
+          39
+        ],
+        [
+          -2.8,
+          38
+        ],
+        [
+          -2.2,
+          37.5
+        ],
+        [
+          -1.29,
+          36.82
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "LOBITO",
+      "name": "Lobito Corridor (US/EU counter-BRI in Africa)",
+      "type": "land",
+      "status": "Under construction. US-backed. Connects DRC/Zambia copper belt to Angola's Atlantic coast.",
+      "team": "BUILDER",
+      "signatories": [
+        "USA",
+        "EU",
+        "Angola",
+        "DRC",
+        "Zambia"
+      ],
+      "color": "#58a6ff",
+      "dashArray": "8, 5",
+      "weight": 1.8,
+      "waypoints": [
+        [
+          -12.35,
+          13.55
+        ],
+        [
+          -12.3,
+          16
+        ],
+        [
+          -12,
+          19
+        ],
+        [
+          -11.5,
+          22
+        ],
+        [
+          -11,
+          25
+        ],
+        [
+          -10.98,
+          28.63
+        ],
+        [
+          -12.97,
+          28.28
+        ],
+        [
+          -15.42,
+          28.28
+        ]
+      ],
+      "opStatus": "partial"
+    },
+    {
+      "id": "BCIM",
+      "name": "BCIM Economic Corridor (Bangladesh-China-India-Myanmar)",
+      "type": "land",
+      "status": "Stalled. Proposed Kunming-Mandalay-Dhaka-Kolkata. India reluctant due to China concerns. Limited progress.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Myanmar",
+        "Bangladesh",
+        "India"
+      ],
+      "color": "#f85149",
+      "dashArray": "3, 5",
+      "weight": 1.5,
+      "waypoints": [
+        [
+          25.04,
+          102.68
+        ],
+        [
+          24,
+          100
+        ],
+        [
+          22,
+          97
+        ],
+        [
+          21.97,
+          96.08
+        ],
+        [
+          20.8,
+          95
+        ],
+        [
+          21.5,
+          92.5
+        ],
+        [
+          22.33,
+          91.8
+        ],
+        [
+          23.8,
+          90.4
+        ],
+        [
+          22.57,
+          88.36
+        ]
+      ],
+      "opStatus": "stalled"
+    },
+    {
+      "id": "CHINA_MYANMAR_PIPE",
+      "name": "China–Myanmar Oil & Gas Pipelines",
+      "type": "land",
+      "status": "Operational since 2013-2017. Oil + gas dual pipeline. Bypasses Malacca Strait. 771km.",
+      "team": "BLOCKER",
+      "signatories": [
+        "China",
+        "Myanmar"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 1.5,
+      "waypoints": [
+        [
+          19.43,
+          93.55
+        ],
+        [
+          20.5,
+          94.5
+        ],
+        [
+          21.97,
+          96.08
+        ],
+        [
+          22.5,
+          97.5
+        ],
+        [
+          23.5,
+          99
+        ],
+        [
+          24.5,
+          101
+        ],
+        [
+          25.04,
+          102.68
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "SUEZ_ROUTE",
+      "name": "Suez Canal Global Trade Route",
+      "type": "maritime",
+      "status": "Operational. 12-15% of global trade. Revenue $9.4B (2023). Houthi attacks diverting traffic since 2024.",
+      "team": "MIXED",
+      "signatories": [
+        "Egypt"
+      ],
+      "color": "#d29922",
+      "dashArray": null,
+      "weight": 2,
+      "waypoints": [
+        [
+          1.35,
+          103.82
+        ],
+        [
+          5.4,
+          95.3
+        ],
+        [
+          8.5,
+          76.9
+        ],
+        [
+          12.5,
+          61
+        ],
+        [
+          12.5,
+          45
+        ],
+        [
+          14.5,
+          42
+        ],
+        [
+          19,
+          39
+        ],
+        [
+          27.5,
+          34
+        ],
+        [
+          29.97,
+          32.53
+        ],
+        [
+          30.5,
+          32.3
+        ],
+        [
+          31.26,
+          32.3
+        ],
+        [
+          33.5,
+          28
+        ],
+        [
+          36,
+          22
+        ],
+        [
+          36.13,
+          -5.44
+        ],
+        [
+          48.5,
+          2.5
+        ],
+        [
+          51.9,
+          4.5
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "CAPE_ROUTE",
+      "name": "Cape of Good Hope Emergency Bypass",
+      "type": "maritime",
+      "status": "Active reroute since 2024. +10-14 days vs Suez. Shipping costs 2-3x. Used when Houthis block Red Sea.",
+      "team": "MIXED",
+      "signatories": [],
+      "color": "#d29922",
+      "dashArray": null,
+      "weight": 1.5,
+      "waypoints": [
+        [
+          1.35,
+          103.82
+        ],
+        [
+          5.4,
+          95.3
+        ],
+        [
+          8.5,
+          76.9
+        ],
+        [
+          5,
+          60
+        ],
+        [
+          -2,
+          50
+        ],
+        [
+          -8,
+          42
+        ],
+        [
+          -15,
+          38
+        ],
+        [
+          -25,
+          35
+        ],
+        [
+          -34,
+          27
+        ],
+        [
+          -34.8,
+          20
+        ],
+        [
+          -33.5,
+          14
+        ],
+        [
+          -25,
+          8
+        ],
+        [
+          -10,
+          -2
+        ],
+        [
+          0,
+          -5
+        ],
+        [
+          10,
+          -10
+        ],
+        [
+          20,
+          -18
+        ],
+        [
+          30,
+          -15
+        ],
+        [
+          36.13,
+          -5.44
+        ],
+        [
+          43.5,
+          10
+        ],
+        [
+          48.5,
+          2.5
+        ],
+        [
+          51.9,
+          4.5
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "TRANS_SIBERIAN",
+      "name": "Trans-Siberian Railway",
+      "type": "land",
+      "status": "Operational. World's longest railway (9,289km). Moscow-Vladivostok. Sanctions complicate East-West freight.",
+      "team": "BLOCKER",
+      "signatories": [
+        "Russia"
+      ],
+      "color": "#f85149",
+      "dashArray": null,
+      "weight": 1.8,
+      "waypoints": [
+        [
+          55.75,
+          37.62
+        ],
+        [
+          56.84,
+          53.23
+        ],
+        [
+          56.95,
+          60.6
+        ],
+        [
+          55.03,
+          73.37
+        ],
+        [
+          56.01,
+          92.87
+        ],
+        [
+          52.29,
+          104.3
+        ],
+        [
+          51.83,
+          107.59
+        ],
+        [
+          48.5,
+          116.5
+        ],
+        [
+          48,
+          123
+        ],
+        [
+          47,
+          128
+        ],
+        [
+          44,
+          131
+        ],
+        [
+          43.12,
+          131.88
+        ]
+      ],
+      "opStatus": "operational"
+    },
+    {
+      "id": "LAPIS_LAZULI",
+      "name": "Lapis Lazuli Transit Corridor",
+      "type": "land",
+      "status": "Minimal traffic. Afghanistan → Turkmenistan → Caspian → Azerbaijan → Georgia → Turkey. Taliban control complicates.",
+      "team": "MIXED",
+      "signatories": [
+        "Afghanistan",
+        "Turkmenistan",
+        "Azerbaijan",
+        "Georgia",
+        "Turkey"
+      ],
+      "color": "#d29922",
+      "dashArray": "3, 5",
+      "weight": 1.2,
+      "waypoints": [
+        [
+          34.53,
+          69.17
+        ],
+        [
+          35.95,
+          62.17
+        ],
+        [
+          37.95,
+          58.38
+        ],
+        [
+          39,
+          54
+        ],
+        [
+          41.8,
+          52.4
+        ],
+        [
+          40.5,
+          50
+        ],
+        [
+          40.41,
+          49.87
+        ],
+        [
+          41.69,
+          44.8
+        ],
+        [
+          42.27,
+          42.7
+        ],
+        [
+          41.72,
+          41.64
+        ],
+        [
+          41,
+          40.5
+        ],
+        [
+          39.9,
+          32.86
+        ]
+      ],
+      "opStatus": "stalled"
+    }
+  ]
+}

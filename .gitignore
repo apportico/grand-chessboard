@@ -1,0 +1,7 @@
+node_modules
+dist
+.idea
+.claude
+*.local
+.env*
+.DS_Store
