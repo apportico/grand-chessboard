@@ -15,6 +15,16 @@ export default function Scoreboard({ moves, selectedYear, page, onPageChange, on
           Map
         </button>
         <button
+          onClick={() => onPageChange('labor')}
+          className={`text-xs px-3 py-1 rounded cursor-pointer transition-colors ${
+            page === 'labor'
+              ? 'bg-gray-200 text-gray-900'
+              : 'text-gray-500 hover:text-gray-700 hover:bg-gray-100'
+          }`}
+        >
+          Labor
+        </button>
+        <button
           onClick={() => onPageChange('moves')}
           className={`text-xs px-3 py-1 rounded cursor-pointer transition-colors ${
             page === 'moves'

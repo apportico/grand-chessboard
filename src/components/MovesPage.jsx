@@ -85,9 +85,11 @@ export default function MovesPage({ state, dispatch }) {
         {/* Right: Detail panel */}
         <DetailPanel
           move={selectedMove}
+          allMoves={state.moves}
           onEdit={handleEditMove}
           onDelete={handleDeleteMove}
           onClose={() => dispatch({ type: 'SELECT_MOVE', id: null })}
+          onSelectMove={(id) => dispatch({ type: 'SELECT_MOVE', id })}
         />
       </div>
 

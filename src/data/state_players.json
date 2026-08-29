@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "description": "Countries classified by role in the corridor war. Based on official doctrines, stated goals, and observed behavior.",
+    "tiers": {
+      "principal": "Sets the global agenda. Builds or blocks corridors. Has independent military, economic, and diplomatic capacity to act alone.",
+      "regional_power": "Shapes its region. Can swing between principals. Has enough weight to block or enable corridors in its geography.",
+      "satellite": "Aligned with a principal or regional power. Limited independent action but strategically located.",
+      "contested": "Territory multiple powers compete over. Alignment unstable or fractured.",
+      "swing_state": "Courted by both sides. Has leverage because both blocs need it. Plays principals against each other."
+    },
+    "last_updated": "2026-04-10"
+  },
+
+  "principals": [
+    {
+      "id": "US",
+      "name": "United States",
+      "tier": "principal",
+      "bloc": "BUILDER",
+      "lat": 38.90,
+      "lon": -77.04,
+      "official_doctrine": [
+        "2022 National Security Strategy: 'Out-compete China, constrain Russia, shape rules of the road'",
+        "2025 National Security Strategy (Trump): 'Donroe Doctrine — deny non-hemispheric competitors the Western Hemisphere'",
+        "IMEC co-architect: counter-BRI corridor through India-Gulf-Israel-Europe",
+        "AUKUS/Quad: military-diplomatic architecture to contain China in Indo-Pacific",
+        "Maximum pressure on Iran: sanctions, strikes, Hormuz control"
+      ],
+      "goals": [
+        "Maintain dollar as global reserve currency",
+        "Keep chokepoints open and under allied control (Hormuz, Suez, Panama, Malacca)",
+        "Prevent China from dominating Eurasian trade routes",
+        "Secure semiconductor supply chain (Taiwan/TSMC)",
+        "Neutralize Iran as corridor blocker",
+        "Expel China/Russia from Western Hemisphere"
+      ],
+      "tools": ["Military (800+ bases globally)", "Dollar/SWIFT system", "Tech export controls", "Alliance network (NATO, Quad, AUKUS, Abraham Accords)", "Private capital deployment (BlackRock, Brookfield)"],
+      "vulnerabilities": ["Domestic political instability", "Overstretched military commitments", "Dollar weaponization pushing de-dollarization", "Declining manufacturing base", "Tariff policy alienating allies"],
+      "corridors": ["IMEC (architect)", "Trans-Pacific (defender)", "Panama Canal (controller)"],
+      "flag_emoji": "🇺🇸"
+    },
+    {
+      "id": "CN",
+      "name": "China",
+      "tier": "principal",
+      "bloc": "BLOCKER",
+      "lat": 39.90,
+      "lon": 116.40,
+      "official_doctrine": [
+        "Belt and Road Initiative (2013): 'Community of shared future for mankind' — infrastructure connectivity across 150+ countries",
+        "Made in China 2025: tech self-sufficiency in 10 strategic sectors",
+        "Dual Circulation Strategy (2020): reduce dependence on Western markets",
+        "Global Security Initiative (2022): alternative to US-led security architecture",
+        "Global Development Initiative (2021): counter-narrative to Western development model"
+      ],
+      "goals": [
+        "Secure overland trade routes to Europe bypassing US-controlled seas",
+        "Control critical mineral supply chains (lithium, cobalt, rare earths)",
+        "Establish yuan as alternative reserve currency",
+        "Reunify Taiwan (seize semiconductor chokepoint)",
+        "Build Indian Ocean port network (String of Pearls)",
+        "Make BRI the default global infrastructure standard"
+      ],
+      "tools": ["BRI ($1T+ deployed)", "State banks (CDB, EXIM, AIIB)", "PLA Navy (350+ ships, world's largest)", "Debt-trap diplomacy", "Tech platforms (Huawei 5G, TikTok)", "CIPS/mBridge payment systems"],
+      "vulnerabilities": ["Malacca Strait dependency (80% of oil imports)", "Demographic collapse", "Real estate crisis", "US chip export controls", "BRI debt backlash", "No combat-tested military"],
+      "corridors": ["BRI Maritime Silk Road", "BRI overland (China-Europe rail)", "CPEC (Pakistan)", "CMEC (Myanmar)", "Chancay (Peru bypass)"],
+      "flag_emoji": "🇨🇳"
+    },
+    {
+      "id": "RU",
+      "name": "Russia",
+      "tier": "principal",
+      "bloc": "BLOCKER",
+      "lat": 55.75,
+      "lon": 37.62,
+      "official_doctrine": [
+        "2023 Foreign Policy Concept: 'Multipolar world order, end Western hegemony'",
+        "Near Abroad doctrine: former Soviet states are Russia's sphere of influence",
+        "Energy as weapon: pipeline politics (Nord Stream, TurkStream, Power of Siberia)",
+        "Arctic Strategy: Northern Sea Route as alternative global corridor"
+      ],
+      "goals": [
+        "Prevent NATO expansion (Ukraine as red line)",
+        "Maintain energy leverage over Europe",
+        "Control Arctic shipping route as ice melts",
+        "Secure warm-water naval bases (Tartus lost, Crimea contested)",
+        "Capture African mineral belt via Wagner/Africa Corps",
+        "Keep INSTC alive as Russia-India-Iran corridor"
+      ],
+      "tools": ["Nuclear arsenal (largest globally)", "Energy exports (oil, gas, uranium)", "Wagner/Africa Corps mercenaries", "Arms sales (S-400, Su-35)", "UN Security Council veto", "Information warfare"],
+      "vulnerabilities": ["Economy smaller than Italy's", "Military depleted by Ukraine", "Lost Syria/Mediterranean access", "Dependent on China as buyer", "Brain drain (700K+ emigrated since 2022)", "Caucasus credibility collapsed"],
+      "corridors": ["INSTC (junior partner)", "Northern Sea Route (Arctic)", "TurkStream (gas to Europe via Turkey)"],
+      "flag_emoji": "🇷🇺"
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "tier": "principal",
+      "bloc": "BUILDER",
+      "lat": 28.61,
+      "lon": 77.21,
+      "official_doctrine": [
+        "Multi-alignment / Strategic Autonomy: maintains ties with US, Russia, and Gulf simultaneously",
+        "Neighborhood First: prevent Chinese encirclement in Indian Ocean",
+        "Act East Policy: deepen ASEAN and Pacific engagement",
+        "Make in India: become global manufacturing alternative to China",
+        "SAGAR (Security and Growth for All in the Region): Indian Ocean leadership"
+      ],
+      "goals": [
+        "Become IMEC's eastern anchor (replace China as global factory)",
+        "Secure Indian Ocean from Chinese String of Pearls",
+        "Counter CPEC/Gwadar with Chabahar/INSTC",
+        "Achieve semiconductor manufacturing capability",
+        "Maintain strategic autonomy (buy Russian oil AND join Quad)",
+        "Neutralize Pakistan as China's proxy"
+      ],
+      "tools": ["1.4B population (demographic dividend)", "IT services sector ($250B+)", "Quad membership", "Chabahar port", "Adani/Reliance private sector", "Growing defense industry"],
+      "vulnerabilities": ["Border conflicts (China, Pakistan)", "Infrastructure gap vs China", "Energy import dependency (85% oil)", "Bureaucratic complexity", "Kashmir instability"],
+      "corridors": ["IMEC (eastern anchor)", "INSTC (via Chabahar)", "India-Middle East corridor"],
+      "flag_emoji": "🇮🇳"
+    }
+  ],
+
+  "regional_powers": [
+    {
+      "id": "TR",
+      "name": "Turkey",
+      "tier": "regional_power",
+      "bloc": "SWING",
+      "lat": 39.93,
+      "lon": 32.86,
+      "official_doctrine": [
+        "Blue Homeland (Mavi Vatan): Turkish maritime sovereignty over Eastern Mediterranean and Black Sea",
+        "Neo-Ottoman reach: influence from Balkans to Central Asia to Horn of Africa",
+        "NATO member that buys Russian S-400s and invades Syria"
+      ],
+      "goals": [
+        "Control Eastern Mediterranean energy routes",
+        "Build Turkic corridor (Turkey → Azerbaijan → Central Asia)",
+        "Become indispensable to ALL corridors (IMEC, BRI, Middle Corridor all need Turkish geography)",
+        "Dominate post-Assad Syria",
+        "Expand defense exports (TB2 drones as diplomatic tool)"
+      ],
+      "leans_toward": "Both — NATO member but acts independently. Blocks Sweden's NATO bid, buys Russian S-400, invades Syria, backs Azerbaijan. Erdogan plays every side.",
+      "satellites": ["Azerbaijan", "Northern Cyprus", "Libya (GNA)", "Somalia (military base)", "Qatar (ally)"],
+      "flag_emoji": "🇹🇷"
+    },
+    {
+      "id": "IR",
+      "name": "Iran",
+      "tier": "regional_power",
+      "bloc": "BLOCKER",
+      "lat": 35.69,
+      "lon": 51.39,
+      "official_doctrine": [
+        "Forward Defense: use proxy network to fight enemies far from Iranian soil",
+        "Axis of Resistance: Hamas, Hezbollah, Houthis, Iraqi militias, Syrian loyalists",
+        "Neither East nor West (rhetoric) — but now firmly in China-Russia axis",
+        "Nuclear ambiguity: 60% enrichment, weeks from breakout"
+      ],
+      "goals": [
+        "Survive regime change attempts",
+        "Control chokepoints (Hormuz, Bab al-Mandab via Houthis)",
+        "Block IMEC (requires Saudi-Israel normalization Iran opposes)",
+        "Maintain land bridge to Mediterranean (Tehran → Baghdad → Damascus → Beirut) — NOW SEVERED",
+        "Achieve nuclear deterrent"
+      ],
+      "leans_toward": "BLOCKER axis (China 25yr deal, Russia 20yr treaty). But proxies are collapsing: Hezbollah decapitated, Assad fallen, land bridge cut.",
+      "satellites": ["Houthis (Yemen)", "Iraqi Shia militias (PMF)", "Hezbollah (Lebanon — weakened)", "Hamas (Gaza — degraded)"],
+      "flag_emoji": "🇮🇷"
+    },
+    {
+      "id": "SA",
+      "name": "Saudi Arabia",
+      "tier": "regional_power",
+      "bloc": "SWING",
+      "lat": 24.71,
+      "lon": 46.68,
+      "official_doctrine": [
+        "Vision 2030: economic diversification away from oil dependency",
+        "IMEC signatory: committed to India-Gulf-Europe corridor",
+        "BRICS member (2024): hedging toward multipolar order",
+        "Accepting yuan for some oil sales: gradual petrodollar diversification"
+      ],
+      "goals": [
+        "Diversify economy before oil era ends (NEOM, entertainment, tourism, tech)",
+        "Normalize with Israel (paused after Oct 7, still strategic goal)",
+        "Become IMEC's Gulf anchor",
+        "Maintain US security umbrella while hedging with China",
+        "Contain Iran (but also signed China-brokered deal with Iran)",
+        "Control Yemen outcome"
+      ],
+      "leans_toward": "BUILDER but hedging heavily. Joined BRICS, accepts yuan, buys Chinese weapons — but core security still depends on US.",
+      "satellites": ["Bahrain", "Egypt (economic dependent)", "Jordan (subsidized)", "Sudan SAF (backed)"],
+      "flag_emoji": "🇸🇦"
+    },
+    {
+      "id": "AE",
+      "name": "United Arab Emirates",
+      "tier": "regional_power",
+      "bloc": "SWING",
+      "lat": 24.45,
+      "lon": 54.38,
+      "official_doctrine": [
+        "Economic hedging: invest everywhere, align with no one exclusively",
+        "Abraham Accords signatory: normalized with Israel",
+        "Port empire: DP World operates 78 terminals in 40+ countries",
+        "AI/tech pivot: attracting Western tech firms and talent"
+      ],
+      "goals": [
+        "Build the Gulf's dominant port/logistics network",
+        "Control Red Sea access points (Berbera, Assab, Bosaso, Socotra)",
+        "Maintain relationships with US, China, Israel, India simultaneously",
+        "Win Horn of Africa proxy competition vs Turkey and Saudi",
+        "Become AI/fintech hub"
+      ],
+      "leans_toward": "BUILDER-leaning but the ultimate hedger. Hosts Chinese military tech, Indian IMEC infrastructure, US military bases, and Israeli intelligence all at the same time.",
+      "satellites": ["Somaliland (Berbera port)", "Eritrea (Assab port)", "RSF Sudan (backed)", "Bahrain (ally)", "Egypt (investor)"],
+      "flag_emoji": "🇦🇪"
+    },
+    {
+      "id": "IL",
+      "name": "Israel",
+      "tier": "regional_power",
+      "bloc": "BUILDER",
+      "lat": 31.77,
+      "lon": 35.23,
+      "official_doctrine": [
+        "Abraham Accords: normalize with Arab states, isolate Iran",
+        "IMEC critical node: Mediterranean endpoint of the corridor",
+        "Qualitative Military Edge (QME): maintain tech superiority in region",
+        "Iran as existential threat: prevention doctrine"
+      ],
+      "goals": [
+        "Eliminate Iranian nuclear threat",
+        "Expand Abraham Accords (Saudi normalization = strategic prize)",
+        "Become IMEC's indispensable corridor node (Haifa port)",
+        "Destroy remaining Iranian proxy network",
+        "Secure recognition from more states (Somaliland)"
+      ],
+      "leans_toward": "BUILDER core. But Haifa port has Chinese operator (SIPG), creating a vulnerability. Post-Oct 7 war complicates IMEC timeline.",
+      "satellites": ["Somaliland (recognized)"],
+      "flag_emoji": "🇮🇱"
+    },
+    {
+      "id": "PK",
+      "name": "Pakistan",
+      "tier": "regional_power",
+      "bloc": "BLOCKER",
+      "lat": 33.69,
+      "lon": 73.04,
+      "official_doctrine": [
+        "Strategic depth: use Afghanistan as buffer against India",
+        "All-weather friendship with China: CPEC as economic lifeline",
+        "Nuclear deterrence against India",
+        "Kashmir as core issue"
+      ],
+      "goals": [
+        "Survive economically (IMF bailouts, Chinese debt)",
+        "Operationalize CPEC/Gwadar as Chinese Indian Ocean access",
+        "Counter India's rise as regional hegemon",
+        "Maintain nuclear parity with India",
+        "Control Taliban enough to prevent blowback"
+      ],
+      "leans_toward": "BLOCKER — China's primary South Asian partner. CPEC makes Pakistan economically dependent on Beijing. But military still receives some US equipment.",
+      "satellites": ["Taliban (partial influence)", "Kashmiri militant groups"],
+      "flag_emoji": "🇵🇰"
+    },
+    {
+      "id": "EG",
+      "name": "Egypt",
+      "tier": "regional_power",
+      "bloc": "SWING",
+      "lat": 30.04,
+      "lon": 31.24,
+      "official_doctrine": [
+        "Suez Canal controller: 12% of world trade, $9.4B annual revenue",
+        "Military-first governance: army controls 25-40% of GDP",
+        "Balance US military aid ($1.3B/year) with diversifying to Russian/Chinese weapons"
+      ],
+      "goals": [
+        "Protect Suez Canal revenue (IMEC could reduce Suez traffic if overland route works)",
+        "Prevent Ethiopia's GERD dam from controlling Nile flow",
+        "Stabilize Libya's eastern border",
+        "Prevent Sudan's RSF from winning (security threat on southern border)",
+        "Maintain US military aid while buying Russian jets"
+      ],
+      "leans_toward": "SWING — Suez gives Egypt leverage over ALL corridor plans. Egypt benefits from corridor competition as long as traffic keeps flowing through Suez.",
+      "satellites": ["Sudan SAF (backed)", "Libya (Haftar/LNA — backed)"],
+      "flag_emoji": "🇪🇬"
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "tier": "regional_power",
+      "bloc": "BUILDER",
+      "lat": 35.68,
+      "lon": 139.69,
+      "official_doctrine": [
+        "Free and Open Indo-Pacific (FOIP): Japan's counter-BRI framework since 2016",
+        "Quad member: coordinate with US, India, Australia against China",
+        "Constitutional reinterpretation (2015): collective self-defense now permitted",
+        "2022 National Security Strategy: largest military buildup since WWII ($320B over 5 years)"
+      ],
+      "goals": [
+        "Prevent Chinese domination of East/South China Sea",
+        "Secure Taiwan Strait (90% of Japan's oil passes through)",
+        "Build alternative infrastructure in Southeast Asia and India (counter-BRI)",
+        "Maintain US alliance as security backbone",
+        "Develop semiconductor independence (TSMC fab in Kumamoto)"
+      ],
+      "leans_toward": "BUILDER core. Japan invested $65B+ in Indo-Pacific infrastructure to counter BRI before the US even woke up to it.",
+      "satellites": [],
+      "flag_emoji": "🇯🇵"
+    },
+    {
+      "id": "AU",
+      "name": "Australia",
+      "tier": "regional_power",
+      "bloc": "BUILDER",
+      "lat": -35.28,
+      "lon": 149.13,
+      "official_doctrine": [
+        "AUKUS: nuclear submarines to patrol Indo-Pacific",
+        "Quad member",
+        "Five Eyes intelligence sharing",
+        "Pacific Step-Up: counter Chinese influence in Pacific Islands"
+      ],
+      "goals": [
+        "Prevent Chinese military base in Pacific Islands (Solomon Islands pact = red line)",
+        "Secure critical mineral exports (lithium, iron ore, LNG)",
+        "Maintain US alliance as ultimate security guarantee",
+        "Counter Chinese economic coercion (2020 trade war with China)"
+      ],
+      "leans_toward": "BUILDER core. AUKUS is the strongest commitment any US ally has made to the counter-China architecture.",
+      "satellites": ["Pacific Island states (competing with China)"],
+      "flag_emoji": "🇦🇺"
+    },
+    {
+      "id": "FR",
+      "name": "France",
+      "tier": "regional_power",
+      "bloc": "BUILDER",
+      "lat": 48.86,
+      "lon": 2.35,
+      "official_doctrine": [
+        "Strategic autonomy: European defense independent of US",
+        "Indo-Pacific power (territories in Pacific, Indian Ocean, Caribbean)",
+        "Françafrique: declining but persistent influence in West/Central Africa"
+      ],
+      "goals": [
+        "Maintain Mediterranean/African influence (being expelled by Wagner)",
+        "Protect French Pacific territories (New Caledonia, Polynesia)",
+        "Lead EU defense integration",
+        "Secure energy transition minerals from former colonies"
+      ],
+      "leans_toward": "BUILDER but angry about AUKUS (lost $66B sub deal). Acts independently from US. Being replaced by Russia/Wagner across Sahel.",
+      "satellites": ["Djibouti (military base)", "New Caledonia", "French Polynesia", "Sahel (losing)"],
+      "flag_emoji": "🇫🇷"
+    },
+    {
+      "id": "NK",
+      "name": "North Korea",
+      "tier": "regional_power",
+      "bloc": "BLOCKER",
+      "lat": 39.02,
+      "lon": 125.75,
+      "official_doctrine": [
+        "Nuclear deterrence: survival through escalation threat",
+        "Byungjin: parallel development of nuclear weapons and economy",
+        "Self-reliance (juche) — in practice, depends on China and Russia"
+      ],
+      "goals": [
+        "Regime survival above all else",
+        "Nuclear ICBM capability targeting US mainland",
+        "Sanctions evasion (crypto theft, arms sales, forced labor exports)",
+        "Troops-for-tech deal with Russia (soldiers in Ukraine for missile/satellite tech)"
+      ],
+      "leans_toward": "BLOCKER. Provides Russia with artillery shells and soldiers for Ukraine. Receives satellite and nuclear submarine tech in return. China is economic lifeline.",
+      "satellites": [],
+      "flag_emoji": "🇰🇵"
+    }
+  ],
+
+  "swing_states": [
+    {
+      "id": "SG",
+      "name": "Singapore",
+      "tier": "swing_state",
+      "lat": 1.35,
+      "lon": 103.82,
+      "leverage": "Controls Strait of Malacca chokepoint. $1.27T in sovereign capital. Hosts US military logistics AND Chinese investment. If forced to choose, global shipping reroutes.",
+      "plays_both": "US military uses Changi Naval Base. China is largest trading partner. PSA ports operate globally. Both sides need Singapore neutral.",
+      "flag_emoji": "🇸🇬"
+    },
+    {
+      "id": "VN",
+      "name": "Vietnam",
+      "tier": "swing_state",
+      "lat": 21.03,
+      "lon": 105.85,
+      "leverage": "Largest beneficiary of China decoupling — manufacturing moving from China to Vietnam. South China Sea claimant (anti-China). But communist party maintains party-to-party ties with CPC.",
+      "plays_both": "Samsung's largest factory complex globally. US upgraded to Comprehensive Strategic Partnership (2023). Russia is traditional arms supplier. China is largest trading partner AND territorial adversary.",
+      "flag_emoji": "🇻🇳"
+    },
+    {
+      "id": "KZ",
+      "name": "Kazakhstan",
+      "tier": "swing_state",
+      "lat": 51.17,
+      "lon": 71.43,
+      "leverage": "Middle Corridor (Trans-Caspian) runs through Kazakhstan — the Russia-bypass route connecting China to Europe. Massive oil/gas reserves. Uranium supplier (40% of global production). Joined Abraham Accords (2025).",
+      "plays_both": "China's BRI overland corridor depends on Kazakhstan. Russia considers it 'near abroad.' US and EU court it for Middle Corridor. Joined BRICS but also signed Abraham Accords.",
+      "flag_emoji": "🇰🇿"
+    },
+    {
+      "id": "ID",
+      "name": "Indonesia",
+      "tier": "swing_state",
+      "lat": -6.21,
+      "lon": 106.85,
+      "leverage": "World's largest Muslim-majority country (280M). Controls Malacca/Sunda/Lombok straits. Massive nickel reserves (critical for EV batteries). ASEAN's largest economy.",
+      "plays_both": "China's largest BRI recipient in SE Asia. US wants Indonesia in counter-China architecture. Indonesia refuses to choose — 'a million friends, zero enemies' doctrine.",
+      "flag_emoji": "🇮🇩"
+    },
+    {
+      "id": "BR",
+      "name": "Brazil",
+      "tier": "swing_state",
+      "lat": -15.79,
+      "lon": -47.88,
+      "leverage": "Largest Latin American economy. BRICS founding member. Amazon rainforest gives climate leverage. Major food exporter to China.",
+      "plays_both": "BRICS member but also US ally on most trade issues. Lula balances Washington and Beijing. China is largest trading partner. US is largest foreign investor.",
+      "flag_emoji": "🇧🇷"
+    },
+    {
+      "id": "ZA",
+      "name": "South Africa",
+      "tier": "swing_state",
+      "lat": -25.75,
+      "lon": 28.19,
+      "leverage": "Cape of Good Hope route gains importance when Suez/Red Sea disrupted. BRICS host (2023 expansion summit). Critical minerals (platinum, manganese, chrome).",
+      "plays_both": "Hosted BRICS expansion. ICC member that issued Putin arrest warrant. US ally on trade. China's biggest African trading partner.",
+      "flag_emoji": "🇿🇦"
+    },
+    {
+      "id": "MX",
+      "name": "Mexico",
+      "tier": "swing_state",
+      "lat": 19.43,
+      "lon": -99.13,
+      "leverage": "Nearshoring boom — manufacturing relocating from China to Mexico. US's largest trading partner. USMCA member. Border = leverage over US immigration policy.",
+      "plays_both": "Economically tied to US (80% of exports). But Chinese investment surging. Fentanyl precursor pipeline from China through Mexico. Caught between Donroe Doctrine pressure and Chinese manufacturing investment.",
+      "flag_emoji": "🇲🇽"
+    },
+    {
+      "id": "GE",
+      "name": "Georgia",
+      "tier": "swing_state",
+      "lat": 41.72,
+      "lon": 44.79,
+      "leverage": "Middle Corridor transit state — BTC pipeline, South Caucasus Pipeline, and rail link to Turkey all cross Georgia. Only Caucasus route that bypasses both Russia and Iran.",
+      "plays_both": "EU candidate status (2023). But ruling party (Georgian Dream) tilting toward Russia. Massive protests over 'foreign agents' law. Strategic location makes both sides compete for it.",
+      "flag_emoji": "🇬🇪"
+    }
+  ],
+
+  "satellites": {
+    "us_satellites": [
+      {
+        "id": "BH",
+        "name": "Bahrain",
+        "lat": 26.07,
+        "lon": 50.56,
+        "patron": "US / Saudi Arabia",
+        "role": "US Fifth Fleet headquarters. Abraham Accords signatory. Saudi dependent.",
+        "flag_emoji": "🇧🇭"
+      },
+      {
+        "id": "JO",
+        "name": "Jordan",
+        "lat": 31.95,
+        "lon": 35.93,
+        "patron": "US / Saudi Arabia",
+        "role": "IMEC overland transit state (Israel → Jordan → Saudi). Hosts US military bases. Survives on Gulf subsidies. Critical corridor node.",
+        "flag_emoji": "🇯🇴"
+      },
+      {
+        "id": "KR",
+        "name": "South Korea",
+        "lat": 37.57,
+        "lon": 126.98,
+        "patron": "US",
+        "role": "Samsung/SK Hynix = semiconductor power. 28,500 US troops stationed. THAAD deployment. Indo-Pacific tech corridor node.",
+        "flag_emoji": "🇰🇷"
+      },
+      {
+        "id": "PH",
+        "name": "Philippines",
+        "lat": 14.60,
+        "lon": 120.98,
+        "patron": "US",
+        "role": "First island chain anchor. 9 EDCA bases for US forces. South China Sea frontline state. Marcos Jr. reversed Duterte's China tilt.",
+        "flag_emoji": "🇵🇭"
+      },
+      {
+        "id": "TW",
+        "name": "Taiwan",
+        "lat": 25.03,
+        "lon": 121.57,
+        "patron": "US (unofficial)",
+        "role": "TSMC produces 90% of advanced chips. THE critical node of global tech supply chain. US committed to defend under Taiwan Relations Act. China's #1 target.",
+        "flag_emoji": "🇹🇼"
+      },
+      {
+        "id": "PL",
+        "name": "Poland",
+        "lat": 52.23,
+        "lon": 21.01,
+        "patron": "US / NATO",
+        "role": "NATO's eastern anchor. Largest European military buildup ($35B+ spending). Absorbs Ukraine defense logistics. Key node if Northern Corridor reopens post-Russia.",
+        "flag_emoji": "🇵🇱"
+      },
+      {
+        "id": "GR",
+        "name": "Greece",
+        "lat": 37.98,
+        "lon": 23.73,
+        "patron": "US (shifting from China)",
+        "role": "Piraeus port was sold to COSCO (China) in 2016 — Mediterranean endpoint of BRI maritime route. Now US pressuring to limit Chinese operations. NATO naval base at Souda Bay.",
+        "flag_emoji": "🇬🇷"
+      },
+      {
+        "id": "MA",
+        "name": "Morocco",
+        "lat": 33.97,
+        "lon": -6.85,
+        "patron": "US / France",
+        "role": "Abraham Accords signatory (in exchange for US recognition of Western Sahara). Guards Strait of Gibraltar — the Atlantic-Mediterranean chokepoint. Tanger Med port is Africa's largest.",
+        "flag_emoji": "🇲🇦"
+      },
+      {
+        "id": "UK",
+        "name": "United Kingdom",
+        "lat": 51.51,
+        "lon": -0.13,
+        "patron": "US (junior partner)",
+        "role": "AUKUS co-architect. Five Eyes. London as global financial hub. Diego Garcia (Indian Ocean base). Gibraltar (Mediterranean chokepoint). Post-Brexit, locked into US orbit.",
+        "flag_emoji": "🇬🇧"
+      },
+      {
+        "id": "DE",
+        "name": "Germany",
+        "lat": 52.52,
+        "lon": 13.41,
+        "patron": "US / NATO",
+        "role": "Europe's largest economy but energy-dependent (lost Russian gas, now buys US LNG). Ramstein Air Base = US European command hub. Deindustrializing post-Nord Stream. IMEC's European financial anchor.",
+        "flag_emoji": "🇩🇪"
+      }
+    ],
+    "china_satellites": [
+      {
+        "id": "MM",
+        "name": "Myanmar",
+        "lat": 19.76,
+        "lon": 96.07,
+        "patron": "China",
+        "role": "CMEC corridor state. Kyaukpyu port = China's Malacca bypass. Junta depends on Chinese UN veto. Shwe gas pipeline feeds Kunming.",
+        "flag_emoji": "🇲🇲"
+      },
+      {
+        "id": "KH",
+        "name": "Cambodia",
+        "lat": 11.56,
+        "lon": 104.92,
+        "patron": "China",
+        "role": "Ream Naval Base — suspected Chinese military facility 300km from Vietnam. BRI infrastructure recipient. Hun family dynasty depends on Chinese patronage.",
+        "flag_emoji": "🇰🇭"
+      },
+      {
+        "id": "LA",
+        "name": "Laos",
+        "lat": 17.97,
+        "lon": 102.63,
+        "patron": "China",
+        "role": "China-Laos Railway (2021) — first BRI rail connection into SE Asia. Debt-to-GDP over 80%, mostly owed to China. Landlocked, entirely dependent.",
+        "flag_emoji": "🇱🇦"
+      },
+      {
+        "id": "LK",
+        "name": "Sri Lanka",
+        "lat": 6.93,
+        "lon": 79.84,
+        "patron": "China (via debt)",
+        "role": "Hambantota port — 99-year Chinese lease. Indian Ocean surveillance position. 2022 economic collapse partly from Chinese debt. India and China now compete for influence.",
+        "flag_emoji": "🇱🇰"
+      },
+      {
+        "id": "DJ",
+        "name": "Djibouti",
+        "lat": 11.59,
+        "lon": 43.15,
+        "patron": "Multi (US, China, France, Japan all have bases)",
+        "role": "Guards Bab al-Mandab strait. China's first overseas military base (2017). US Camp Lemonnier. France's largest African base. 4 foreign militaries in one tiny country.",
+        "flag_emoji": "🇩🇯"
+      },
+      {
+        "id": "SB",
+        "name": "Solomon Islands",
+        "lat": -9.43,
+        "lon": 160.00,
+        "patron": "China (new)",
+        "role": "2022 security pact allows Chinese naval visits. Breaches Pacific island chain. Australia's red line.",
+        "flag_emoji": "🇸🇧"
+      },
+      {
+        "id": "ER",
+        "name": "Eritrea",
+        "lat": 15.34,
+        "lon": 38.93,
+        "patron": "China / UAE / Russia",
+        "role": "Assab port (UAE operated). Red Sea coastline. Sent troops into Tigray. 'North Korea of Africa' — isolated, strategic.",
+        "flag_emoji": "🇪🇷"
+      }
+    ],
+    "russia_satellites": [
+      {
+        "id": "BY",
+        "name": "Belarus",
+        "lat": 53.90,
+        "lon": 27.57,
+        "patron": "Russia",
+        "role": "Staging ground for Ukraine invasion. Russian nuclear weapons deployed. Lukashenko entirely dependent on Putin. Northern Corridor transit state.",
+        "flag_emoji": "🇧🇾"
+      },
+      {
+        "id": "SY_pre2024",
+        "name": "Syria (pre-2024)",
+        "lat": 33.51,
+        "lon": 36.28,
+        "patron": "Russia / Iran (LOST Dec 2024)",
+        "role": "WAS: Russia's Mediterranean naval base (Tartus), Iran's land bridge to Hezbollah. Assad fell Dec 2024 — both lost everything.",
+        "flag_emoji": "🇸🇾"
+      },
+      {
+        "id": "CU",
+        "name": "Cuba",
+        "lat": 23.11,
+        "lon": -82.37,
+        "patron": "Russia / China",
+        "role": "Russian intelligence facilities 90 miles from Florida. Chinese signals intercept station (Lourdes). Venezuela's oil lifeline. Donroe Doctrine target.",
+        "flag_emoji": "🇨🇺"
+      },
+      {
+        "id": "NI",
+        "name": "Nicaragua",
+        "lat": 12.11,
+        "lon": -86.24,
+        "patron": "Russia / China",
+        "role": "Hosts Russian military equipment. China considered a Nicaragua canal (alternative to Panama). Ortega regime entirely depends on external patrons.",
+        "flag_emoji": "🇳🇮"
+      },
+      {
+        "id": "ML",
+        "name": "Mali",
+        "lat": 12.64,
+        "lon": -8.00,
+        "patron": "Russia (Wagner/Africa Corps)",
+        "role": "Expelled French forces 2022. Wagner controls gold mines. Russia's Sahel anchor state. Uranium access.",
+        "flag_emoji": "🇲🇱"
+      },
+      {
+        "id": "CF",
+        "name": "Central African Republic",
+        "lat": 4.39,
+        "lon": 18.56,
+        "patron": "Russia (Wagner)",
+        "role": "First Wagner deployment in Africa (2018). Diamond and gold concessions. Wagner provides presidential guard.",
+        "flag_emoji": "🇨🇫"
+      },
+      {
+        "id": "BF",
+        "name": "Burkina Faso",
+        "lat": 12.37,
+        "lon": -1.52,
+        "patron": "Russia (Wagner/Africa Corps)",
+        "role": "Coup government expelled France (2023). Wagner invited. Alliance of Sahel States with Mali and Niger. Manganese and gold.",
+        "flag_emoji": "🇧🇫"
+      }
+    ],
+    "iran_satellites": [
+      {
+        "id": "YE_houthi",
+        "name": "Yemen (Houthi-controlled)",
+        "lat": 15.35,
+        "lon": 44.21,
+        "patron": "Iran",
+        "role": "Controls Bab al-Mandab approach. Red Sea blockade force. 130+ attacks on shipping since Oct 2023. Iran's most effective remaining proxy.",
+        "flag_emoji": "🇾🇪"
+      },
+      {
+        "id": "IQ_militia",
+        "name": "Iraq (Shia militias / PMF)",
+        "lat": 33.31,
+        "lon": 44.37,
+        "patron": "Iran",
+        "role": "Popular Mobilization Forces integrated into Iraqi state but loyal to Tehran. Control border crossings. Iran's land corridor to Syria (before Assad fell).",
+        "flag_emoji": "🇮🇶"
+      },
+      {
+        "id": "LB_hezb",
+        "name": "Lebanon (Hezbollah)",
+        "lat": 33.89,
+        "lon": 35.50,
+        "patron": "Iran (weakened)",
+        "role": "WAS Iran's most powerful proxy. Nasrallah killed Sep 2024. Command structure decapitated. Still holds 100K+ rockets but operationally degraded.",
+        "flag_emoji": "🇱🇧"
+      },
+      {
+        "id": "VE",
+        "name": "Venezuela",
+        "lat": 10.49,
+        "lon": -66.88,
+        "patron": "Russia / China / Iran",
+        "role": "Largest proven oil reserves. Hezbollah financial networks. Russian military presence. Chinese debt ($10B+). Maduro seized Jan 2026 (speculative). Triple-patron state.",
+        "flag_emoji": "🇻🇪"
+      }
+    ]
+  },
+
+  "contested_zones": [
+    {
+      "id": "UA",
+      "name": "Ukraine",
+      "lat": 50.45,
+      "lon": 30.52,
+      "status": "Active war zone since Feb 2022",
+      "contested_by": ["Russia (invader)", "US/NATO (supporter)"],
+      "corridor_impact": "Northern Corridor (China-Europe via Russia) destroyed. EU energy dependence on Russia broken. Russia depleted militarily.",
+      "flag_emoji": "🇺🇦"
+    },
+    {
+      "id": "SY_post2024",
+      "name": "Syria (post-Assad)",
+      "lat": 33.51,
+      "lon": 36.28,
+      "status": "HTS-controlled, fragmented. Turkey dominant in north. Kurds hold east. Reconstruction needed.",
+      "contested_by": ["Turkey (dominant)", "US/Kurds (northeast)", "Israel (buffer zone)", "Gulf states (reconstruction $)"],
+      "corridor_impact": "Iran's land bridge severed. Russia lost Tartus. Potential Abraham Accords expansion. Could become IMEC overland route if stabilized.",
+      "flag_emoji": "🇸🇾"
+    },
+    {
+      "id": "SD",
+      "name": "Sudan",
+      "lat": 15.60,
+      "lon": 32.53,
+      "status": "Civil war since Apr 2023. RSF vs SAF. World's largest displacement crisis.",
+      "contested_by": ["UAE (backs RSF)", "Egypt (backs SAF)", "Russia/Wagner (gold mines)", "Turkey (port deals)"],
+      "corridor_impact": "Port Sudan is Red Sea prize. Western shore of Red Sea ungovernable. Blocks any stable Horn of Africa corridor architecture.",
+      "flag_emoji": "🇸🇩"
+    },
+    {
+      "id": "LY",
+      "name": "Libya",
+      "lat": 32.90,
+      "lon": 13.18,
+      "status": "Split government. GNA (west/Turkey-backed) vs LNA (east/UAE-Egypt-Russia-backed).",
+      "contested_by": ["Turkey (GNA, Mediterranean EEZ)", "UAE/Egypt (LNA, oil)", "Russia/Wagner (oil infrastructure)"],
+      "corridor_impact": "Mediterranean south shore. Oil exports. Migration leverage over EU. Turkey's EEZ deal blocks EastMed pipeline.",
+      "flag_emoji": "🇱🇾"
+    },
+    {
+      "id": "SO",
+      "name": "Somalia",
+      "lat": 2.05,
+      "lon": 45.34,
+      "status": "Fragmented. Federal govt vs Al-Shabaab vs Somaliland vs Puntland.",
+      "contested_by": ["Turkey (Mogadishu base, military training)", "UAE (Berbera, Bosaso ports)", "China (fishing rights, infrastructure)", "US (CT operations)"],
+      "corridor_impact": "Indian Ocean coastline. Overlooking Gulf of Aden shipping. Somaliland's Berbera = Bab al-Mandab flanking position.",
+      "flag_emoji": "🇸🇴"
+    },
+    {
+      "id": "AF",
+      "name": "Afghanistan",
+      "lat": 34.53,
+      "lon": 69.17,
+      "status": "Taliban-controlled since Aug 2021. No international recognition. $1-3T mineral wealth untapped.",
+      "contested_by": ["China (minerals, CPEC extension)", "Iran (western border trade)", "Pakistan (strategic depth)", "Russia (via Central Asia)"],
+      "corridor_impact": "Crossroads of CPEC, INSTC, and Central Asian corridor. Mineral wealth (lithium, rare earths) coveted by China. Instability blocks all transit.",
+      "flag_emoji": "🇦🇫"
+    },
+    {
+      "id": "ET",
+      "name": "Ethiopia",
+      "lat": 9.02,
+      "lon": 38.75,
+      "status": "Post-Tigray ceasefire (Nov 2022). Amhara/Oromia tensions ongoing. GERD dam dispute with Egypt.",
+      "contested_by": ["UAE (investment, military ties)", "Turkey (infrastructure)", "China (AU headquarters, BRI)", "US/EU (peace process)", "Egypt (Nile water rival)"],
+      "corridor_impact": "Horn's largest economy. 95% of Djibouti port traffic is Ethiopian. If Ethiopia fragments, Djibouti loses purpose and China's base loses rationale.",
+      "flag_emoji": "🇪🇹"
+    },
+    {
+      "id": "GL",
+      "name": "Greenland",
+      "lat": 64.18,
+      "lon": -51.72,
+      "status": "Danish territory. Trump demands purchase/control. JD Vance visits. Independence movement growing.",
+      "contested_by": ["US (Donroe Doctrine, Arctic control)", "Denmark/EU (sovereignty)", "China (rare earth mining interest, shut down 2021)"],
+      "corridor_impact": "Arctic corridor anchor. Rare earth deposits. Thule Space Base. Melting ice opening Northern Sea Route — Greenland controls the Atlantic entrance.",
+      "flag_emoji": "🇬🇱"
+    }
+  ],
+
+  "alliances": [
+    {
+      "id": "BUILDER_CORE",
+      "name": "Builder Core Alliance",
+      "type": "corridor_builder",
+      "members": ["US", "IN", "IL", "AE", "SA", "JP", "AU", "UK", "FR", "DE"],
+      "architecture": ["IMEC", "Quad", "AUKUS", "Abraham Accords", "NATO", "Five Eyes"],
+      "goal": "Build alternative corridors to BRI. Keep chokepoints open. Maintain dollar system."
+    },
+    {
+      "id": "BLOCKER_AXIS",
+      "name": "Blocker Axis",
+      "type": "corridor_blocker",
+      "members": ["CN", "RU", "IR", "NK", "PK"],
+      "architecture": ["BRI", "SCO", "CSTO (dying)", "China-Iran 25yr pact", "Russia-Iran 20yr treaty"],
+      "goal": "Block Western corridors. Build alternative payment systems. Control chokepoints. Prevent US-led order."
+    },
+    {
+      "id": "BRICS_PLUS",
+      "name": "BRICS+",
+      "type": "multipolar_forum",
+      "members": ["CN", "RU", "IN", "BR", "ZA", "SA", "AE", "EG", "ET", "IR"],
+      "architecture": ["New Development Bank", "Contingent Reserve Arrangement", "mBridge (CBDC)", "CIPS"],
+      "goal": "De-dollarize. Create alternative financial architecture. Multipolar order. NOTE: India, Saudi, UAE are in BOTH Builder and BRICS — that's the hedging."
+    },
+    {
+      "id": "SAHEL_ALLIANCE",
+      "name": "Alliance of Sahel States",
+      "type": "russia_backed",
+      "members": ["ML", "BF", "NI_NIGER"],
+      "architecture": ["Wagner/Africa Corps security", "Anti-French", "Left ECOWAS"],
+      "goal": "Expel Western military presence. Russian security partnership. Control gold and uranium exports."
+    }
+  ]
+}

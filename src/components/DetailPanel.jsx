@@ -17,9 +17,10 @@ const THEATER_COLORS = {
   SOUTH_ASIA: '#0d9488',
   CAUCASUS: '#d97706',
   HORN_AFRICA: '#ec4899',
+  INDO_PACIFIC: '#06b6d4',
 }
 
-export default function DetailPanel({ move, onEdit, onDelete, onClose }) {
+export default function DetailPanel({ move, allMoves = [], onEdit, onDelete, onClose, onSelectMove }) {
   if (!move) {
     return (
       <div className="panel-scroll w-80 bg-gray-50 overflow-y-auto p-4 border-l border-gray-200 flex items-center justify-center">
@@ -90,6 +91,52 @@ export default function DetailPanel({ move, onEdit, onDelete, onClose }) {
           }}
         >
           {move.impact}
+        </div>
+      )}
+
+      {/* Causal Links */}
+      {move.triggered_by?.length > 0 && (
+        <div className="mt-4">
+          <p className="text-[10px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Triggered by</p>
+          <div className="flex flex-wrap gap-1">
+            {move.triggered_by.map(id => {
+              const linked = allMoves.find(m => m.id === id);
+              const linkedColor = linked ? (SIDE_COLORS[linked.side] || '#868e96') : '#868e96';
+              return (
+                <button
+                  key={id}
+                  onClick={() => onSelectMove && onSelectMove(id)}
+                  className="text-xs font-mono px-2 py-0.5 rounded cursor-pointer hover:opacity-80 transition-opacity"
+                  style={{ backgroundColor: linkedColor, color: '#fff' }}
+                  title={linked?.title || id}
+                >
+                  {id}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+      {move.triggers?.length > 0 && (
+        <div className="mt-3">
+          <p className="text-[10px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Leads to</p>
+          <div className="flex flex-wrap gap-1">
+            {move.triggers.map(id => {
+              const linked = allMoves.find(m => m.id === id);
+              const linkedColor = linked ? (SIDE_COLORS[linked.side] || '#868e96') : '#868e96';
+              return (
+                <button
+                  key={id}
+                  onClick={() => onSelectMove && onSelectMove(id)}
+                  className="text-xs font-mono px-2 py-0.5 rounded cursor-pointer hover:opacity-80 transition-opacity"
+                  style={{ backgroundColor: linkedColor, color: '#fff' }}
+                  title={linked?.title || id}
+                >
+                  {id}
+                </button>
+              );
+            })}
+          </div>
         </div>
       )}
 

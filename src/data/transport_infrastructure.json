@@ -1,0 +1,1389 @@
+[
+  {
+    "category": "railway",
+    "name": "China-Europe Railway Express (Yiwu–London)",
+    "type": "freight_rail",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2017,
+    "operator": "China Railway Express (CR Express) — state-coordinated, multiple operators",
+    "capacity": "~18,000 TEU trains/year (2023); transit time 18–20 days vs 35–45 by sea",
+    "countries": [
+      "China",
+      "Kazakhstan",
+      "Russia",
+      "Belarus",
+      "Poland",
+      "Germany",
+      "France",
+      "UK"
+    ],
+    "waypoints": [
+      [
+        29.32,
+        120.07
+      ],
+      [
+        34.26,
+        108.94
+      ],
+      [
+        43.88,
+        87.57
+      ],
+      [
+        43.24,
+        76.95
+      ],
+      [
+        51.13,
+        71.43
+      ],
+      [
+        55.75,
+        37.62
+      ],
+      [
+        53.9,
+        27.57
+      ],
+      [
+        52.23,
+        21.01
+      ],
+      [
+        52.52,
+        13.41
+      ],
+      [
+        49.01,
+        2.55
+      ],
+      [
+        51.51,
+        -0.13
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "Flagship BRI land route. Reduced transit time 50% vs maritime. Volumes surged during COVID when shipping rates spiked. Russia-Ukraine war forced rerouting through Middle Corridor for some cargo",
+    "tag": "BRI FLAGSHIP — EURASIA LAND BRIDGE",
+    "alert": "Russia sanctions and war risk have diverted ~30% of traffic to Middle Corridor (trans-Caspian) since 2022",
+    "lat": 55.75,
+    "lon": 37.62
+  },
+  {
+    "category": "railway",
+    "name": "China-Europe Railway (Northern Route via Trans-Siberian)",
+    "type": "freight_rail",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2011,
+    "operator": "Russian Railways (RZD) / China Railway",
+    "capacity": "~6,000 TEU trains/year on this route; transit 12–15 days Chongqing–Duisburg",
+    "countries": [
+      "China",
+      "Mongolia",
+      "Russia",
+      "Belarus",
+      "Poland",
+      "Germany"
+    ],
+    "waypoints": [
+      [
+        29.56,
+        106.55
+      ],
+      [
+        40.84,
+        111.75
+      ],
+      [
+        47.91,
+        106.91
+      ],
+      [
+        51.83,
+        107.59
+      ],
+      [
+        55.75,
+        37.62
+      ],
+      [
+        53.9,
+        27.57
+      ],
+      [
+        52.23,
+        21.01
+      ],
+      [
+        51.43,
+        6.76
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "Chongqing–Duisburg was the first CR Express route (2011). Runs via Mongolia/Trans-Siberian. Faster than Kazakhstan route but exposed to Russia sanctions risk",
+    "tag": "ORIGINAL CR EXPRESS ROUTE",
+    "alert": "Heavily sanctions-exposed. Western firms increasingly avoiding Russia-transit cargo",
+    "lat": 55.75,
+    "lon": 37.62
+  },
+  {
+    "category": "railway",
+    "name": "Middle Corridor (Trans-Caspian International Transport Route)",
+    "type": "freight_rail",
+    "corridor": "MIDDLE_CORRIDOR",
+    "status": "operational_expanding",
+    "year_operational": 2017,
+    "operator": "Kazakhstan (KTZ), Azerbaijan (ADY), Georgia (GR), Turkey (TCDD) — multilateral",
+    "capacity": "~4 million tons/year (2024); target 10 million by 2030. Transit 15–20 days",
+    "countries": [
+      "China",
+      "Kazakhstan",
+      "Caspian Sea (ferry)",
+      "Azerbaijan",
+      "Georgia",
+      "Turkey",
+      "EU"
+    ],
+    "waypoints": [
+      [
+        44.02,
+        87.57
+      ],
+      [
+        43.24,
+        76.95
+      ],
+      [
+        46.95,
+        51.92
+      ],
+      [
+        41.77,
+        49.95
+      ],
+      [
+        41.69,
+        44.8
+      ],
+      [
+        41.72,
+        41.64
+      ],
+      [
+        39.92,
+        32.85
+      ],
+      [
+        41.01,
+        28.98
+      ],
+      [
+        42.7,
+        23.32
+      ],
+      [
+        47.5,
+        19.04
+      ]
+    ],
+    "color": "#f59f00",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "BIGGEST WINNER of Russia-Ukraine war. Cargo volumes up 300% since 2022. Bypasses Russia entirely. EU/Turkey/Central Asia all investing. Baku-Tbilisi-Kars railway (2017) is the critical link",
+    "tag": "RUSSIA-BYPASS WINNER — 300% GROWTH",
+    "alert": "Bottleneck: Caspian Sea ferry crossing (Aktau-Baku) limits throughput. Rail gauge changes at Turkey border",
+    "lat": 41.72,
+    "lon": 41.64
+  },
+  {
+    "category": "railway",
+    "name": "Baku-Tbilisi-Kars (BTK) Railway",
+    "type": "freight_rail",
+    "corridor": "MIDDLE_CORRIDOR",
+    "status": "operational",
+    "year_operational": 2017,
+    "operator": "Azerbaijan Railways (ADY), Georgian Railway (GR), TCDD (Turkey)",
+    "capacity": "~5 million tons/year initially; expansion to 17 million tons planned",
+    "countries": [
+      "Azerbaijan",
+      "Georgia",
+      "Turkey"
+    ],
+    "waypoints": [
+      [
+        40.41,
+        49.87
+      ],
+      [
+        41.12,
+        45.05
+      ],
+      [
+        41.69,
+        44.8
+      ],
+      [
+        41.72,
+        43.59
+      ],
+      [
+        40.62,
+        43.1
+      ]
+    ],
+    "color": "#f59f00",
+    "dash": false,
+    "alignment": "mixed",
+    "strategic_value": "Critical Middle Corridor link connecting Caucasus to Turkey/Europe. Bypasses Armenia (due to Azerbaijan-Armenia conflict). Only direct rail connection from Caspian to Mediterranean via Turkey",
+    "tag": "MIDDLE CORRIDOR KEYSTONE",
+    "alert": "Runs through conflict-adjacent territory — Nagorno-Karabakh war (2020/2023) is nearby. Turkey controls western terminus",
+    "lat": 41.69,
+    "lon": 44.8
+  },
+  {
+    "category": "railway",
+    "name": "China-Laos Railway (Boten-Vientiane)",
+    "type": "freight_rail",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2021,
+    "operator": "Laos-China Railway Co. (70% China, 30% Laos)",
+    "capacity": "~4 million tons freight + 8 million passengers/year by design. 160 km/h",
+    "countries": [
+      "China",
+      "Laos"
+    ],
+    "waypoints": [
+      [
+        22.79,
+        102.4
+      ],
+      [
+        21.2,
+        101.67
+      ],
+      [
+        20.15,
+        101.5
+      ],
+      [
+        19.2,
+        102.14
+      ],
+      [
+        17.97,
+        102.63
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "First BRI railway in Southeast Asia. 414km, opened Dec 2021. Kunming to Vientiane in 10 hours (was 2+ days). Designed to extend to Bangkok and eventually Singapore",
+    "tag": "BRI SOUTHEAST ASIA BEACHHEAD",
+    "alert": "Laos debt trap concerns — railway cost $6B, ~33% of Laos GDP. Extension to Thailand delayed to ~2029",
+    "lat": 20.15,
+    "lon": 101.5
+  },
+  {
+    "category": "railway",
+    "name": "Thailand-China High Speed Rail (Bangkok-Nong Khai)",
+    "type": "high_speed_rail",
+    "corridor": "BRI",
+    "status": "under_construction",
+    "year_operational": 2029,
+    "operator": "State Railway of Thailand / China Railway",
+    "capacity": "250 km/h design speed; Phase 1 Bangkok-Nakhon Ratchasima 253km",
+    "countries": [
+      "Thailand"
+    ],
+    "waypoints": [
+      [
+        13.75,
+        100.52
+      ],
+      [
+        14.87,
+        101.8
+      ],
+      [
+        14.97,
+        102.1
+      ],
+      [
+        17.38,
+        102.79
+      ]
+    ],
+    "color": "#e03131",
+    "dash": true,
+    "alignment": "china",
+    "strategic_value": "Designed to connect to China-Laos railway, creating continuous Kunming-Bangkok rail. Repeatedly delayed — Phase 1 construction began 2017, still incomplete 2026. Would complete BRI's Singapore-Kunming corridor",
+    "tag": "BRI MISSING LINK — REPEATEDLY DELAYED",
+    "alert": "Phase 1 only 15% complete by 2024 estimates. Thai domestic politics and land acquisition issues",
+    "lat": 14.97,
+    "lon": 102.1
+  },
+  {
+    "category": "railway",
+    "name": "CPEC ML-1 Railway Upgrade (Karachi-Peshawar)",
+    "type": "freight_rail",
+    "corridor": "CPEC",
+    "status": "stalled",
+    "year_operational": null,
+    "operator": "Pakistan Railways / China Railway — Phase 1 signed but delayed",
+    "capacity": "Design: 160 km/h, 1,872km mainline upgrade. Cost initially $6.8B, now uncertain",
+    "countries": [
+      "Pakistan"
+    ],
+    "waypoints": [
+      [
+        24.86,
+        67.01
+      ],
+      [
+        25.4,
+        68.37
+      ],
+      [
+        27.71,
+        68.77
+      ],
+      [
+        30.2,
+        71.47
+      ],
+      [
+        31.55,
+        74.35
+      ],
+      [
+        33.69,
+        73.04
+      ],
+      [
+        34.01,
+        71.58
+      ]
+    ],
+    "color": "#e03131",
+    "dash": true,
+    "alignment": "china",
+    "strategic_value": "CPEC's most important land infrastructure project. Would modernize Pakistan's entire north-south rail spine. Repeatedly stalled due to Pakistan's economic crisis, IMF conditions, and cost disputes with China",
+    "tag": "CPEC BACKBONE — INDEFINITELY STALLED",
+    "alert": "Pakistan cannot afford its share. China reluctant to fund at original terms. IMF bailout conditions constrain new debt",
+    "lat": 30.2,
+    "lon": 71.47
+  },
+  {
+    "category": "railway",
+    "name": "Djibouti-Addis Ababa Railway",
+    "type": "freight_rail",
+    "corridor": "BRI",
+    "status": "operational_degraded",
+    "year_operational": 2018,
+    "operator": "Built by China Railway Group & China Civil Engineering. Operated by Chinese consortium",
+    "capacity": "752km, electric, 120 km/h. Design: 2,000 containers/week. Actual throughput far below due to power shortages",
+    "countries": [
+      "Djibouti",
+      "Ethiopia"
+    ],
+    "waypoints": [
+      [
+        11.59,
+        43.15
+      ],
+      [
+        10.5,
+        42.5
+      ],
+      [
+        9.6,
+        41.85
+      ],
+      [
+        9.02,
+        38.75
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "First modern electrified railway in East Africa. Connects landlocked Ethiopia to Djibouti port (where China has its only overseas military base). Strategic control of Horn of Africa trade",
+    "tag": "BRI AFRICA — HORN CONTROL",
+    "alert": "Operating at ~30% capacity due to Ethiopian power grid instability and Tigray war damage (2020-2022)",
+    "lat": 9.6,
+    "lon": 41.85
+  },
+  {
+    "category": "railway",
+    "name": "Mombasa-Nairobi SGR (Standard Gauge Railway)",
+    "type": "freight_rail",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2017,
+    "operator": "Africa Star Railway Operations (Chinese-managed, funded by China Exim Bank)",
+    "capacity": "472km, 120 km/h. ~20 million tons freight/year capacity. $3.6B cost",
+    "countries": [
+      "Kenya"
+    ],
+    "waypoints": [
+      [
+        -4.04,
+        39.66
+      ],
+      [
+        -3.4,
+        38.6
+      ],
+      [
+        -2.5,
+        37.8
+      ],
+      [
+        -1.29,
+        36.82
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "BRI's East African flagship. Was supposed to extend to Uganda, Rwanda, South Sudan — extension cancelled due to cost concerns and Kenya's debt backlash. Kenya owes ~$5B to China for this project",
+    "tag": "BRI AFRICA — DEBT TRAP POSTER CHILD",
+    "alert": "Extension to Naivasha completed 2019 but Uganda link cancelled. Kenya revenue falls short of loan repayment schedule",
+    "lat": -2.5,
+    "lon": 37.8
+  },
+  {
+    "category": "railway",
+    "name": "Etihad Rail (UAE National Railway)",
+    "type": "freight_rail",
+    "corridor": "IMEC",
+    "status": "under_construction",
+    "year_operational": 2025,
+    "operator": "Etihad Rail (UAE sovereign)",
+    "capacity": "1,200km network, 200 km/h passenger. Stage 2 connecting Abu Dhabi-Dubai-Fujairah operational 2025",
+    "countries": [
+      "UAE"
+    ],
+    "waypoints": [
+      [
+        24.02,
+        52.1
+      ],
+      [
+        24.45,
+        54.65
+      ],
+      [
+        25.07,
+        55.17
+      ],
+      [
+        25.21,
+        55.27
+      ],
+      [
+        25.12,
+        56.33
+      ]
+    ],
+    "color": "#1971c2",
+    "dash": true,
+    "alignment": "western",
+    "strategic_value": "Critical IMEC infrastructure — connects UAE ports (Khalifa, Jebel Ali, Fujairah) to Saudi border. Future GCC rail link to Saudi Arabia would create Arabian Peninsula rail spine for IMEC",
+    "tag": "IMEC ARABIAN SPINE",
+    "alert": "GCC-wide rail interconnect (UAE-Saudi-Bahrain-Kuwait) repeatedly delayed by regional politics",
+    "lat": 25.07,
+    "lon": 55.17
+  },
+  {
+    "category": "railway",
+    "name": "Saudi Land Bridge (Riyadh-Jeddah / East-West Railway)",
+    "type": "freight_rail",
+    "corridor": "IMEC",
+    "status": "planned",
+    "year_operational": null,
+    "operator": "Saudi Arabia Railways (SAR) — Vision 2030 project",
+    "capacity": "~950km proposed East-West freight corridor. Would link Arabian Gulf to Red Sea by rail",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "waypoints": [
+      [
+        26.43,
+        50.1
+      ],
+      [
+        24.69,
+        46.72
+      ],
+      [
+        22.3,
+        43.5
+      ],
+      [
+        21.49,
+        39.19
+      ]
+    ],
+    "color": "#1971c2",
+    "dash": true,
+    "alignment": "western",
+    "strategic_value": "Would complete IMEC's Arabian land bridge — cargo from India/UAE could bypass Suez entirely by crossing Saudi Arabia east-to-west by rail to Red Sea or Mediterranean. Neom/Red Sea cities at western terminus",
+    "tag": "IMEC SAUDI LAND BRIDGE — VISION 2030",
+    "alert": "No confirmed construction timeline. Depends on IMEC reviving post-Gaza war stall",
+    "lat": 22.3,
+    "lon": 43.5
+  },
+  {
+    "category": "railway",
+    "name": "Lobito Corridor Railway",
+    "type": "freight_rail",
+    "corridor": "LOBITO",
+    "status": "under_construction",
+    "year_operational": 2027,
+    "operator": "Lobito Atlantic Railway (Trafigura consortium) — US/EU backed counter-BRI",
+    "capacity": "~1,300km Lobito (Angola) to DRC copper belt. Extension to Zambia planned. Design: 2M tons/year initially",
+    "countries": [
+      "Angola",
+      "DRC",
+      "Zambia"
+    ],
+    "waypoints": [
+      [
+        -12.35,
+        13.55
+      ],
+      [
+        -12.3,
+        16
+      ],
+      [
+        -11.66,
+        19
+      ],
+      [
+        -11.2,
+        22
+      ],
+      [
+        -10.98,
+        25.5
+      ],
+      [
+        -10.72,
+        28.23
+      ]
+    ],
+    "color": "#1971c2",
+    "dash": true,
+    "alignment": "western",
+    "strategic_value": "US/EU flagship counter-BRI project in Africa. Would give Western access to DRC critical minerals (cobalt, copper, lithium) without routing through Chinese-controlled infrastructure. Biden committed $250M+",
+    "tag": "COUNTER-BRI — AFRICAN CRITICAL MINERALS",
+    "alert": "Racing against China's existing Dar es Salaam-DRC route. DRC political instability a constant risk",
+    "lat": -11.2,
+    "lon": 22
+  },
+  {
+    "category": "railway",
+    "name": "Turkey-Iran Railway (Van-Tabriz link)",
+    "type": "freight_rail",
+    "corridor": "INSTC",
+    "status": "operational_limited",
+    "year_operational": 1971,
+    "operator": "TCDD (Turkey) / RAI (Iran)",
+    "capacity": "Limited throughput — single track sections, gauge changes. ~2 trains/week freight",
+    "countries": [
+      "Turkey",
+      "Iran"
+    ],
+    "waypoints": [
+      [
+        38.5,
+        43.38
+      ],
+      [
+        38.08,
+        44.5
+      ],
+      [
+        38.08,
+        46.29
+      ]
+    ],
+    "color": "#e8590c",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "Only direct rail link between Turkey and Iran. Low capacity but strategically important for INSTC and Middle Corridor connectivity. Turkey-Iran trade despite sanctions",
+    "tag": "TURKEY-IRAN RAIL LINK",
+    "alert": "Frequently disrupted by Kurdish conflict in eastern Turkey and sanctions enforcement",
+    "lat": 38.08,
+    "lon": 44.5
+  },
+  {
+    "category": "highway",
+    "name": "Karakoram Highway (KKH / China-Pakistan Friendship Highway)",
+    "type": "strategic_highway",
+    "corridor": "CPEC",
+    "status": "operational",
+    "year_operational": 1979,
+    "operator": "NHA (Pakistan) / China — upgraded under CPEC Phase 1",
+    "capacity": "1,300km, highest paved international road in the world (4,693m at Khunjerab Pass). 2-lane mostly, expanded to 4-lane in sections under CPEC",
+    "countries": [
+      "China",
+      "Pakistan"
+    ],
+    "waypoints": [
+      [
+        39.47,
+        75.99
+      ],
+      [
+        36.86,
+        75.34
+      ],
+      [
+        36.32,
+        74.65
+      ],
+      [
+        35.92,
+        74.31
+      ],
+      [
+        35.33,
+        73.65
+      ],
+      [
+        34.17,
+        73.22
+      ],
+      [
+        33.69,
+        73.04
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "Only road link between China and Pakistan. CPEC's original artery — upgraded 2013-2020 with Chinese funding. Connects Kashgar (Xinjiang) to Islamabad and onward to Gwadar port. Crosses the world's most dangerous mountain terrain",
+    "tag": "CPEC ORIGINAL ARTERY — WORLD'S HIGHEST HIGHWAY",
+    "alert": "Frequent landslides, avalanches, flooding. Balochistan Liberation Army (BLA) attacks on Chinese workers. Climate change accelerating glacial melt damage",
+    "lat": 35.92,
+    "lon": 74.31
+  },
+  {
+    "category": "highway",
+    "name": "CPEC Western Route (Gwadar-Quetta-DI Khan-Islamabad)",
+    "type": "strategic_highway",
+    "corridor": "CPEC",
+    "status": "partially_complete",
+    "year_operational": null,
+    "operator": "Pakistan NHA / Frontier Works Organization — Chinese funded",
+    "capacity": "~2,600km motorway/highway. Mix of 4-lane motorway and 2-lane highway sections",
+    "countries": [
+      "Pakistan"
+    ],
+    "waypoints": [
+      [
+        25.12,
+        62.33
+      ],
+      [
+        26.5,
+        63.5
+      ],
+      [
+        28,
+        65
+      ],
+      [
+        30.18,
+        67
+      ],
+      [
+        31.82,
+        70.9
+      ],
+      [
+        33.69,
+        73.04
+      ]
+    ],
+    "color": "#e03131",
+    "dash": true,
+    "alignment": "china",
+    "strategic_value": "Connects Gwadar port to Islamabad through Balochistan and KP. Most politically sensitive CPEC route — runs through insurgent territory. Pakistan military secures with dedicated CPEC force of 15,000 troops",
+    "tag": "CPEC WESTERN ARTERY — INSURGENCY ZONE",
+    "alert": "BLA and TTP attacks ongoing. Several Chinese workers killed. Pakistan created Special Security Division specifically for CPEC protection",
+    "lat": 30.18,
+    "lon": 67
+  },
+  {
+    "category": "highway",
+    "name": "Iraq Development Road (Grand Faw-Turkey Highway)",
+    "type": "strategic_highway",
+    "corridor": "IRAQ_DEV_ROAD",
+    "status": "under_construction",
+    "year_operational": 2028,
+    "operator": "Iraq Ministry of Transport — $17B mega-project (road + rail + port)",
+    "capacity": "1,200km integrated corridor: 6-lane highway + double-track railway. Faw to Turkey border via Basra-Baghdad-Mosul-Fishkhabour",
+    "countries": [
+      "Iraq",
+      "Turkey"
+    ],
+    "waypoints": [
+      [
+        29.98,
+        48.57
+      ],
+      [
+        30.51,
+        47.78
+      ],
+      [
+        31,
+        47.2
+      ],
+      [
+        33.34,
+        44.4
+      ],
+      [
+        34.6,
+        43.8
+      ],
+      [
+        36.34,
+        43.14
+      ],
+      [
+        36.89,
+        42.5
+      ],
+      [
+        37.08,
+        42.35
+      ]
+    ],
+    "color": "#f59f00",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "Iraq's bid to become a transit corridor — connecting Persian Gulf to Turkey/Europe. Potential IMEC alternative or complement. 63km inaugurated Dec 2025. Competes with Suez Canal for Asia-Europe freight",
+    "tag": "IRAQ TRANSIT BID — $17B MEGA-PROJECT",
+    "alert": "Iran-backed militias threaten route security. Project depends on Iraqi political stability and sustained funding",
+    "lat": 34.6,
+    "lon": 43.8
+  },
+  {
+    "category": "highway",
+    "name": "Asian Highway 1 (AH1 — Tokyo to Istanbul)",
+    "type": "strategic_highway",
+    "corridor": "PAN_ASIAN",
+    "status": "operational_fragmented",
+    "year_operational": 1959,
+    "operator": "UNESCAP — 32 countries, each maintaining their segments",
+    "capacity": "20,557km — world's longest highway route. Quality varies from 8-lane motorway (Japan) to unpaved sections (Myanmar, Afghanistan)",
+    "countries": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Vietnam",
+      "Cambodia",
+      "Thailand",
+      "Myanmar",
+      "India",
+      "Bangladesh",
+      "Pakistan",
+      "Afghanistan",
+      "Iran",
+      "Turkey"
+    ],
+    "waypoints": [
+      [
+        35.68,
+        139.69
+      ],
+      [
+        37.57,
+        126.98
+      ],
+      [
+        22.4,
+        114.1
+      ],
+      [
+        21.03,
+        105.85
+      ],
+      [
+        11.56,
+        104.93
+      ],
+      [
+        13.75,
+        100.52
+      ],
+      [
+        16.87,
+        96.2
+      ],
+      [
+        22.57,
+        88.36
+      ],
+      [
+        28.61,
+        77.21
+      ],
+      [
+        31.55,
+        74.35
+      ],
+      [
+        34.53,
+        69.17
+      ],
+      [
+        35.69,
+        51.39
+      ],
+      [
+        39.92,
+        32.85
+      ],
+      [
+        41.01,
+        28.98
+      ]
+    ],
+    "color": "#7048e8",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "UN-backed pan-Asian highway network. In practice, quality is wildly uneven. BRI has upgraded Chinese and Central Asian segments. Critical sections through Afghanistan and Myanmar remain conflict-affected",
+    "tag": "PAN-ASIAN BACKBONE — UNEVEN QUALITY",
+    "alert": "Afghanistan and Myanmar segments effectively non-functional due to Taliban and civil war",
+    "lat": 22.57,
+    "lon": 88.36
+  },
+  {
+    "category": "highway",
+    "name": "China-Myanmar Economic Corridor (CMEC Road)",
+    "type": "strategic_highway",
+    "corridor": "BRI",
+    "status": "partially_complete",
+    "year_operational": null,
+    "operator": "Myanmar/China bilateral — disrupted by 2021 coup",
+    "capacity": "Kunming to Mandalay highway + planned extension to Kyaukphyu deep-sea port on Bay of Bengal",
+    "countries": [
+      "China",
+      "Myanmar"
+    ],
+    "waypoints": [
+      [
+        25.04,
+        102.68
+      ],
+      [
+        23.88,
+        97.97
+      ],
+      [
+        21.97,
+        96.08
+      ],
+      [
+        19.43,
+        93.55
+      ]
+    ],
+    "color": "#e03131",
+    "dash": true,
+    "alignment": "china",
+    "strategic_value": "China's Indian Ocean bypass — avoids Malacca Strait entirely. Road + pipeline (operational since 2013 for gas, 2017 for oil). Kyaukphyu port gives China direct Bay of Bengal access",
+    "tag": "MALACCA BYPASS — INDIAN OCEAN ACCESS",
+    "alert": "Myanmar civil war (post-2021 coup) has disrupted construction. Ethnic armed groups control territory along route",
+    "lat": 21.97,
+    "lon": 96.08
+  },
+  {
+    "category": "bridge",
+    "name": "Crimea Bridge (Kerch Strait Bridge)",
+    "type": "strategic_bridge",
+    "corridor": "RUSSIA",
+    "status": "damaged_operational",
+    "year_operational": 2018,
+    "operator": "Russia (built by Stroygazmontazh — Putin ally Arkady Rotenberg's firm)",
+    "capacity": "19km — Europe's longest bridge. 4-lane road + dual rail. Designed for 40,000 vehicles/day. Rail bridge damaged Oct 2022, repaired",
+    "lat": 45.31,
+    "lon": 36.53,
+    "countries": [
+      "Russia",
+      "Ukraine (annexed Crimea)"
+    ],
+    "waypoints": [
+      [
+        45.35,
+        36.43
+      ],
+      [
+        45.29,
+        36.57
+      ],
+      [
+        45.22,
+        36.66
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "Only fixed link between Russia and annexed Crimea. Symbolically and logistically critical for Russian occupation. Attacked by Ukraine Oct 2022 (truck bomb) and Jul 2023 (naval drone). Rail span collapsed, later repaired",
+    "tag": "OCCUPATION LIFELINE — ATTACK TARGET",
+    "alert": "Repeatedly attacked by Ukraine. Both road and rail spans damaged and repaired. Permanent threat to Russian logistics"
+  },
+  {
+    "category": "bridge",
+    "name": "Bosphorus Crossings (3 bridges + Marmaray tunnel)",
+    "type": "strategic_bridge",
+    "corridor": "MIDDLE_CORRIDOR",
+    "status": "operational",
+    "year_operational": 1973,
+    "operator": "Turkey (KGM highways / TCDD rail)",
+    "capacity": "3 bridges: Bosphorus (1973), Fatih Sultan Mehmet (1988), Yavuz Sultan Selim (2016). Marmaray rail tunnel (2013). Combined 200,000+ vehicles/day",
+    "lat": 41.09,
+    "lon": 29.05,
+    "countries": [
+      "Turkey"
+    ],
+    "waypoints": [
+      [
+        41.05,
+        28.95
+      ],
+      [
+        41.09,
+        29.05
+      ],
+      [
+        41.13,
+        29.08
+      ]
+    ],
+    "color": "#f59f00",
+    "dash": false,
+    "alignment": "mixed",
+    "strategic_value": "Only fixed crossings between Europe and Asia. ALL Middle Corridor rail/road traffic must cross here. Marmaray rail tunnel (2013, 13.6km, Japanese-funded) enables unbroken rail from China to Europe. Turkey controls the chokepoint",
+    "tag": "EUROPE-ASIA GATE — TURKEY CONTROLS",
+    "alert": "Turkey leverages this as geopolitical bargaining chip. Any disruption cuts Middle Corridor and BRI northern routes entirely"
+  },
+  {
+    "category": "bridge",
+    "name": "Zangezur Corridor (Proposed)",
+    "type": "strategic_corridor",
+    "corridor": "TURKEY_AZERBAIJAN",
+    "status": "stalled",
+    "year_operational": null,
+    "operator": "Azerbaijan / Turkey — Armenia blocking",
+    "capacity": "Proposed road + rail link through Armenia's Syunik Province connecting Azerbaijan (Nakhchivan exclave) to Turkey",
+    "lat": 39.15,
+    "lon": 46,
+    "countries": [
+      "Azerbaijan",
+      "Armenia",
+      "Turkey"
+    ],
+    "waypoints": [
+      [
+        39.21,
+        45.41
+      ],
+      [
+        39.1,
+        46
+      ],
+      [
+        39.05,
+        46.5
+      ],
+      [
+        38.95,
+        46.75
+      ]
+    ],
+    "color": "#f59f00",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "Would create direct Turkey-Azerbaijan land link bypassing Iran and Russia. Azerbaijan demands it as part of post-2020 war peace deal. Armenia refuses 'corridor' with Azerbaijani sovereignty. Russia and Iran both oppose — it reduces their leverage",
+    "tag": "POST-WAR DEMAND — GEOPOLITICAL FLASHPOINT",
+    "alert": "Stalled in negotiations. Armenia willing to allow transit but not Azerbaijani sovereign control. Iran views it as existential threat (cuts off Iran-Armenia border)"
+  },
+  {
+    "category": "border_crossing",
+    "name": "Khorgos Gateway (China-Kazakhstan)",
+    "type": "dry_port",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2015,
+    "operator": "Khorgos Gateway SEZ — DP World (Dubai) + Kazakhstan joint venture",
+    "capacity": "Largest dry port in Central Asia. Handles gauge change (Chinese 1,435mm → Russian/Kazakh 1,520mm). 200,000 TEU capacity, expanding to 800,000",
+    "lat": 43.35,
+    "lon": 80.3,
+    "countries": [
+      "China",
+      "Kazakhstan"
+    ],
+    "waypoints": [
+      [
+        43.35,
+        80.3
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "THE critical BRI chokepoint on the China-Europe land route. All CR Express trains must change gauge here or at Dostyk. DP World involvement gives UAE a stake in BRI logistics. Special Economic Zone attracts manufacturing",
+    "tag": "BRI LAND CHOKEPOINT — GAUGE CHANGE BOTTLENECK",
+    "alert": "Single point of failure for China-Europe rail. Capacity constraints during CR Express surges. China building parallel route through Dostyk to reduce dependency"
+  },
+  {
+    "category": "border_crossing",
+    "name": "Torkham Border Crossing (Pakistan-Afghanistan)",
+    "type": "border_crossing",
+    "corridor": "REGIONAL",
+    "status": "operational_restricted",
+    "year_operational": null,
+    "operator": "Pakistan (military-controlled) / Taliban-administered Afghanistan side",
+    "capacity": "~15,000 people + 2,000 vehicles/day. New terminal built 2023 with electronic gates",
+    "lat": 34.09,
+    "lon": 71.09,
+    "countries": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "waypoints": [
+      [
+        34.09,
+        71.09
+      ]
+    ],
+    "color": "#7048e8",
+    "dash": false,
+    "alignment": "mixed",
+    "strategic_value": "Busiest border crossing between Pakistan and Afghanistan. Critical for Afghan trade (80% of Afghan imports transit Pakistan). On the historic Khyber Pass route. Pakistan uses it as leverage over Taliban",
+    "tag": "KHYBER PASS — AFGHAN LIFELINE",
+    "alert": "Frequently closed during Pakistan-Taliban tensions. TTP attacks on Pakistani side. Pakistan building fence along entire border"
+  },
+  {
+    "category": "border_crossing",
+    "name": "Rafah Border Crossing (Egypt-Gaza)",
+    "type": "border_crossing",
+    "corridor": "REGIONAL",
+    "status": "destroyed",
+    "year_operational": null,
+    "operator": "Egypt / Hamas (pre-2024) — IDF seized May 2024",
+    "capacity": "Was only non-Israeli controlled entry to Gaza. Destroyed in IDF Rafah operation May 2024",
+    "lat": 31.25,
+    "lon": 34.25,
+    "countries": [
+      "Egypt",
+      "Gaza/Palestine"
+    ],
+    "waypoints": [
+      [
+        31.25,
+        34.25
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "mixed",
+    "strategic_value": "Only crossing not controlled by Israel. Egypt used it to manage Hamas relations and humanitarian access. Its destruction in May 2024 gave Israel total control of Gaza's borders",
+    "tag": "GAZA'S LAST DOOR — DESTROYED",
+    "alert": "Destroyed by IDF operations May 2024. Egypt furious — border buffer zone violated. Rebuilding contingent on post-war settlement"
+  },
+  {
+    "category": "border_crossing",
+    "name": "Khunjerab Pass (China-Pakistan)",
+    "type": "border_crossing",
+    "corridor": "CPEC",
+    "status": "operational_seasonal",
+    "year_operational": 1982,
+    "operator": "China Customs / Pakistan FIA — seasonal (closed Dec-Mar due to snow)",
+    "capacity": "World's highest paved border crossing at 4,693m. Limited to ~500 trucks/day in peak season. Open May-November only",
+    "lat": 36.85,
+    "lon": 75.42,
+    "countries": [
+      "China",
+      "Pakistan"
+    ],
+    "waypoints": [
+      [
+        36.85,
+        75.42
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "Only land border crossing between China and Pakistan. CPEC's critical chokepoint — all overland trade must pass here. Altitude and weather make it the most climate-vulnerable crossing on any BRI route",
+    "tag": "CPEC GATEWAY — WORLD'S HIGHEST CROSSING",
+    "alert": "Closed 5 months/year. Climate change causing more landslides and glacial lake outburst floods (GLOFs). Single road = single point of failure"
+  },
+  {
+    "category": "logistics_hub",
+    "name": "Gwadar Free Zone & Port",
+    "type": "logistics_hub",
+    "corridor": "CPEC",
+    "status": "operational_underutilized",
+    "year_operational": 2018,
+    "operator": "China Overseas Ports Holding Company (COPHC) — 40-year lease to 2059",
+    "capacity": "Port: 3 multipurpose berths. Free Zone: 923 hectares, Phase 1 operational. Designed for 400 million tons/year at full build",
+    "lat": 25.12,
+    "lon": 62.33,
+    "countries": [
+      "Pakistan"
+    ],
+    "waypoints": [
+      [
+        25.12,
+        62.33
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "CPEC's crown jewel — gives China strategic access to Arabian Sea/Persian Gulf without transiting Malacca Strait. 400km from Strait of Hormuz. Potential future Chinese naval facility. Currently operating at <10% capacity",
+    "tag": "CPEC CROWN JEWEL — STRATEGIC BUT EMPTY",
+    "alert": "BLA insurgency. Baloch separatists attack Chinese workers. <10% capacity utilization. Fishing community displaced. 'String of Pearls' concerns for India"
+  },
+  {
+    "category": "logistics_hub",
+    "name": "Piraeus Port & Logistics Park",
+    "type": "logistics_hub",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2016,
+    "operator": "COSCO Shipping (China state) — 67% stake acquired 2016",
+    "capacity": "Mediterranean's largest port by throughput (5.65M TEU, 2023). Logistics park connects to Greek/European rail network",
+    "lat": 37.95,
+    "lon": 23.63,
+    "countries": [
+      "Greece"
+    ],
+    "waypoints": [
+      [
+        37.95,
+        23.63
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "BRI's European gateway. COSCO turned Piraeus from a backwater into the Med's top port. Connects to Chinese-built Serbia-Hungary railway for BRI cargo into Central Europe. Greece repeatedly blocked EU criticism of China in exchange",
+    "tag": "BRI EUROPEAN GATEWAY — CHINA'S EU FOOTHOLD",
+    "alert": "EU increasingly concerned about Chinese control of critical infrastructure. Greece-China quid pro quo on human rights statements"
+  },
+  {
+    "category": "logistics_hub",
+    "name": "Duisburg Intermodal Terminal",
+    "type": "logistics_hub",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2014,
+    "operator": "Duisport (German public entity) — BRI terminus",
+    "capacity": "Europe's largest inland port. ~30% of China-Europe rail freight terminates here. 4M TEU/year",
+    "lat": 51.43,
+    "lon": 6.76,
+    "countries": [
+      "Germany"
+    ],
+    "waypoints": [
+      [
+        51.43,
+        6.76
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "mixed",
+    "strategic_value": "Primary European terminus for China-Europe Railway Express. Chongqing-Duisburg was the first CR Express route. Distribution hub for Chinese goods entering European market. Germany's China dependency exemplified",
+    "tag": "BRI EUROPEAN TERMINUS",
+    "alert": "German government increasingly scrutinizing Chinese infrastructure influence after Hamburg port controversy (COSCO blocked from terminal stake)"
+  },
+  {
+    "category": "logistics_hub",
+    "name": "Hambantota Port & Industrial Zone",
+    "type": "logistics_hub",
+    "corridor": "BRI",
+    "status": "operational",
+    "year_operational": 2017,
+    "operator": "China Merchants Port Holdings — 99-year lease (signed 2017 after Sri Lanka debt default)",
+    "capacity": "Port + 6,000 hectare industrial zone. Designed as Indian Ocean hub. Currently minimal commercial traffic",
+    "lat": 6.12,
+    "lon": 81.1,
+    "countries": [
+      "Sri Lanka"
+    ],
+    "waypoints": [
+      [
+        6.12,
+        81.1
+      ]
+    ],
+    "color": "#e03131",
+    "dash": false,
+    "alignment": "china",
+    "strategic_value": "THE global symbol of BRI 'debt-trap diplomacy.' Sri Lanka couldn't repay $1.4B Chinese loan, surrendered 99-year lease. Located on world's busiest shipping lane (Indian Ocean). India views it as potential Chinese naval base",
+    "tag": "DEBT-TRAP ICON — 99-YEAR LEASE",
+    "alert": "India's primary 'String of Pearls' concern. Sri Lankan 2022 economic collapse partly attributed to Chinese debt. Near-zero commercial activity despite the investment"
+  },
+  {
+    "category": "railway",
+    "name": "Budapest-Belgrade Railway (Hungary-Serbia High Speed)",
+    "type": "high_speed_rail",
+    "corridor": "BRI",
+    "status": "under_construction",
+    "year_operational": 2026,
+    "operator": "China Railway International Group — funded by Chinese loans. Hungary/Serbia co-building",
+    "capacity": "350km, 200 km/h design. Belgrade-Novi Sad section opened 2022. Budapest link expected 2026",
+    "countries": [
+      "Hungary",
+      "Serbia"
+    ],
+    "waypoints": [
+      [
+        44.79,
+        20.47
+      ],
+      [
+        45.25,
+        19.85
+      ],
+      [
+        46.1,
+        19.66
+      ],
+      [
+        47.5,
+        19.04
+      ]
+    ],
+    "color": "#e03131",
+    "dash": true,
+    "alignment": "china",
+    "strategic_value": "BRI's European inland railway — connects Piraeus port (COSCO-owned) to Central Europe. Cargo path: China → Piraeus → Belgrade → Budapest → EU market. EU investigated Hungary for bypassing procurement rules to award contract to China",
+    "tag": "BRI INTO EU HEARTLAND",
+    "alert": "EU anti-subsidy investigation. Hungary's Orban government is BRI's strongest EU ally. Cost overruns and transparency concerns",
+    "lat": 46.1,
+    "lon": 19.66
+  },
+  {
+    "category": "railway",
+    "name": "Iran-Chabahar Railway (Chabahar-Zahedan)",
+    "type": "freight_rail",
+    "corridor": "INSTC",
+    "status": "under_construction",
+    "year_operational": 2025,
+    "operator": "Iran Railways (IRIR) — originally Indian-funded, India withdrew, Iran self-funding with IRGC contractors",
+    "capacity": "628km, single track. Connects Chabahar port to Iranian rail network at Zahedan (Pakistan border)",
+    "countries": [
+      "Iran"
+    ],
+    "waypoints": [
+      [
+        25.29,
+        60.64
+      ],
+      [
+        26.5,
+        61
+      ],
+      [
+        28.5,
+        61.2
+      ],
+      [
+        29.5,
+        60.85
+      ]
+    ],
+    "color": "#e8590c",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "Critical INSTC missing link — connects India-backed Chabahar port to Iranian rail network and onward to Russia/Central Asia. India was funding it, then pulled back under US sanctions pressure. IRGC-linked Khatam al-Anbiya took over construction",
+    "tag": "INSTC MISSING LINK — INDIA RETREATED",
+    "alert": "US sanctions on IRGC contractors building it. India caught between INSTC ambitions and US alliance. Iran completing it with domestic funds",
+    "lat": 28.5,
+    "lon": 61.2
+  },
+  {
+    "category": "highway",
+    "name": "INSTC North-South Highway (Mumbai-Bandar Abbas-Moscow)",
+    "type": "multimodal_route",
+    "corridor": "INSTC",
+    "status": "operational_fragmented",
+    "year_operational": 2002,
+    "operator": "Multimodal — ship (India-Iran), road/rail (Iran), rail (Azerbaijan/Russia). No single operator",
+    "capacity": "Ship + rail + road. 7,200km total. Transit time 25-30 days (vs 40+ via Suez). Cost 30% less than Suez route theoretically",
+    "countries": [
+      "India",
+      "Iran",
+      "Azerbaijan",
+      "Russia"
+    ],
+    "waypoints": [
+      [
+        18.95,
+        72.84
+      ],
+      [
+        25.29,
+        57.06
+      ],
+      [
+        27.19,
+        56.27
+      ],
+      [
+        32.65,
+        51.68
+      ],
+      [
+        35.69,
+        51.39
+      ],
+      [
+        38.42,
+        48.87
+      ],
+      [
+        40.41,
+        49.87
+      ],
+      [
+        41.69,
+        44.8
+      ],
+      [
+        55.75,
+        37.62
+      ]
+    ],
+    "color": "#e8590c",
+    "dash": true,
+    "alignment": "mixed",
+    "strategic_value": "India-Iran-Russia alternative to Suez. Designed to counter BRI by giving India access to Central Asia and Russia without going through Chinese-influenced routes. Sanctions on both Iran and Russia complicate operations",
+    "tag": "INDIA'S EURASIA PLAY — SANCTIONS-HOBBLED",
+    "alert": "Both Iran and Russia under heavy sanctions. India must navigate US alliance while using INSTC. Western payment systems largely blocked",
+    "lat": 35.69,
+    "lon": 51.39
+  }
+]

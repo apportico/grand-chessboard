@@ -180,6 +180,126 @@
     "tag": "US — INDIAN OCEAN POWER PROJECTION"
   },
   {
+    "name": "Al Dhafra Air Base",
+    "country": "United Arab Emirates",
+    "operator": "US",
+    "type": "air",
+    "lat": 24.25,
+    "lon": 54.55,
+    "status": "Hosts ~3,500 US personnel. F-35, F-22, U-2, RQ-4 operations. Premier US ISR and 5th-gen fighter base in the Gulf region.",
+    "tag": "US — GULF 5TH-GEN AIR POWER"
+  },
+  {
+    "name": "Muwaffaq Salti Air Base",
+    "country": "Jordan",
+    "operator": "US",
+    "type": "air",
+    "lat": 32.36,
+    "lon": 36.78,
+    "status": "US drone and fighter operations against ISIS. F-16s and MQ-9 Reapers. Key staging for Syria/Iraq strikes. ~3,000 US personnel.",
+    "tag": "US — LEVANT AIR OPERATIONS"
+  },
+  {
+    "name": "Naval Station Norfolk",
+    "country": "United States",
+    "operator": "US",
+    "type": "naval",
+    "lat": 36.95,
+    "lon": -76.33,
+    "status": "World's largest naval station. Homeport of US 2nd Fleet and NATO's Allied Command Transformation. 75+ ships, 134 aircraft.",
+    "tag": "US — ATLANTIC FLEET HQ"
+  },
+  {
+    "name": "Joint Base Pearl Harbor-Hickam",
+    "country": "United States (Hawaii)",
+    "operator": "US",
+    "type": "joint",
+    "lat": 21.35,
+    "lon": -157.97,
+    "status": "HQ US Indo-Pacific Command. Pacific Fleet homeport. Strategic hub for all US military operations across the Indo-Pacific theater.",
+    "tag": "US — INDO-PACIFIC COMMAND HQ"
+  },
+  {
+    "name": "Naval Station Guantanamo Bay",
+    "country": "Cuba",
+    "operator": "US",
+    "type": "naval",
+    "lat": 19.90,
+    "lon": -75.14,
+    "status": "Oldest US overseas naval base (1903 lease). Strategic position at Windward Passage between Cuba and Haiti. Detention facility and logistics.",
+    "tag": "US — CARIBBEAN CHOKEPOINT"
+  },
+  {
+    "name": "Camp Bondsteel",
+    "country": "Kosovo",
+    "operator": "US",
+    "type": "army",
+    "lat": 42.36,
+    "lon": 21.25,
+    "status": "Largest US base in the Balkans. Built 1999 for KFOR mission. ~7,000 capacity. Maintains stability in Southeast Europe.",
+    "tag": "US — BALKANS STABILIZATION"
+  },
+  {
+    "name": "Lask Air Base",
+    "country": "Poland",
+    "operator": "US",
+    "type": "air",
+    "lat": 51.55,
+    "lon": 19.18,
+    "status": "Rotational US fighter deployments since 2012. F-22 and F-35 rotations. Part of enhanced NATO eastern flank posture.",
+    "tag": "US — NATO EASTERN FLANK AIR"
+  },
+  {
+    "name": "Mihail Kogalniceanu Air Base",
+    "country": "Romania",
+    "operator": "US",
+    "type": "air",
+    "lat": 44.36,
+    "lon": 28.49,
+    "status": "Expanding US rotational base near the Black Sea. MQ-9 drones and troop deployments. Adjacent to NATO Aegis Ashore BMD site at Deveselu.",
+    "tag": "US — BLACK SEA AIR PRESENCE"
+  },
+  {
+    "name": "Keflavik Air Base",
+    "country": "Iceland",
+    "operator": "US",
+    "type": "naval",
+    "lat": 63.97,
+    "lon": -22.60,
+    "status": "P-8 Poseidon maritime patrol operations resumed 2016. GIUK gap monitoring. Critical for tracking Russian submarine activity in the North Atlantic.",
+    "tag": "US — GIUK GAP WATCH"
+  },
+  {
+    "name": "THAAD Battery Guam",
+    "country": "Guam (US Territory)",
+    "operator": "US",
+    "type": "air",
+    "lat": 13.45,
+    "lon": 144.80,
+    "status": "Terminal High Altitude Area Defense system protecting Guam from ballistic missile threats. Part of integrated Pacific missile defense architecture.",
+    "tag": "US — PACIFIC MISSILE SHIELD"
+  },
+  {
+    "name": "Fort Iwakuni (MCAS Iwakuni)",
+    "country": "Japan",
+    "operator": "US",
+    "type": "air",
+    "lat": 34.15,
+    "lon": 132.24,
+    "status": "US Marine Corps air station. F-35B Lightning II squadron. First forward-deployed F-35Bs in the Pacific. ~5,000 Marines.",
+    "tag": "US — PACIFIC F-35 FORWARD"
+  },
+  {
+    "name": "Camp Butler (Okinawa)",
+    "country": "Japan",
+    "operator": "US",
+    "type": "army",
+    "lat": 26.50,
+    "lon": 127.78,
+    "status": "III Marine Expeditionary Force HQ. ~18,000 Marines across Okinawa installations. Rapid response force for western Pacific contingencies.",
+    "tag": "US — PACIFIC RAPID RESPONSE"
+  },
+  {
     "name": "PLA Support Base Djibouti",
     "country": "Djibouti",
     "operator": "China",
@@ -228,6 +348,96 @@
     "lon": 160.03,
     "status": "Security pact signed 2022 allows Chinese naval port calls and police deployment. No permanent base yet. Pacific island chain contestation.",
     "tag": "CHINA — PACIFIC ISLAND EXPANSION"
+  },
+  {
+    "name": "Fiery Cross Reef",
+    "country": "Spratly Islands (disputed)",
+    "operator": "China",
+    "type": "air",
+    "lat": 9.55,
+    "lon": 112.89,
+    "status": "Artificial island with 3km runway, hangars, radar, CIWS, anti-ship missiles. Largest PLA installation in the Spratlys. Operational since 2016.",
+    "tag": "CHINA — SOUTH CHINA SEA FORTRESS"
+  },
+  {
+    "name": "Subi Reef",
+    "country": "Spratly Islands (disputed)",
+    "operator": "China",
+    "type": "air",
+    "lat": 10.92,
+    "lon": 114.08,
+    "status": "Artificial island with 3km runway, radar arrays, SAM emplacements, and barracks. Part of China's 'Big Three' militarized reefs.",
+    "tag": "CHINA — SOUTH CHINA SEA AIR"
+  },
+  {
+    "name": "Mischief Reef",
+    "country": "Spratly Islands (disputed)",
+    "operator": "China",
+    "type": "naval",
+    "lat": 9.90,
+    "lon": 115.53,
+    "status": "Artificial island with runway, anti-ship cruise missiles, SAMs. Within Philippines EEZ. Rejected by 2016 Hague ruling. Fully militarized.",
+    "tag": "CHINA — PHILIPPINES EEZ INTRUSION"
+  },
+  {
+    "name": "Woody Island (Yongxing)",
+    "country": "Paracel Islands (disputed)",
+    "operator": "China",
+    "type": "joint",
+    "lat": 16.84,
+    "lon": 112.34,
+    "status": "PLA's South China Sea administrative and military HQ. J-11 fighters, HQ-9 SAMs, YJ-62 anti-ship missiles. Runway, port, and radar.",
+    "tag": "CHINA — SOUTH CHINA SEA COMMAND"
+  },
+  {
+    "name": "Hambantota Port",
+    "country": "Sri Lanka",
+    "operator": "China",
+    "type": "logistics",
+    "lat": 6.12,
+    "lon": 81.10,
+    "status": "99-year lease obtained 2017 via debt-equity swap. Strategic dual-use port on Indian Ocean shipping lanes. India's primary 'String of Pearls' concern.",
+    "tag": "CHINA — INDIAN OCEAN DEBT TRAP"
+  },
+  {
+    "name": "Doraleh Multipurpose Port",
+    "country": "Djibouti",
+    "operator": "China",
+    "type": "logistics",
+    "lat": 11.58,
+    "lon": 43.07,
+    "status": "China Merchants-built commercial port adjacent to PLA base. Dual-use logistics node. Part of integrated Djibouti military-commercial complex.",
+    "tag": "CHINA — DJIBOUTI LOGISTICS"
+  },
+  {
+    "name": "Equatorial Guinea (Bata Port — planned)",
+    "country": "Equatorial Guinea",
+    "operator": "China",
+    "type": "naval",
+    "lat": 1.86,
+    "lon": 9.77,
+    "status": "Reported negotiations for PLA Navy's first Atlantic Ocean base. Would transform China's global naval reach. Under US pressure to reject deal.",
+    "tag": "CHINA — ATLANTIC AMBITION"
+  },
+  {
+    "name": "Chittagong (BRI Port Access)",
+    "country": "Bangladesh",
+    "operator": "China",
+    "type": "logistics",
+    "lat": 22.33,
+    "lon": 91.80,
+    "status": "China-funded deep-water terminal. Dual-use container and potential naval logistics node. Part of BRI Bangladesh-China-India-Myanmar corridor.",
+    "tag": "CHINA — BAY OF BENGAL PRESENCE"
+  },
+  {
+    "name": "Myanmar (Kyaukpyu Port)",
+    "country": "Myanmar",
+    "operator": "China",
+    "type": "logistics",
+    "lat": 19.43,
+    "lon": 93.55,
+    "status": "China-built deep-water port on Bay of Bengal. Direct pipeline/road to Kunming bypasses Malacca Strait. Strategic BRI bypass route.",
+    "tag": "CHINA — MALACCA BYPASS"
   },
   {
     "name": "Tartus Naval Base",
@@ -300,6 +510,126 @@
     "tag": "RUSSIA — SOUTH CHINA SEA ACCESS"
   },
   {
+    "name": "Vladivostok (Pacific Fleet HQ)",
+    "country": "Russia",
+    "operator": "Russia",
+    "type": "naval",
+    "lat": 43.12,
+    "lon": 131.90,
+    "status": "HQ of Russia's Pacific Fleet. Submarine base, surface fleet, and naval aviation. Counterbalance to US Pacific presence. Nuclear submarine pens at nearby Rybachiy.",
+    "tag": "RUSSIA — PACIFIC FLEET HQ"
+  },
+  {
+    "name": "Murmansk / Severomorsk (Northern Fleet HQ)",
+    "country": "Russia",
+    "operator": "Russia",
+    "type": "naval",
+    "lat": 69.07,
+    "lon": 33.42,
+    "status": "HQ of Russia's most powerful fleet. Ballistic missile submarines, carrier Admiral Kuznetsov. Arctic operations and nuclear second-strike capability.",
+    "tag": "RUSSIA — NORTHERN FLEET / ARCTIC"
+  },
+  {
+    "name": "Novorossiysk Naval Base",
+    "country": "Russia",
+    "operator": "Russia",
+    "type": "naval",
+    "lat": 44.72,
+    "lon": 37.79,
+    "status": "Secondary Black Sea Fleet base. Relocated assets from Sevastopol after Ukrainian strikes. Growing importance as primary operational Black Sea port.",
+    "tag": "RUSSIA — BLACK SEA FALLBACK"
+  },
+  {
+    "name": "201st Military Base Dushanbe",
+    "country": "Tajikistan",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 38.56,
+    "lon": 68.77,
+    "status": "Russia's largest overseas ground force base. ~7,000 troops. Guards Afghan border and projects power across Central Asia. Lease to 2042.",
+    "tag": "RUSSIA — CENTRAL ASIA ANCHOR"
+  },
+  {
+    "name": "Kant Air Base",
+    "country": "Kyrgyzstan",
+    "operator": "Russia",
+    "type": "air",
+    "lat": 42.85,
+    "lon": 74.85,
+    "status": "CSTO collective rapid reaction force air component. Su-25 attack aircraft. Only Russian air base in Central Asia.",
+    "tag": "RUSSIA — CENTRAL ASIA AIR"
+  },
+  {
+    "name": "999th Air Base (Belarus)",
+    "country": "Belarus",
+    "operator": "Russia",
+    "type": "air",
+    "lat": 53.60,
+    "lon": 24.05,
+    "status": "Russian air defense and tactical nuclear weapons deployed to Belarus since 2023. S-400 systems. Forward nuclear positioning against NATO.",
+    "tag": "RUSSIA — BELARUS NUCLEAR FORWARD"
+  },
+  {
+    "name": "Africa Corps — Mali (Bamako/Timbuktu)",
+    "country": "Mali",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 12.64,
+    "lon": -8.00,
+    "status": "Formerly Wagner Group, rebranded Africa Corps under GRU. ~1,500 personnel. Replaced French forces. Combat operations against insurgents. Mining access deals.",
+    "tag": "RUSSIA — SAHEL TAKEOVER"
+  },
+  {
+    "name": "Africa Corps — Burkina Faso",
+    "country": "Burkina Faso",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 12.37,
+    "lon": -1.52,
+    "status": "Russia Africa Corps deployed after 2022 coup. Training junta forces, counterinsurgency. Gold mining concessions in exchange for security.",
+    "tag": "RUSSIA — SAHEL EXPANSION"
+  },
+  {
+    "name": "Africa Corps — Central African Republic",
+    "country": "Central African Republic",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 4.36,
+    "lon": 18.56,
+    "status": "Wagner/Africa Corps present since 2018. Guards presidential compound, runs diamond/gold mines. Documented human rights abuses. ~1,000 personnel.",
+    "tag": "RUSSIA — RESOURCE EXTRACTION"
+  },
+  {
+    "name": "Africa Corps — Libya (East)",
+    "country": "Libya",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 27.05,
+    "lon": 14.43,
+    "status": "Wagner/Africa Corps supports Haftar's LNA. Based near Al Jufra and Brak al-Shati air bases. MiG-29s and Su-24s deployed. ~1,200 fighters.",
+    "tag": "RUSSIA — LIBYAN AIR/GROUND"
+  },
+  {
+    "name": "Africa Corps — Niger",
+    "country": "Niger",
+    "operator": "Russia",
+    "type": "army",
+    "lat": 13.51,
+    "lon": 2.11,
+    "status": "Deployed after 2023 coup that expelled French and US forces. Training junta military. Replaced US drone base at Agadez. Uranium access.",
+    "tag": "RUSSIA — REPLACED US IN SAHEL"
+  },
+  {
+    "name": "Nagurskoye Air Base (Arctic)",
+    "country": "Russia (Franz Josef Land)",
+    "operator": "Russia",
+    "type": "air",
+    "lat": 80.80,
+    "lon": 47.66,
+    "status": "Northernmost military base in the world. Renovated 'Arctic Trefoil' complex. MiG-31 interceptors. Guards Northern Sea Route and Arctic resources.",
+    "tag": "RUSSIA — ARCTIC FORTRESS"
+  },
+  {
     "name": "RAF Akrotiri",
     "country": "Cyprus",
     "operator": "UK",
@@ -350,6 +680,36 @@
     "tag": "UK — SOUTH ATLANTIC DEFENSE"
   },
   {
+    "name": "HMNB Clyde (Faslane)",
+    "country": "United Kingdom",
+    "operator": "UK",
+    "type": "naval",
+    "lat": 56.07,
+    "lon": -4.82,
+    "status": "Home of UK's Trident nuclear submarine fleet. All four Vanguard-class SSBNs based here. Britain's continuous at-sea nuclear deterrent.",
+    "tag": "UK — NUCLEAR DETERRENT HOME"
+  },
+  {
+    "name": "British Forces Brunei",
+    "country": "Brunei",
+    "operator": "UK",
+    "type": "army",
+    "lat": 4.93,
+    "lon": 114.95,
+    "status": "Gurkha battalion and jungle warfare training school. UK's only permanent military presence in Southeast Asia. ~2,000 personnel.",
+    "tag": "UK — SE ASIA PRESENCE"
+  },
+  {
+    "name": "BFC Duqm (Oman)",
+    "country": "Oman",
+    "operator": "UK",
+    "type": "naval",
+    "lat": 19.66,
+    "lon": 57.70,
+    "status": "Joint logistics base at Port of Duqm. Supports Royal Navy carrier strike group Indian Ocean deployments. Opened 2019. Alternative to Gulf bases.",
+    "tag": "UK — INDIAN OCEAN LOGISTICS"
+  },
+  {
     "name": "Forces Francaises a Djibouti",
     "country": "Djibouti",
     "operator": "France",
@@ -364,8 +724,8 @@
     "country": "United Arab Emirates",
     "operator": "France",
     "type": "joint",
-    "lat": 24.25,
-    "lon": 54.55,
+    "lat": 24.43,
+    "lon": 54.65,
     "status": "French naval and air base near Abu Dhabi, opened 2009. Rafale fighters, naval berths. ~650 personnel. France's Gulf presence.",
     "tag": "FRANCE — GULF POWER PROJECTION"
   },
@@ -410,6 +770,46 @@
     "tag": "FRANCE — SAHEL WITHDRAWAL"
   },
   {
+    "name": "French Forces Cote d'Ivoire",
+    "country": "Cote d'Ivoire",
+    "operator": "France",
+    "type": "army",
+    "lat": 5.31,
+    "lon": -4.01,
+    "status": "~900 French troops at Port-Bouet. Largest remaining French base in West Africa. Logistics and training hub. Drawdown planned by 2025.",
+    "tag": "FRANCE — WEST AFRICA ANCHOR"
+  },
+  {
+    "name": "French Forces Gabon",
+    "country": "Gabon",
+    "operator": "France",
+    "type": "army",
+    "lat": 0.39,
+    "lon": 9.45,
+    "status": "~350 French troops at Camp de Gaulle, Libreville. Pre-positioned equipment for Central Africa operations. Drawdown announced 2024.",
+    "tag": "FRANCE — CENTRAL AFRICA (CLOSING)"
+  },
+  {
+    "name": "FAZSOI (Mayotte)",
+    "country": "Mayotte (France)",
+    "operator": "France",
+    "type": "naval",
+    "lat": -12.78,
+    "lon": 45.23,
+    "status": "French naval detachment in Mozambique Channel. Patrols critical shipping lane between Madagascar and East Africa. Foreign Legion presence.",
+    "tag": "FRANCE — MOZAMBIQUE CHANNEL PATROL"
+  },
+  {
+    "name": "French Forces French Polynesia",
+    "country": "French Polynesia",
+    "operator": "France",
+    "type": "joint",
+    "lat": -17.53,
+    "lon": -149.57,
+    "status": "French military garrison covering vast Pacific EEZ. Maritime surveillance and sovereignty patrols. Former nuclear test infrastructure at Moruroa.",
+    "tag": "FRANCE — PACIFIC EEZ DEFENSE"
+  },
+  {
     "name": "Turkish Base Al-Tariq",
     "country": "Qatar",
     "operator": "Turkey",
@@ -450,6 +850,46 @@
     "tag": "TURKEY — CYPRUS OCCUPATION FORCE"
   },
   {
+    "name": "Turkish Observation Posts (Idlib)",
+    "country": "Syria",
+    "operator": "Turkey",
+    "type": "army",
+    "lat": 35.93,
+    "lon": 36.63,
+    "status": "Network of ~15 observation posts and bases across Idlib and northern Aleppo. Protects Turkish-backed opposition zone. ~10,000+ troops across northern Syria.",
+    "tag": "TURKEY — SYRIA OCCUPATION ZONE"
+  },
+  {
+    "name": "Turkish Base Al-Bab / Afrin",
+    "country": "Syria (northern)",
+    "operator": "Turkey",
+    "type": "army",
+    "lat": 36.37,
+    "lon": 37.15,
+    "status": "Turkish military presence across Euphrates Shield and Olive Branch operation zones. Controls ~4,000 sq km of northern Syria. Military and proxy forces.",
+    "tag": "TURKEY — SYRIA BUFFER ZONE"
+  },
+  {
+    "name": "Suakin Island Base (planned)",
+    "country": "Sudan",
+    "operator": "Turkey",
+    "type": "naval",
+    "lat": 19.10,
+    "lon": 37.33,
+    "status": "2017 agreement to rebuild Ottoman-era port and establish naval facility. Delayed by Sudan instability. Would give Turkey Red Sea access near Bab el-Mandeb.",
+    "tag": "TURKEY — RED SEA AMBITION"
+  },
+  {
+    "name": "Turkish Base (Azerbaijan/Nakhchivan)",
+    "country": "Azerbaijan",
+    "operator": "Turkey",
+    "type": "army",
+    "lat": 39.21,
+    "lon": 45.41,
+    "status": "Joint Turkish-Azerbaijani military facility. Enhanced after 2020 Karabakh war. Turkish F-16s deployed during conflict. Monitors Iran's northern border.",
+    "tag": "TURKEY — CAUCASUS FORWARD"
+  },
+  {
     "name": "INS Dweeprakshak (Agalega)",
     "country": "Mauritius",
     "operator": "India",
@@ -480,6 +920,46 @@
     "tag": "INDIA — WESTERN IO EXPANSION"
   },
   {
+    "name": "Farkhor Air Base",
+    "country": "Tajikistan",
+    "operator": "India",
+    "type": "air",
+    "lat": 37.47,
+    "lon": 69.39,
+    "status": "India's first overseas air base. Renovated Soviet-era facility. Provides strategic depth against Pakistan and monitors Afghanistan. Operated since 2002.",
+    "tag": "INDIA — CENTRAL ASIA AIR"
+  },
+  {
+    "name": "Duqm Port Access",
+    "country": "Oman",
+    "operator": "India",
+    "type": "naval",
+    "lat": 19.67,
+    "lon": 57.71,
+    "status": "Access agreement for Indian Navy at Port of Duqm. Dry dock for Indian warships. Covers western Indian Ocean and Gulf of Aden approaches.",
+    "tag": "INDIA — OMAN NAVAL ACCESS"
+  },
+  {
+    "name": "Changi Naval Base Access",
+    "country": "Singapore",
+    "operator": "India",
+    "type": "naval",
+    "lat": 1.33,
+    "lon": 103.98,
+    "status": "Bilateral logistics agreement. Indian Navy vessels regularly dock for resupply. Joint exercises. Eastern Indian Ocean chokepoint cooperation.",
+    "tag": "INDIA — SINGAPORE LOGISTICS"
+  },
+  {
+    "name": "INS Kadamba (Karwar)",
+    "country": "India",
+    "operator": "India",
+    "type": "naval",
+    "lat": 14.81,
+    "lon": 74.12,
+    "status": "India's largest naval base (Project Seabird). Nuclear submarine pen, aircraft carrier berth. Covers Arabian Sea and western Indian Ocean. Expanding to 2x current size.",
+    "tag": "INDIA — WESTERN FLEET MEGA-BASE"
+  },
+  {
     "name": "Israeli Intelligence Presence",
     "country": "Azerbaijan",
     "operator": "Israel",
@@ -498,5 +978,115 @@
     "lon": 44.06,
     "status": "Emerging Israeli security footprint following post-Dec 2025 recognition. Intelligence cooperation, potential naval access on Gulf of Aden.",
     "tag": "ISRAEL — RED SEA SOUTHERN GATE"
+  },
+  {
+    "name": "Ramon / Nevatim Air Bases",
+    "country": "Israel",
+    "operator": "Israel",
+    "type": "air",
+    "lat": 30.78,
+    "lon": 34.67,
+    "status": "Israel's primary F-35I Adir strike bases. Long-range strike capability covering Iran, Red Sea, and eastern Mediterranean. Underground hardened facilities.",
+    "tag": "ISRAEL — STRIKE COMMAND"
+  },
+  {
+    "name": "Haifa Naval Base",
+    "country": "Israel",
+    "operator": "Israel",
+    "type": "naval",
+    "lat": 32.82,
+    "lon": 35.00,
+    "status": "Israeli Navy HQ and submarine fleet base. Dolphin-class submarines with reported nuclear second-strike capability. Eastern Mediterranean dominance.",
+    "tag": "ISRAEL — SUBMARINE FLEET HQ"
+  },
+  {
+    "name": "NATO Aegis Ashore Deveselu",
+    "country": "Romania",
+    "operator": "NATO",
+    "type": "air",
+    "lat": 43.77,
+    "lon": 24.53,
+    "status": "US-operated NATO ballistic missile defense site. Aegis Ashore system with SM-3 interceptors. Russia considers this a primary security threat.",
+    "tag": "NATO — BLACK SEA BMD SHIELD"
+  },
+  {
+    "name": "NATO Aegis Ashore Redzikowo",
+    "country": "Poland",
+    "operator": "NATO",
+    "type": "air",
+    "lat": 54.48,
+    "lon": 17.10,
+    "status": "Operational 2024. SM-3 interceptors. Completes European BMD shield with Deveselu. Triggered Russian warnings of targeting with nuclear weapons.",
+    "tag": "NATO — NORTHERN BMD SHIELD"
+  },
+  {
+    "name": "NATO JFC Brunssum",
+    "country": "Netherlands",
+    "operator": "NATO",
+    "type": "joint",
+    "lat": 50.95,
+    "lon": 5.97,
+    "status": "NATO Joint Force Command responsible for northern Europe. Commands NATO's Very High Readiness Joint Task Force. Upgraded since 2014 Russia reset.",
+    "tag": "NATO — NORTHERN COMMAND"
+  },
+  {
+    "name": "NATO JFC Naples",
+    "country": "Italy",
+    "operator": "NATO",
+    "type": "joint",
+    "lat": 40.84,
+    "lon": 14.24,
+    "status": "NATO Joint Force Command responsible for southern Europe, Mediterranean, and Africa. Commands NATO's southern flank operations including maritime.",
+    "tag": "NATO — SOUTHERN COMMAND"
+  },
+  {
+    "name": "Tapa Military Base (NATO eFP)",
+    "country": "Estonia",
+    "operator": "NATO",
+    "type": "army",
+    "lat": 59.26,
+    "lon": 25.97,
+    "status": "UK-led NATO Enhanced Forward Presence battlegroup. ~1,200 troops from multiple NATO nations. Deterrence on Russia's Baltic border.",
+    "tag": "NATO — BALTIC DETERRENCE"
+  },
+  {
+    "name": "Adazi Military Base (NATO eFP)",
+    "country": "Latvia",
+    "operator": "NATO",
+    "type": "army",
+    "lat": 57.08,
+    "lon": 24.37,
+    "status": "Canada-led NATO eFP battlegroup. Scaling up to brigade-size. Multinational force deterring Russian aggression on NATO's eastern flank.",
+    "tag": "NATO — LATVIA SHIELD"
+  },
+  {
+    "name": "Orzysz Military Base (NATO eFP)",
+    "country": "Poland",
+    "operator": "NATO",
+    "type": "army",
+    "lat": 53.81,
+    "lon": 21.95,
+    "status": "US-led NATO eFP battlegroup near Suwalki Gap. Critical corridor between Kaliningrad and Belarus. Most vulnerable point on NATO's eastern flank.",
+    "tag": "NATO — SUWALKI GAP DEFENSE"
+  },
+  {
+    "name": "Steadfast Defender Forward HQ (NATO)",
+    "country": "Germany",
+    "operator": "NATO",
+    "type": "army",
+    "lat": 52.13,
+    "lon": 11.63,
+    "status": "New NATO forward command element at Magdeburg, activated 2024. Coordinates eastern flank defense. Part of NATO's largest restructuring since Cold War.",
+    "tag": "NATO — EASTERN FLANK COMMAND"
+  },
+  {
+    "name": "Aksaz Naval Base",
+    "country": "Turkey",
+    "operator": "NATO",
+    "type": "naval",
+    "lat": 36.97,
+    "lon": 27.95,
+    "status": "NATO Standing Naval Group Mediterranean home port. Turkish Navy base supporting Alliance Mediterranean operations and chokepoint control.",
+    "tag": "NATO — EAST MED NAVAL"
   }
 ]

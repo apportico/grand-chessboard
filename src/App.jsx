@@ -3,6 +3,7 @@ import { useGameState } from './hooks/useGameState'
 import Scoreboard from './components/Scoreboard'
 import MapPage from './components/MapPage'
 import MovesPage from './components/MovesPage'
+import LaborPage from './components/LaborPage'
 
 function App() {
   const { state, dispatch } = useGameState()
@@ -29,11 +30,9 @@ function App() {
         onReset={handleReset}
       />
 
-      {page === 'map' ? (
-        <MapPage state={state} />
-      ) : (
-        <MovesPage state={state} dispatch={dispatch} />
-      )}
+      {page === 'map' && <MapPage state={state} />}
+      {page === 'moves' && <MovesPage state={state} dispatch={dispatch} />}
+      {page === 'labor' && <LaborPage />}
     </div>
   )
 }

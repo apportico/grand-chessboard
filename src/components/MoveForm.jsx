@@ -12,6 +12,7 @@ const THEATER_OPTIONS = [
   'SOUTH_ASIA',
   'CAUCASUS',
   'HORN_AFRICA',
+  'INDO_PACIFIC',
 ];
 
 const emptyForm = {

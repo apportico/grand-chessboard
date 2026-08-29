@@ -8,6 +8,7 @@ const THEATER_COLORS = {
   SOUTH_ASIA: '#0d9488',
   CAUCASUS: '#d97706',
   HORN_AFRICA: '#ec4899',
+  INDO_PACIFIC: '#06b6d4',
 }
 
 const THEATERS = [
@@ -20,6 +21,7 @@ const THEATERS = [
   'SOUTH_ASIA',
   'CAUCASUS',
   'HORN_AFRICA',
+  'INDO_PACIFIC',
 ]
 
 const SIDE_OPTIONS = [

@@ -13,21 +13,33 @@ export const OPERATOR_COLORS = {
   NATO: '#3b82f6',
 };
 
-function makeDiamondIcon(color) {
+export const OPERATOR_FLAGS = {
+  US: '🇺🇸',
+  China: '🇨🇳',
+  Russia: '🇷🇺',
+  UK: '🇬🇧',
+  France: '🇫🇷',
+  Turkey: '🇹🇷',
+  India: '🇮🇳',
+  Israel: '🇮🇱',
+  NATO: '🏳️',
+};
+
+function makeFlagIcon(operator) {
+  const flag = OPERATOR_FLAGS[operator] || '📍';
   return L.divIcon({
     className: '',
-    iconSize: [14, 14],
-    iconAnchor: [7, 7],
-    popupAnchor: [0, -8],
-    html: `<svg width="14" height="14" viewBox="0 0 14 14">
-      <rect x="2" y="2" width="10" height="10" rx="1" transform="rotate(45 7 7)" fill="${color}" stroke="#ffffff" stroke-width="1.5"/>
-    </svg>`,
+    iconSize: [18, 18],
+    iconAnchor: [9, 9],
+    popupAnchor: [0, -10],
+    html: `<div style="font-size:16px;line-height:18px;text-align:center;filter:drop-shadow(0 1px 2px rgba(0,0,0,0.5))">${flag}</div>`,
   });
 }
 
 export default function MilitaryBaseMarker({ base }) {
   const color = OPERATOR_COLORS[base.operator] || '#868e96';
-  const icon = makeDiamondIcon(color);
+  const flag = OPERATOR_FLAGS[base.operator] || '📍';
+  const icon = makeFlagIcon(base.operator);
 
   return (
     <Marker position={[base.lat, base.lon]} icon={icon}>
