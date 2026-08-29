@@ -19,9 +19,14 @@ const MAP_CENTER = [25, 45];
 const MAP_ZOOM = 3;
 const MAP_MIN_ZOOM = 2;
 
-const BASE_TILE = 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png';
-const LABEL_TILE = 'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png';
-const ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>';
+// Esri's light gray canvas: free, no API key, and desaturated enough that the
+// corridors and markers carry the colour. CARTO's basemaps now require a key
+// and watermark every tile without one.
+const BASE_TILE =
+  'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+const LABEL_TILE =
+  'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}';
+const ATTRIBUTION = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>';
 
 export default function Map({
   ports, chokepoints, corridors, visibleCorridors,
